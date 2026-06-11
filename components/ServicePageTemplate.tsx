@@ -5,6 +5,7 @@ import PlaceholderImage from './PlaceholderImage'
 import SchemaOrg from './SchemaOrg'
 import { whatsappLink } from '@/lib/constants'
 import { serviceSchema } from '@/lib/schema'
+import type { GalleryImage } from '@/lib/galleryImages'
 
 export interface ServicePageData {
   slug: string
@@ -12,11 +13,13 @@ export interface ServicePageData {
   h1: string
   intro: string[]
   body: string[]
+  extraSection?: { title: string; text: string }
   included: string[]
   steps: { title: string; text: string }[]
   faqs: { question: string; answer: string }[]
-  testimonial: { name: string; role: string; text: string }
+  testimonial: { name: string; text: string }
   galleryAlts: string[]
+  galleryImages?: GalleryImage[]
 }
 
 export default function ServicePageTemplate({ data }: { data: ServicePageData }) {
@@ -53,6 +56,15 @@ export default function ServicePageTemplate({ data }: { data: ServicePageData })
           </a>
         </div>
       </section>
+
+      {data.extraSection && (
+        <section className="bg-bg py-4">
+          <div className="mx-auto max-w-4xl px-6">
+            <h2 className="mb-4 font-sans text-3xl font-bold">{data.extraSection.title}</h2>
+            <p className="text-textMuted">{data.extraSection.text}</p>
+          </div>
+        </section>
+      )}
 
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-4xl px-6">
@@ -97,9 +109,19 @@ export default function ServicePageTemplate({ data }: { data: ServicePageData })
             Galeria de <span className="gold-italic">{data.name}</span>
           </h2>
           <div className="grid grid-cols-2 gap-4 lg:grid-cols-4">
-            {data.galleryAlts.map((alt, i) => (
-              <PlaceholderImage key={i} alt={alt} aspect="aspect-square" className="w-full" />
-            ))}
+            {data.galleryImages
+              ? data.galleryImages.map((img, i) => (
+                  <img
+                    key={i}
+                    src={img.src}
+                    alt={img.alt}
+                    style={{ aspectRatio: `${img.width} / ${img.height}` }}
+                    className="w-full self-center rounded-lg object-cover"
+                  />
+                ))
+              : data.galleryAlts.map((alt, i) => (
+                  <PlaceholderImage key={i} alt={alt} aspect="aspect-square" className="w-full" />
+                ))}
           </div>
         </div>
       </section>
@@ -112,7 +134,6 @@ export default function ServicePageTemplate({ data }: { data: ServicePageData })
             </p>
             <p className="mb-4 text-textMuted">&ldquo;{data.testimonial.text}&rdquo;</p>
             <p className="font-bold text-white">{data.testimonial.name}</p>
-            <p className="text-sm text-textMuted">{data.testimonial.role}</p>
           </div>
         </div>
       </section>

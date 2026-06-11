@@ -1,10 +1,11 @@
 import { whatsappLink } from '@/lib/constants'
-import PlaceholderImage from './PlaceholderImage'
+import HeroPhoto from './HeroPhoto'
 
 const SERVICE_GRID = [
   ['Fotos de Turma', 'Colação de Grau', 'Colação Festiva'],
   ['9º Ano', '3º Médio', 'Ensaio Externo'],
   ['Álbum Digital', 'Baile de Gala', 'Reconhecimento Facial'],
+  ['Formatura Universitária'],
 ]
 
 export default function HeroSection() {
@@ -12,17 +13,13 @@ export default function HeroSection() {
     <section className="relative flex min-h-screen flex-col md:grid md:grid-cols-2 md:items-stretch">
       {/* Mobile image */}
       <div className="h-[45vh] w-full md:hidden">
-        <PlaceholderImage
-          alt="Fotografia de formatura escolar em São Paulo - Pixi Formaturas"
-          aspect="h-full"
-          className="h-full w-full"
-        />
+        <HeroPhoto />
       </div>
 
       {/* Content column */}
       <div className="flex flex-1 flex-col justify-center gap-6 px-6 py-10 md:px-16 md:py-0">
         <p className="eyebrow normal-case tracking-normal">
-          Fotógrafo de Formatura Escolar · São Paulo
+          Fotógrafo de Formatura Escolar e Universitária · São Paulo
         </p>
 
         <h1 className="font-sans text-4xl font-bold leading-tight text-white md:text-6xl">
@@ -34,9 +31,9 @@ export default function HeroSection() {
         </h1>
 
         <p className="rounded-lg border border-borderC bg-bgCard/50 p-4 text-textMuted">
-          Especialistas em fotografia de formatura escolar em São Paulo. Cobertura completa para
-          9º ano, 3º ano do Ensino Médio, colação de grau, fotos de turma, ensaio externo e álbum
-          digital em 30 dias. Atendemos todas as zonas da cidade.
+          Especialistas em fotografia de formatura escolar e universitária em São Paulo. Cobertura
+          completa para 9º ano, 3º ano do Ensino Médio, colação de grau universitária, fotos de
+          turma, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas da cidade.
         </p>
 
         <div className="grid grid-cols-3 gap-y-3 gap-x-2 py-2 text-center">
@@ -59,11 +56,7 @@ export default function HeroSection() {
 
       {/* Desktop image */}
       <div className="relative hidden md:block">
-        <PlaceholderImage
-          alt="Fotografia de formatura escolar em São Paulo - Pixi Formaturas"
-          aspect="h-full"
-          className="h-full w-full"
-        />
+        <HeroPhoto />
       </div>
 
       {/* Scroll chevron */}

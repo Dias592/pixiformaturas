@@ -19,7 +19,6 @@ export default function TestimonialsSection() {
               </p>
               <p className="mb-4 text-sm text-textMuted">&ldquo;{t.text}&rdquo;</p>
               <p className="text-sm font-bold text-white">{t.name}</p>
-              <p className="text-xs text-textMuted">{t.role}</p>
             </div>
           ))}
         </div>

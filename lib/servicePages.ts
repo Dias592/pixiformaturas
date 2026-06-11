@@ -1,4 +1,12 @@
 import type { ServicePageData } from '@/components/ServicePageTemplate'
+import {
+  BAILE_DE_GALA_IMAGES,
+  COLACAO_DE_GRAU_IMAGES,
+  ENSAIO_EXTERNO_IMAGES,
+  ESTUDIO_IMAGES,
+  FOTOS_DE_TURMA_IMAGES,
+  HOME_HERO_IMAGES,
+} from './galleryImages'
 
 export const SERVICE_PAGES: Record<string, ServicePageData> = {
   'fotos-de-turma': {
@@ -66,8 +74,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — EE Prof. Carlos Alberto',
-      role: '9º Ano · Zona Sul',
+      name: 'Comissão de Formatura — 9º Ano · Zona Sul',
       text: 'O ensaio de fotos de turma foi incrível! A equipe da Pixi conseguiu organizar todo mundo com muita paciência e as fotos ficaram lindas.',
     },
     galleryAlts: [
@@ -76,6 +83,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Fotos de turma em locação externa - São Paulo - Pixi Formaturas',
       'Fotos de turma em estúdio fotográfico - Pixi Formaturas',
     ],
+    galleryImages: FOTOS_DE_TURMA_IMAGES.slice(0, 4),
   },
 
   'colacao-de-grau': {
@@ -94,6 +102,10 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Toda a cobertura é realizada com equipamento profissional full-frame, adequado para ambientes com pouca luz e restrição de flash, garantindo fotos de alta qualidade mesmo em auditórios e igrejas com iluminação reduzida.',
       'Se a sua turma está se formando no Ensino Médio ou concluindo a graduação em São Paulo, conte com a Pixi Formaturas para registrar a colação de grau com a discrição e o profissionalismo que esse momento merece.',
     ],
+    extraSection: {
+      title: 'Colação de Grau Universitária em São Paulo',
+      text: 'Cobrimos cerimônias de colação de grau de faculdades e universidades em toda São Paulo e Grande SP. Jantar de gala, cerimônia oficial no palco, entrega de diploma e festa — registramos cada momento com discrição e qualidade.',
+    },
     included: [
       'Cobertura fotográfica completa da cerimônia oficial de colação de grau',
       'Registro de bastidores: preparação dos formandos com beca e capelo',
@@ -143,8 +155,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Universidade Anhembi Morumbi',
-      role: 'Colação de Grau · Centro',
+      name: 'Comissão de Formatura — Colação de Grau · Centro',
       text: 'Cobertura impecável da colação de grau. Fotos de altíssima qualidade e entrega rápida via galeria online com reconhecimento facial.',
     },
     galleryAlts: [
@@ -153,6 +164,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Bastidores de formandos com beca e capelo - Pixi Formaturas',
       'Colação de grau do Ensino Médio em São Paulo - Pixi Formaturas',
     ],
+    galleryImages: COLACAO_DE_GRAU_IMAGES.slice(0, 4),
   },
 
   'colacao-festiva': {
@@ -220,8 +232,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Colégio Santa Helena',
-      role: '3º Médio · Zona Oeste',
+      name: 'Comissão de Formatura — 3º Médio · Zona Oeste',
       text: 'Equipe super discreta durante a cerimônia e muito animada no baile. Conseguiram capturar exatamente o clima da nossa turma.',
     },
     galleryAlts: [
@@ -230,6 +241,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Festa de formatura na pista de dança - Pixi Formaturas',
       'Celebração de turma na colação festiva - Pixi Formaturas',
     ],
+    galleryImages: BAILE_DE_GALA_IMAGES.slice(0, 4),
   },
 
   'jantar-baile-de-gala': {
@@ -297,8 +309,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Escola Técnica Estadual',
-      role: 'Baile de Gala · Grande SP',
+      name: 'Comissão de Formatura — Baile de Gala · Grande SP',
       text: 'Vieram até Guarulhos com toda a estrutura. Registraram cada momento do baile com muita sensibilidade. Álbum maravilhoso!',
     },
     galleryAlts: [
@@ -307,6 +318,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Pista de dança no baile de gala - Pixi Formaturas',
       'Coreografia de turma no baile de formatura - Pixi Formaturas',
     ],
+    galleryImages: BAILE_DE_GALA_IMAGES.slice(11, 15),
   },
 
   'ensaio-personalizado': {
@@ -374,8 +386,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Colégio Objetivo',
-      role: 'Ensaio Externo · Zona Leste',
+      name: 'Comissão de Formatura — Ensaio Externo · Zona Leste',
       text: 'O ensaio externo foi incrível, a equipe escolheu um ótimo local e todo mundo amou as fotos. Super recomendo!',
     },
     galleryAlts: [
@@ -384,6 +395,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Ensaio criativo de turma em locação externa - Pixi Formaturas',
       'Ensaio fotográfico personalizado - São Paulo - Pixi Formaturas',
     ],
+    galleryImages: ENSAIO_EXTERNO_IMAGES.slice(0, 4),
   },
 
   'photo-day': {
@@ -451,8 +463,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Colégio Objetivo',
-      role: 'Photo Day · São Paulo',
+      name: 'Comissão de Formatura — Photo Day · São Paulo',
       text: 'O Photo Day foi perfeito! Conseguimos fotos em três cenários diferentes no mesmo dia, sem perder tempo. A organização da Pixi foi impecável.',
     },
     galleryAlts: [
@@ -461,6 +472,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Ensaio em estúdio durante Photo Day - Pixi Formaturas',
       'Fotos de turma ao ar livre durante Photo Day - Pixi Formaturas',
     ],
+    galleryImages: ESTUDIO_IMAGES.slice(0, 4),
   },
 
   'pre-eventos': {
@@ -528,8 +540,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — EE Dr. Armando de Salles Oliveira',
-      role: 'Pré-Eventos · Zona Norte',
+      name: 'Comissão de Formatura — Pré-Eventos · Zona Norte',
       text: 'Contratamos a Pixi para cobrir nosso chá de turma e ficou tão bom que decidimos fechar com eles para a formatura inteira!',
     },
     galleryAlts: [
@@ -538,6 +549,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Evento preparatório de formatura - Pixi Formaturas',
       'Pré-evento memorável de formatura escolar - Pixi Formaturas',
     ],
+    galleryImages: HOME_HERO_IMAGES.slice(0, 4),
   },
 
   'album-digital': {
@@ -610,8 +622,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — EE Prof. Carlos Alberto',
-      role: 'Álbum Digital · Zona Sul',
+      name: 'Comissão de Formatura — Álbum Digital · Zona Sul',
       text: 'A Pixi acompanhou cada etapa da nossa formatura com muito profissionalismo. As fotos ficaram lindas e o álbum digital chegou antes do prazo!',
     },
     galleryAlts: [
@@ -620,6 +631,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Reconhecimento facial em fotos de formatura - Pixi Formaturas',
       'Entrega de fotos de formatura online - Pixi Formaturas',
     ],
+    galleryImages: HOME_HERO_IMAGES.slice(4, 8),
   },
 
   'album-impresso': {
@@ -687,8 +699,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Colégio Santa Helena',
-      role: 'Álbum Impresso · Zona Oeste',
+      name: 'Comissão de Formatura — Álbum Impresso · Zona Oeste',
       text: 'O álbum impresso ficou maravilhoso, com um acabamento muito acima do esperado. Toda a turma adorou guardar essa lembrança física.',
     },
     galleryAlts: [
@@ -697,6 +708,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Páginas de álbum de formatura com fotos - Pixi Formaturas',
       'Álbum de formatura com acabamento premium - Pixi Formaturas',
     ],
+    galleryImages: HOME_HERO_IMAGES.slice(8, 12),
   },
 
   'identificacao-personalizada': {
@@ -764,8 +776,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Colégio Objetivo',
-      role: 'Identificação Personalizada · São Paulo',
+      name: 'Comissão de Formatura — Identificação Personalizada · São Paulo',
       text: 'Com tantas fotos de todos os eventos, o reconhecimento facial facilitou demais a vida da turma para encontrar as fotos de cada um.',
     },
     galleryAlts: [
@@ -774,6 +785,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Galeria individualizada de formatura - Pixi Formaturas',
       'Tecnologia de identificação em fotos de turma - Pixi Formaturas',
     ],
+    galleryImages: HOME_HERO_IMAGES.slice(12, 16),
   },
 
   'solucoes-digitais': {
@@ -841,8 +853,7 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Universidade Anhembi Morumbi',
-      role: 'Soluções Digitais · Centro',
+      name: 'Comissão de Formatura — Soluções Digitais · Centro',
       text: 'A plataforma digital facilitou muito a organização da entrega das fotos para uma turma grande. Tudo muito prático e bem resolvido.',
     },
     galleryAlts: [
@@ -851,5 +862,6 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Soluções digitais para entrega de fotos - Pixi Formaturas',
       'Acesso digital às fotos de formatura - Pixi Formaturas',
     ],
+    galleryImages: BAILE_DE_GALA_IMAGES.slice(4, 8),
   },
 }

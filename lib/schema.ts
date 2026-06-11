@@ -8,7 +8,7 @@ export const globalSchema = {
       '@id': `${BUSINESS.url}/#business`,
       name: BUSINESS.name,
       description:
-        'Especialistas em fotografia de formatura escolar em São Paulo desde 2015. Fotos de turma, colação de grau, ensaio externo, baile de gala e álbum digital.',
+        'Especialistas em fotografia de formatura escolar e universitária em São Paulo desde 2015. Fotos de turma, colação de grau, ensaio externo, baile de gala e álbum digital.',
       url: BUSINESS.url,
       logo: {
         '@type': 'ImageObject',
@@ -43,12 +43,6 @@ export const globalSchema = {
           dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
           opens: '09:00',
           closes: '18:00',
-        },
-        {
-          '@type': 'OpeningHoursSpecification',
-          dayOfWeek: 'Saturday',
-          opens: '09:00',
-          closes: '13:00',
         },
       ],
     },

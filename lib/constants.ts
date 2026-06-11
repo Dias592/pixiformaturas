@@ -1,9 +1,9 @@
 export const BUSINESS = {
   name: 'Pixi Formaturas',
-  slogan: 'Fotógrafo de Formatura Escolar · São Paulo',
+  slogan: 'Fotógrafo de Formatura Escolar e Universitária · São Paulo',
   headline: 'Sua turma merece Fotos que Emocionam para sempre',
   description:
-    'Especialistas em fotografia de formatura escolar em São Paulo desde 2015. Cobertura completa para 9º ano, 3º ano do Ensino Médio, colação de grau, fotos de turma, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas da cidade.',
+    'Especialistas em fotografia de formatura escolar e universitária em São Paulo desde 2015. Cobertura completa para 9º ano, 3º ano do Ensino Médio, colação de grau universitária, fotos de turma, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas da cidade.',
   url: 'https://www.pixiformaturas.com.br',
   whatsapp: '5511998964797',
   whatsappMsg:
@@ -166,8 +166,8 @@ export const DIFERENCIAIS = [
   {
     number: '01',
     icon: '🏆',
-    title: 'Especialistas em fotografia escolar',
-    text: 'Experiência exclusiva com colégios de São Paulo — do 9º ano ao Ensino Superior. Conhecemos cada detalhe do protocolo e da dinâmica de formaturas escolares.',
+    title: 'Especialistas em formatura escolar e universitária',
+    text: 'Experiência com colégios e faculdades de São Paulo — do 9º ano à colação de grau universitária. Conhecemos cada detalhe do protocolo e da dinâmica de formaturas escolares e universitárias.',
   },
   {
     number: '02',
@@ -322,33 +322,27 @@ export const ZONAS_SP = [
 
 export const TESTIMONIALS = [
   {
-    name: 'Comissão de Formatura — EE Prof. Carlos Alberto',
-    role: '9º Ano · Zona Sul',
+    name: 'Comissão de Formatura — 9º Ano · Zona Sul',
     text: 'A Pixi acompanhou cada etapa da nossa formatura com muito profissionalismo. As fotos ficaram lindas e o álbum digital chegou antes do prazo!',
   },
   {
-    name: 'Comissão de Formatura — Colégio Santa Helena',
-    role: '3º Médio · Zona Oeste',
+    name: 'Comissão de Formatura — 3º Médio · Zona Oeste',
     text: 'Equipe super discreta durante a cerimônia e muito animada no baile. Conseguiram capturar exatamente o clima da nossa turma.',
   },
   {
-    name: 'Comissão de Formatura — Universidade Anhembi Morumbi',
-    role: 'Colação de Grau · Centro',
+    name: 'Comissão de Formatura — Colação de Grau · Centro',
     text: 'Cobertura impecável da colação de grau. Fotos de altíssima qualidade e entrega rápida via galeria online com reconhecimento facial.',
   },
   {
-    name: 'Comissão de Formatura — EE Dr. Armando de Salles Oliveira',
-    role: '9º Ano · Zona Norte',
+    name: 'Comissão de Formatura — 9º Ano · Zona Norte',
     text: 'Recomendamos a Pixi para qualquer escola que queira um trabalho sério. Parcelamento facilitou muito para a turma toda.',
   },
   {
-    name: 'Comissão de Formatura — Colégio Objetivo',
-    role: 'Ensaio Externo · Zona Leste',
+    name: 'Comissão de Formatura — Ensaio Externo · Zona Leste',
     text: 'O ensaio externo foi incrível, a equipe escolheu um ótimo local e todo mundo amou as fotos. Super recomendo!',
   },
   {
-    name: 'Comissão de Formatura — Escola Técnica Estadual',
-    role: 'Baile de Gala · Grande SP',
+    name: 'Comissão de Formatura — Baile de Gala · Grande SP',
     text: 'Vieram até Guarulhos com toda a estrutura. Registraram cada momento do baile com muita sensibilidade. Álbum maravilhoso!',
   },
 ]

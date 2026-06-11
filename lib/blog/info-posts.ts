@@ -40,6 +40,10 @@ export const INFO_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Para formaturas universitárias, a lógica do orçamento é a mesma: o valor varia conforme o número de formandos, se a [colação de grau](/servicos/colacao-de-grau/) terá apenas a cerimônia oficial ou também jantar de gala e festa, e o formato de entrega das fotos. Faculdades costumam ter datas fixas de colação, então vale pedir o orçamento com antecedência para garantir a disponibilidade da equipe."
+      },
+      {
         "type": "h2",
         "text": "Tipos de cobertura e o que costuma estar incluso"
       },
@@ -196,7 +200,7 @@ export const INFO_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Fotografar uma cerimônia de [colação de grau](/servicos/colacao-de-grau/) exige discrição, conhecimento do protocolo e posicionamento estratégico para não atrapalhar a cerimônia. Já um [ensaio personalizado](/servicos/ensaio-personalizado/) externo pede outro tipo de experiência: produção de cenário, direção de poses e domínio de luz natural em locação."
+        "text": "Fotografar uma cerimônia de [colação de grau](/servicos/colacao-de-grau/) — seja do ensino médio ou de uma colação de grau universitária em faculdade — exige discrição, conhecimento do protocolo e posicionamento estratégico para não atrapalhar a cerimônia. Já um [ensaio personalizado](/servicos/ensaio-personalizado/) externo pede outro tipo de experiência: produção de cenário, direção de poses e domínio de luz natural em locação."
       },
       {
         "type": "p",
@@ -1849,6 +1853,10 @@ export const INFO_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Esse formato é bem diferente do que acontece em formaturas de Ensino Médio ou em uma [colação de grau universitária](/blog/fotografia-de-formatura-faculdade-e-universidade/), onde a cerimônia segue protocolo formal, com beca e capelo, e o foco é o registro solene da entrega do diploma. Na educação infantil, o registro é mais espontâneo e centrado na criança, sem cobrança de pose ou postura formal."
+      },
+      {
         "type": "h2",
         "text": "O dia da formatura: o que costuma acontecer"
       },
@@ -1985,6 +1993,10 @@ export const INFO_POSTS: BlogPost[] = [
           "Colação festiva ou baile de gala",
           "Jantar de gala com formandos e convidados"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Essa sequência é parecida com a de uma [formatura universitária](/blog/fotografia-de-formatura-faculdade-e-universidade/), mas com uma diferença importante: no Ensino Médio, a colação de grau costuma ser organizada pela própria escola, enquanto na faculdade ela segue o protocolo da instituição de ensino superior, geralmente em auditórios maiores e com cerimonial mais formal."
       },
       {
         "type": "h2",

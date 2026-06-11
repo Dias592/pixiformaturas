@@ -41,6 +41,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Ipiranga. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Ipiranga"
       },
@@ -163,6 +167,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Pré-Eventos](/servicos/pre-eventos/) como chá de formatura e encontros da turma",
           "[Álbum Digital](/servicos/album-digital/) com entrega em até 30 dias"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Saúde. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -289,6 +297,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Jabaquara. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Jabaquara"
       },
@@ -411,6 +423,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Álbum Impresso Personalizado](/servicos/album-impresso/) para a comissão e familiares",
           "[Álbum Digital](/servicos/album-digital/) com entrega em até 30 dias"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Santo Amaro. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -537,6 +553,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Vila Mariana. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Vila Mariana"
       },
@@ -659,6 +679,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da escola",
           "[Álbum Digital](/servicos/album-digital/) com entrega em até 30 dias"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Moema. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -785,6 +809,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos do Brooklin. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos no Brooklin"
       },
@@ -907,6 +935,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da escola",
           "[Álbum Digital](/servicos/album-digital/) com entrega em até 30 dias"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos do Campo Limpo. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -1033,6 +1065,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Santana. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Santana"
       },
@@ -1157,6 +1193,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Tucuruvi. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Tucuruvi"
       },
@@ -1278,6 +1318,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) para a turma posar à vontade",
           "[Álbum Digital](/servicos/album-digital/) com entrega rápida e galeria online"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Casa Verde. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -1404,6 +1448,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Pirituba. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Pirituba"
       },
@@ -1526,6 +1574,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Identificação Personalizada](/servicos/identificacao-personalizada/) com reconhecimento facial",
           "[Álbum Digital](/servicos/album-digital/) com entrega rápida e galeria online"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Mandaqui. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -1652,6 +1704,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Penha. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Penha"
       },
@@ -1774,6 +1830,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Álbum Impresso Personalizado](/servicos/album-impresso/) para quem deseja um material físico",
           "[Álbum Digital](/servicos/album-digital/) com galeria online e reconhecimento facial"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Mooca. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -1900,6 +1960,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Tatuapé. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Tatuapé"
       },
@@ -2022,6 +2086,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) dedicado à turma",
           "[Álbum Digital](/servicos/album-digital/) com galeria online e reconhecimento facial"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Vila Prudente. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -2148,6 +2216,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Itaquera. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Itaquera"
       },
@@ -2270,6 +2342,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Identificação Personalizada](/servicos/identificacao-personalizada/) com reconhecimento facial",
           "[Álbum Digital](/servicos/album-digital/) com galeria online e entrega rápida"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Sapopemba. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -2396,6 +2472,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos da Lapa. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos na Lapa"
       },
@@ -2518,6 +2598,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da própria escola",
           "Cobertura de [Pré-Eventos](/servicos/pre-eventos/), como chá de formatura e encontros da comissão"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Pinheiros. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -2652,6 +2736,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos do Butantã. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos no Butantã"
       },
@@ -2782,6 +2870,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da própria escola",
           "Cobertura de [Pré-Eventos](/servicos/pre-eventos/), como chá de formatura e encontros da comissão"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Perdizes. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -2916,6 +3008,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos do Itaim Bibi. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos no Itaim Bibi"
       },
@@ -3046,6 +3142,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da própria instituição",
           "Cobertura de [Pré-Eventos](/servicos/pre-eventos/), como chá de formatura e ensaios da comissão"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos da Sé. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -3180,6 +3280,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos da Liberdade. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos na Liberdade"
       },
@@ -3310,6 +3414,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da própria escola",
           "Cobertura de [Pré-Eventos](/servicos/pre-eventos/), como chá de formatura e ensaios da comissão"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Guarulhos. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",
@@ -3444,6 +3552,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Osasco. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Osasco"
       },
@@ -3576,6 +3688,10 @@ export const LOCAL_POSTS: BlogPost[] = [
         ]
       },
       {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de Santo André. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
+      },
+      {
         "type": "h2",
         "text": "Tipos de formatura escolar que atendemos em Santo André"
       },
@@ -3706,6 +3822,10 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da própria escola",
           "Cobertura de [Pré-Eventos](/servicos/pre-eventos/), como chá de formatura e ensaios da comissão"
         ]
+      },
+      {
+        "type": "p",
+        "text": "Além das formaturas escolares, a Pixi Formaturas também realiza cobertura fotográfica de colações de grau universitárias para formandos de São Bernardo do Campo. Atendemos cerimônias em faculdades e universidades de São Paulo e região com o mesmo padrão de qualidade e álbum digital em até 30 dias."
       },
       {
         "type": "h2",

@@ -22,11 +22,11 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.pixiformaturas.com.br'),
   title: {
-    default: 'Fotógrafo de Formatura Escolar em São Paulo | Pixi Formaturas',
+    default: 'Fotógrafo de Formatura Escolar e Universitária em São Paulo | Pixi Formaturas',
     template: '%s | Pixi Formaturas',
   },
   description:
-    'Pixi Formaturas: especialistas em fotografia de formatura escolar em São Paulo desde 2015. Fotos de turma, colação de grau, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas.',
+    'Pixi Formaturas: especialistas em fotografia de formatura escolar e universitária em São Paulo desde 2015. Fotos de turma, colação de grau, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas.',
   keywords: [
     'fotógrafo de formatura escolar São Paulo',
     'fotógrafo de formatura SP',
@@ -39,6 +39,10 @@ export const metadata: Metadata = {
     'baile de gala fotógrafo SP',
     'álbum digital formatura',
     'reconhecimento facial formatura',
+    'fotógrafo formatura universitária São Paulo',
+    'fotógrafo colação de grau faculdade SP',
+    'fotógrafo formatura faculdade São Paulo',
+    'formatura universitária fotógrafo SP',
     'Pixi Formaturas',
   ],
   authors: [{ name: 'Pixi Formaturas', url: 'https://www.pixiformaturas.com.br' }],

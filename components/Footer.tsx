@@ -79,7 +79,8 @@ export default function Footer() {
           <p className="mt-1">
             Fotógrafo de formatura SP · Fotos de turma · Colação de grau · 9º ano · 3º médio ·
             Ensaio externo formatura SP · Álbum digital · Baile de gala · Filmagem formatura SP ·
-            Zona Sul · Zona Norte · Zona Leste · Zona Oeste · Centro SP · Grande SP
+            Formatura universitária · Colação de grau faculdade SP · Zona Sul · Zona Norte · Zona
+            Leste · Zona Oeste · Centro SP · Grande SP
           </p>
         </div>
       </div>

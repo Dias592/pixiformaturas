@@ -11,7 +11,7 @@ import CTASection from '@/components/CTASection'
 import { HOME_FAQ } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Fotógrafo de Formatura Escolar em São Paulo',
+  title: 'Fotógrafo de Formatura Escolar e Universitária em São Paulo',
   description:
     'Pixi Formaturas: especialistas em fotografia de formatura escolar em SP desde 2015. Fotos de turma, colação de grau, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas. Solicite orçamento!',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/' },

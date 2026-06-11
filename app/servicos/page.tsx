@@ -6,7 +6,7 @@ import PlaceholderImage from '@/components/PlaceholderImage'
 import { SERVICES, whatsappLink } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Serviços de Fotografia de Formatura Escolar em SP',
+  title: 'Serviços de Fotografia de Formatura Escolar e Universitária em SP',
   description:
     'Conheça todos os serviços da Pixi Formaturas: fotos de turma, colação de grau, colação festiva, ensaio externo, baile de gala, álbum digital e reconhecimento facial. Orçamento sem compromisso.',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/' },
@@ -22,7 +22,7 @@ export default function ServicosPage() {
           <div className="mb-12 max-w-2xl">
             <p className="eyebrow mb-2">O Que Fazemos</p>
             <h1 className="font-sans text-4xl font-bold md:text-5xl">
-              Serviços de <span className="gold-italic">Fotografia de Formatura</span>
+              Serviços de <span className="gold-italic">Fotografia de Formatura Escolar e Universitária</span>
             </h1>
             <p className="mt-4 text-textMuted">
               Pacotes completos para fotografia profissional de formatura escolar e

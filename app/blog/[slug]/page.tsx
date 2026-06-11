@@ -5,7 +5,7 @@ import BlogContent from '@/components/BlogContent'
 import BlogCard from '@/components/BlogCard'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
-import PlaceholderImage from '@/components/PlaceholderImage'
+import BlogPhoto from '@/components/BlogPhoto'
 import SchemaOrg from '@/components/SchemaOrg'
 import { BLOG_POSTS, getPostBySlug, getRelatedPosts } from '@/lib/blogPosts'
 import { articleSchema } from '@/lib/schema'
@@ -61,8 +61,8 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
             })}
           </p>
 
-          <div className="mt-8">
-            <PlaceholderImage alt={post.coverAlt} aspect="aspect-[16/9]" className="w-full" />
+          <div className="mt-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed={`${post.slug}-cover`} alt={post.coverAlt} />
           </div>
 
           <div className="mt-8">

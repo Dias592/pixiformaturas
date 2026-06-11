@@ -73,7 +73,7 @@ export default function ContatoPage() {
                       @pixiformaturas
                     </a>
                   </li>
-                  <li>Atendimento: Segunda a sexta, 9h às 18h · Sábado, 9h às 13h</li>
+                  <li>Atendimento: Segunda a sexta, 9h às 18h</li>
                   <li>Atuação: São Paulo (todas as zonas) e Grande SP</li>
                 </ul>
               </div>

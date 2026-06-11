@@ -1,11 +1,11 @@
 import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
-import PlaceholderImage from '@/components/PlaceholderImage'
+import HeroPhoto from '@/components/HeroPhoto'
 import { whatsappLink } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Sobre a Pixi Formaturas | Especialistas em Fotografia Escolar desde 2015',
+  title: 'Sobre a Pixi Formaturas | Fotografia de Formatura Escolar e Universitária desde 2015',
   description:
     'Conheça a Pixi Formaturas: especializados em fotografia de formatura escolar em São Paulo desde 2015. Nossa missão é registrar o momento mais importante da vida escolar da sua turma.',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/sobre/' },
@@ -53,8 +53,8 @@ export default function SobrePage() {
               <p>
                 A Pixi Formaturas nasceu em 2015 com uma missão clara: ser a referência em
                 fotografia de formatura escolar em São Paulo. Desde o primeiro ano, nos
-                especializamos exclusivamente no universo das formaturas escolares — do 9º ano do
-                Ensino Fundamental às colações de grau universitárias.
+                especializamos no universo das formaturas escolares e universitárias — do 9º ano
+                do Ensino Fundamental às colações de grau de faculdade.
               </p>
               <p>
                 Ao longo de quase uma década, construímos parceria com dezenas de escolas
@@ -69,11 +69,9 @@ export default function SobrePage() {
             </a>
           </div>
 
-          <PlaceholderImage
-            alt="Equipe da Pixi Formaturas - fotografia de formatura escolar em São Paulo"
-            aspect="aspect-[4/5]"
-            className="w-full"
-          />
+          <div className="aspect-[4/5] w-full">
+            <HeroPhoto />
+          </div>
         </div>
       </section>
 
