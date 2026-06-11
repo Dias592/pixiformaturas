@@ -4,6 +4,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import BlogContent from '@/components/BlogContent'
 import BlogCard from '@/components/BlogCard'
 import CTASection from '@/components/CTASection'
+import FAQSection from '@/components/FAQSection'
 import PlaceholderImage from '@/components/PlaceholderImage'
 import SchemaOrg from '@/components/SchemaOrg'
 import { BLOG_POSTS, getPostBySlug, getRelatedPosts } from '@/lib/blogPosts'
@@ -69,6 +70,15 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
           </div>
         </div>
       </article>
+
+      {post.faq.length > 0 && (
+        <FAQSection
+          items={post.faq}
+          eyebrow="Tire suas dúvidas"
+          title="Perguntas frequentes"
+          highlight="sobre o tema"
+        />
+      )}
 
       {related.length > 0 && (
         <section className="bg-bgCard py-16">

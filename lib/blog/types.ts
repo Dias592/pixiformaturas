@@ -3,6 +3,13 @@ export type ContentBlock =
   | { type: 'h2'; text: string }
   | { type: 'h3'; text: string }
   | { type: 'ul'; items: string[] }
+  | { type: 'ol'; items: string[] }
+  | { type: 'table'; headers: string[]; rows: string[][] }
+
+export interface FaqItem {
+  question: string
+  answer: string
+}
 
 export interface BlogPost {
   slug: string
@@ -14,5 +21,6 @@ export interface BlogPost {
   excerpt: string
   coverAlt: string
   content: ContentBlock[]
+  faq: FaqItem[]
   relatedService: string
 }

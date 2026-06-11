@@ -1,4 +1,33 @@
+import Link from 'next/link'
 import type { ContentBlock } from '@/lib/blog/types'
+
+const LINK_PATTERN = /\[([^\]]+)\]\(([^)]+)\)/g
+
+function renderInline(text: string) {
+  const parts: (string | JSX.Element)[] = []
+  let lastIndex = 0
+  let match: RegExpExecArray | null
+  let key = 0
+
+  LINK_PATTERN.lastIndex = 0
+  while ((match = LINK_PATTERN.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index))
+    }
+    parts.push(
+      <Link key={key++} href={match[2]} className="text-gold underline-offset-2 hover:underline">
+        {match[1]}
+      </Link>
+    )
+    lastIndex = match.index + match[0].length
+  }
+
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex))
+  }
+
+  return parts.length > 0 ? parts : text
+}
 
 export default function BlogContent({ blocks }: { blocks: ContentBlock[] }) {
   return (
@@ -24,13 +53,55 @@ export default function BlogContent({ blocks }: { blocks: ContentBlock[] }) {
               {block.items.map((item, j) => (
                 <li key={j} className="flex items-start gap-3">
                   <span className="mt-1 text-gold">✓</span>
-                  {item}
+                  <span>{renderInline(item)}</span>
                 </li>
               ))}
             </ul>
           )
         }
-        return <p key={i}>{block.text}</p>
+        if (block.type === 'ol') {
+          return (
+            <ol key={i} className="space-y-3">
+              {block.items.map((item, j) => (
+                <li key={j} className="flex items-start gap-3">
+                  <span className="mt-0.5 flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-gold text-sm font-bold text-bg">
+                    {j + 1}
+                  </span>
+                  <span className="pt-0.5">{renderInline(item)}</span>
+                </li>
+              ))}
+            </ol>
+          )
+        }
+        if (block.type === 'table') {
+          return (
+            <div key={i} className="overflow-x-auto rounded-lg border border-borderC">
+              <table className="w-full text-left text-sm">
+                <thead>
+                  <tr className="bg-bgCard">
+                    {block.headers.map((h, j) => (
+                      <th key={j} className="px-4 py-3 font-sans font-bold text-white">
+                        {h}
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {block.rows.map((row, j) => (
+                    <tr key={j} className="border-t border-borderC">
+                      {row.map((cell, k) => (
+                        <td key={k} className="px-4 py-3">
+                          {renderInline(cell)}
+                        </td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )
+        }
+        return <p key={i}>{renderInline(block.text)}</p>
       })}
     </div>
   )
