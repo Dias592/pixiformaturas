@@ -40,6 +40,11 @@ export default function HeroPhoto({ className = '' }: HeroPhotoProps) {
       <img
         src={image.src}
         alt={image.alt}
+        width={image.width}
+        height={image.height}
+        fetchPriority="high"
+        loading="eager"
+        decoding="async"
         className={`h-full w-full object-contain transition-opacity duration-300 ${
           visible ? 'opacity-100' : 'opacity-0'
         }`}

@@ -18,6 +18,10 @@ export default function PortfolioGallery() {
               key={i}
               src={item.src}
               alt={item.alt}
+              width={item.width}
+              height={item.height}
+              loading="lazy"
+              decoding="async"
               style={{ aspectRatio: `${item.width} / ${item.height}` }}
               className="w-full break-inside-avoid rounded-lg object-cover"
             />

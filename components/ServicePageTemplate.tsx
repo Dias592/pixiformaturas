@@ -115,6 +115,10 @@ export default function ServicePageTemplate({ data }: { data: ServicePageData })
                     key={i}
                     src={img.src}
                     alt={img.alt}
+                    width={img.width}
+                    height={img.height}
+                    loading="lazy"
+                    decoding="async"
                     style={{ aspectRatio: `${img.width} / ${img.height}` }}
                     className="w-full self-center rounded-lg object-cover"
                   />
