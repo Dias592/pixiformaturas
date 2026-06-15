@@ -14,8 +14,6 @@ export default function HeroPhoto({ className = '' }: HeroPhotoProps) {
   const [visible, setVisible] = useState(true)
 
   useEffect(() => {
-    setIndex(Math.floor(Math.random() * HOME_HERO_IMAGES.length))
-
     const interval = setInterval(() => {
       setVisible(false)
       setTimeout(() => {

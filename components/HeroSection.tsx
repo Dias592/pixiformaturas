@@ -1,4 +1,5 @@
 import { whatsappLink } from '@/lib/constants'
+import { HOME_HERO_IMAGES } from '@/lib/galleryImages'
 import HeroPhoto from './HeroPhoto'
 
 const SERVICE_GRID = [
@@ -11,6 +12,12 @@ const SERVICE_GRID = [
 export default function HeroSection() {
   return (
     <section className="relative flex min-h-screen flex-col md:grid md:grid-cols-2 md:items-stretch">
+      <link
+        rel="preload"
+        as="image"
+        href={HOME_HERO_IMAGES[0].src}
+        fetchPriority="high"
+      />
       {/* Mobile image */}
       <div className="h-[45vh] w-full md:hidden">
         <HeroPhoto />
