@@ -34,5 +34,12 @@ export function getPostBySlug(slug: string): BlogPost | undefined {
 }
 
 export function getRelatedPosts(post: BlogPost, count = 3): BlogPost[] {
-  return BLOG_POSTS.filter((p) => p.slug !== post.slug && p.category === post.category).slice(0, count)
+  const inCategory = BLOG_POSTS.filter((p) => p.category === post.category)
+  const idx = inCategory.findIndex((p) => p.slug === post.slug)
+  if (idx === -1 || inCategory.length <= 1) return []
+  const results: BlogPost[] = []
+  for (let i = 1; results.length < count && i < inCategory.length; i++) {
+    results.push(inCategory[(idx + i) % inCategory.length])
+  }
+  return results
 }
