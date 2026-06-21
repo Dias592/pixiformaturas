@@ -47,6 +47,24 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="bg-bgCard py-16">
+        <div className="mx-auto max-w-7xl px-6">
+          <div className="grid grid-cols-2 gap-6 md:grid-cols-4">
+            {[
+              { value: '10+', label: 'Anos de experiência' },
+              { value: '500+', label: 'Turmas fotografadas' },
+              { value: '30', label: 'Dias para álbum digital' },
+              { value: '5.0 ★', label: 'Avaliação dos clientes' },
+            ].map((stat) => (
+              <div key={stat.label} className="text-center">
+                <p className="font-display text-3xl font-bold text-gold md:text-4xl">{stat.value}</p>
+                <p className="mt-1 text-sm text-textMuted">{stat.label}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <ServicesGrid />
       <DiferenciaisSection />
       <PortfolioGallery />
