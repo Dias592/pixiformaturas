@@ -1,10 +1,11 @@
+import type { ReactNode } from 'react'
 import Link from 'next/link'
 import type { ContentBlock } from '@/lib/blog/types'
 
 const LINK_PATTERN = /\[([^\]]+)\]\(([^)]+)\)/g
 
 function renderInline(text: string) {
-  const parts: (string | JSX.Element)[] = []
+  const parts: (string | ReactNode)[] = []
   let lastIndex = 0
   let match: RegExpExecArray | null
   let key = 0

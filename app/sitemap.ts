@@ -2,6 +2,8 @@ import type { MetadataRoute } from 'next'
 import { SERVICE_PAGES } from '@/lib/servicePages'
 import { BLOG_POSTS } from '@/lib/blogPosts'
 
+export const dynamic = 'force-static'
+
 const SITE_URL = 'https://www.pixiformaturas.com.br'
 
 // Date the main content was last meaningfully updated
