@@ -1,5 +1,0 @@
-RewriteEngine On
-
-# Redirect non-www to www (covers both HTTP and HTTPS)
-RewriteCond %{HTTP_HOST} ^pixiformaturas\.com\.br$ [NC]
-RewriteRule ^(.*)$ https://www.pixiformaturas.com.br/$1 [R=301,L]
