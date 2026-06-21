@@ -36,7 +36,7 @@ export const globalSchema = {
         { '@type': 'City', name: 'Diadema' },
         { '@type': 'City', name: 'Mogi das Cruzes' },
       ],
-      sameAs: [BUSINESS.instagram],
+      sameAs: [BUSINESS.instagram, 'https://www.facebook.com/pixiformaturas/'],
       openingHoursSpecification: [
         {
           '@type': 'OpeningHoursSpecification',
@@ -45,6 +45,33 @@ export const globalSchema = {
           closes: '18:00',
         },
       ],
+      priceRange: '$$',
+      numberOfEmployees: { '@type': 'QuantitativeValue', minValue: 5, maxValue: 15 },
+      knowsAbout: [
+        'Fotografia de formatura escolar',
+        'Fotografia de formatura universitária',
+        'Colação de grau',
+        'Baile de gala',
+        'Ensaio fotográfico externo',
+        'Álbum digital de formatura',
+        'Reconhecimento facial em fotos',
+      ],
+    },
+    {
+      '@type': 'Organization',
+      '@id': `${BUSINESS.url}/#organization`,
+      name: BUSINESS.name,
+      url: BUSINESS.url,
+      logo: { '@type': 'ImageObject', url: `${BUSINESS.url}${BUSINESS.logoUrl}` },
+      foundingDate: String(BUSINESS.foundingYear),
+      sameAs: [BUSINESS.instagram, 'https://www.facebook.com/pixiformaturas/'],
+      contactPoint: {
+        '@type': 'ContactPoint',
+        telephone: '+55-11-99896-4797',
+        contactType: 'sales',
+        areaServed: 'BR',
+        availableLanguage: 'Portuguese',
+      },
     },
     {
       '@type': 'WebSite',
