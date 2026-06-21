@@ -48,7 +48,26 @@ export default function Footer() {
           </address>
 
           <div>
-            <h3 className="mb-4 font-display text-lg font-bold">Outras Políticas</h3>
+            <h3 className="mb-4 font-display text-lg font-bold">Regiões Atendidas</h3>
+            <ul className="space-y-2 text-sm text-white/90">
+              <li>
+                <Link href="/formatura-sao-paulo/" className="hover:text-white hover:underline">
+                  Formatura em São Paulo
+                </Link>
+              </li>
+              <li>
+                <Link href="/formatura-grande-sp/" className="hover:text-white hover:underline">
+                  Formatura na Grande SP
+                </Link>
+              </li>
+              <li>
+                <Link href="/formatura-abc/" className="hover:text-white hover:underline">
+                  Formatura no ABC Paulista
+                </Link>
+              </li>
+            </ul>
+
+            <h3 className="mb-3 mt-6 font-display text-lg font-bold">Institucional</h3>
             <ul className="space-y-2 text-sm text-white/90">
               <li>
                 <Link href="/politica-de-privacidade/" className="hover:text-white hover:underline">
@@ -60,15 +79,7 @@ export default function Footer() {
                   Termos de Uso
                 </Link>
               </li>
-              <li>
-                <Link href="/aviso-direitos-autorais/" className="hover:text-white hover:underline">
-                  Aviso de Direitos Autorais
-                </Link>
-              </li>
             </ul>
-            <p className="mt-6 font-display text-2xl font-bold tracking-wide text-right">
-              PIXI<br />FORMATURAS
-            </p>
           </div>
         </div>
       </div>
