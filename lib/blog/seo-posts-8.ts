@@ -4,7 +4,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "ideias-ensaio-formatura-criativo-sp",
     "title": "Ideias de Ensaio de Formatura Criativo em SP: Conceitos que Vão Transformar Suas Fotos",
-    "metaTitle": "Ideias de Ensaio de Formatura Criativo SP | Pixi Formaturas",
+    "metaTitle": "Ideias de Ensaio de Formatura Criativo SP",
     "metaDescription": "Quer um ensaio de formatura criativo em SP que fuja do óbvio? Veja ideias de conceito, locações inusitadas e como a Pixi transforma visões em fotos.",
     "category": "Dicas",
     "date": "2026-01-17",
@@ -114,7 +114,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "como-escolher-traje-formatura-sp",
     "title": "Como Escolher o Traje de Formatura em SP: Guia de Looks para Ensaio e Cerimônia",
-    "metaTitle": "Como Escolher Traje de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Como Escolher Traje de Formatura SP",
     "metaDescription": "O traje de formatura influencia diretamente nas fotos. Veja como escolher vestido, terno ou look para ensaio externo, cerimônia e baile de gala em SP.",
     "category": "Dicas",
     "date": "2026-01-18",
@@ -218,7 +218,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "o-que-e-album-digital-de-formatura",
     "title": "O Que É Álbum Digital de Formatura? Guia Completo para Formandos e Famílias",
-    "metaTitle": "O Que É Álbum Digital de Formatura | Pixi Formaturas",
+    "metaTitle": "O Que É Álbum Digital de Formatura",
     "metaDescription": "Muita gente ainda não sabe o que é um álbum digital de formatura. Veja o que é, como funciona, como acessar e o que torna o da Pixi diferente.",
     "category": "Entrega e Tecnologia",
     "date": "2026-01-19",
@@ -322,7 +322,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "fotografo-formatura-ensino-medio-particular-sp",
     "title": "Fotógrafo de Formatura do Ensino Médio Particular em SP: Qualidade para Colégios Exigentes",
-    "metaTitle": "Fotógrafo de Formatura Ensino Médio Particular SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Ensino Médio Particular SP",
     "metaDescription": "Colégios particulares de SP têm altos padrões para a formatura. Veja como a Pixi Formaturas entrega cobertura de qualidade para o 3º ano.",
     "category": "Segmentos",
     "date": "2026-01-20",
@@ -426,7 +426,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "cobertura-fotografica-formatura-equipe-especializada",
     "title": "Cobertura Fotográfica de Formatura com Equipe Especializada: O Que Isso Significa na Prática",
-    "metaTitle": "Cobertura Fotográfica de Formatura com Equipe Especializada | Pixi Formaturas",
+    "metaTitle": "Cobertura Fotográfica de Formatura com Equipe Especializada",
     "metaDescription": "Ter uma equipe especializada na cobertura fotográfica de formatura faz diferença no resultado. Veja como a Pixi organiza sua equipe para cada evento.",
     "category": "Fotógrafo de Formatura",
     "date": "2026-01-21",
@@ -530,7 +530,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "fotos-formatura-rapidas-entrega-digital-sp",
     "title": "Fotos de Formatura com Entrega Digital Rápida em SP: Como a Pixi Entrega em 30 Dias",
-    "metaTitle": "Fotos de Formatura Entrega Digital Rápida SP | Pixi Formaturas",
+    "metaTitle": "Fotos de Formatura Entrega Digital Rápida SP",
     "metaDescription": "Turmas que se formam querem compartilhar as fotos logo. Veja como a Pixi garante entrega digital rápida sem comprometer a qualidade das imagens.",
     "category": "Entrega e Tecnologia",
     "date": "2026-01-22",
@@ -634,7 +634,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "fotografo-discreto-cerimonia-colacao-sp",
     "title": "Fotógrafo Discreto para Cerimônia de Colação em SP: Por Que o Silêncio é Diferencial",
-    "metaTitle": "Fotógrafo Discreto para Cerimônia de Colação SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo Discreto para Cerimônia de Colação SP",
     "metaDescription": "Na cerimônia de colação, um fotógrafo discreto faz toda a diferença. Veja como a Pixi atua com técnica e respeito ao protocolo formal.",
     "category": "Fotógrafo de Formatura",
     "date": "2026-01-23",
@@ -738,7 +738,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "ensaio-formatura-externo-parcelado-12x-sp",
     "title": "Ensaio de Formatura Externo em SP Parcelado em 12x: Como Funciona e O Que Inclui",
-    "metaTitle": "Ensaio de Formatura Externo Parcelado 12x SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura Externo Parcelado 12x SP",
     "metaDescription": "Fazer ensaio de formatura externo em SP com parcelamento em 12x é possível. Veja como funciona, quais são as condições e o que inclui o pacote.",
     "category": "Orçamento",
     "date": "2026-01-24",
@@ -842,7 +842,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "como-contratar-empresa-fotografia-formatura-sp",
     "title": "Como Contratar Empresa de Fotografia de Formatura em SP: Passo a Passo para Comissões",
-    "metaTitle": "Como Contratar Empresa de Fotografia de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Como Contratar Empresa de Fotografia de Formatura SP",
     "metaDescription": "Contratar empresa de fotografia de formatura em SP exige atenção. Siga este passo a passo e evite os erros mais comuns das comissões.",
     "category": "Guia da Comissão",
     "date": "2026-01-25",
@@ -946,7 +946,7 @@ export const SEO_POSTS_8: BlogPost[] = [
   {
     "slug": "ensaio-formatura-parque-ibirapuera-sp",
     "title": "Ensaio de Formatura no Parque Ibirapuera em SP: Dicas, Horários e O Que Esperar",
-    "metaTitle": "Ensaio de Formatura no Parque Ibirapuera SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura no Parque Ibirapuera SP",
     "metaDescription": "O Parque Ibirapuera é o cenário mais procurado para ensaio de formatura em SP. Veja como planejar, horários ideais e como a Pixi organiza tudo.",
     "category": "Fotógrafo de Formatura",
     "date": "2026-01-26",

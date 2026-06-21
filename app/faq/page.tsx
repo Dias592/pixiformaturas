@@ -5,7 +5,7 @@ import SchemaOrg from '@/components/SchemaOrg'
 import { faqSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Perguntas Frequentes sobre Fotografia de Formatura Escolar SP',
+  title: 'FAQ Fotografia de Formatura SP',
   description:
     'Tire todas as dúvidas sobre fotografia de formatura escolar com a Pixi Formaturas: preços, prazos, o que está incluso, como funciona e muito mais.',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/faq/' },

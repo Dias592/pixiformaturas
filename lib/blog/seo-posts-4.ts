@@ -4,7 +4,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "fotografo-formatura-beato",
     "title": "Ensaio de Formatura no Beato e Região: Locações, Logística e Como Contratar",
-    "metaTitle": "Fotógrafo de Formatura no Beato SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura no Beato SP",
     "metaDescription": "Região do Beato e Parque do Carmo são ótimas locações para ensaio de formatura em SP. Veja como a Pixi Formaturas atende essa região.",
     "category": "Fotógrafo por Região",
     "date": "2025-12-08",
@@ -116,7 +116,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "ensaio-formatura-2026",
     "title": "Ensaio de Formatura 2026 em SP: Planeje com Antecedência e Garanta a Melhor Data",
-    "metaTitle": "Ensaio de Formatura 2026 SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura 2026 SP",
     "metaDescription": "As datas para ensaio de formatura 2026 em SP estão se esgotando. Veja como planejar, o que reservar agora e o que esperar do processo.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-09",
@@ -224,7 +224,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "ensaios-medicos-formatura",
     "title": "Ensaios Médicos de Formatura em SP: Tradição e Emoção em Cada Detalhe",
-    "metaTitle": "Ensaios Médicos de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Ensaios Médicos de Formatura SP",
     "metaDescription": "Ensaios médicos de formatura têm identidade própria — jaleco, estetoscópio e cenários hospitalares. Veja como a Pixi captura tudo isso.",
     "category": "Segmentos",
     "date": "2025-12-10",
@@ -332,7 +332,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "album-colacao-grau",
     "title": "Álbum Digital de Colação de Grau: Como Funciona e Por Que é Indispensável",
-    "metaTitle": "Álbum Digital de Colação de Grau | Pixi Formaturas",
+    "metaTitle": "Álbum Digital de Colação de Grau",
     "metaDescription": "O álbum digital de colação de grau organiza todas as fotos da cerimônia por formando. Veja como funciona, o prazo e o que está incluso.",
     "category": "Entrega e Tecnologia",
     "date": "2025-12-11",
@@ -444,7 +444,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "formatura-sao-paulo-fotografia",
     "title": "Fotografia de Formatura em São Paulo: Como Escolher a Empresa Certa para Sua Turma",
-    "metaTitle": "Fotografia de Formatura em São Paulo | Pixi Formaturas",
+    "metaTitle": "Fotografia de Formatura em São Paulo",
     "metaDescription": "São Paulo tem centenas de fotógrafos de formatura. Veja como diferenciar os profissionais dos amadores e por que a Pixi Formaturas é a escolha certa.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-12",
@@ -552,7 +552,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "empresa-de-formatura-sp",
     "title": "Empresa de Formatura em SP: Como Escolher com Segurança para Sua Turma",
-    "metaTitle": "Empresa de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Empresa de Formatura SP",
     "metaDescription": "Contratar a empresa de formatura certa em SP faz toda a diferença. Veja o que avaliar, quais perguntas fazer e por que a Pixi é referência desde 2015.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-13",
@@ -660,7 +660,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "empresa-de-fotografia-de-formatura",
     "title": "Empresa de Fotografia de Formatura: O Que Diferencia as Melhores do Mercado",
-    "metaTitle": "Empresa de Fotografia de Formatura | Pixi Formaturas",
+    "metaTitle": "Empresa de Fotografia de Formatura",
     "metaDescription": "Escolher a empresa de fotografia de formatura certa vai além do preço. Veja os critérios que realmente importam e como a Pixi Formaturas se diferencia.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-14",
@@ -768,7 +768,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "colacao-de-grau",
     "title": "Colação de Grau: O Que É, Como Funciona e Como Registrar Esse Momento com Qualidade",
-    "metaTitle": "Colação de Grau: O Que É e Como Funciona | Pixi Formaturas",
+    "metaTitle": "Colação de Grau: O Que É e Como Funciona",
     "metaDescription": "A colação de grau é o ápice da vida acadêmica. Entenda o que acontece na cerimônia, o protocolo e como garantir fotos e vídeos inesquecíveis.",
     "category": "Guia da Comissão",
     "date": "2025-12-15",
@@ -876,7 +876,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "baile-de-formatura",
     "title": "Baile de Formatura: Como Registrar a Festa com Fotos que Vão Durar para Sempre",
-    "metaTitle": "Baile de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Baile de Formatura SP",
     "metaDescription": "O baile de formatura é a celebração do fim de ciclo. Veja como garantir fotos e vídeos incríveis da festa, do discurso à pista de dança.",
     "category": "Guia da Comissão",
     "date": "2025-12-16",
@@ -984,7 +984,7 @@ export const SEO_POSTS_4: BlogPost[] = [
   {
     "slug": "formatura-universitaria-sp",
     "title": "Formatura Universitária em SP: Guia Completo de Fotografia para Comissões",
-    "metaTitle": "Formatura Universitária SP | Pixi Formaturas",
+    "metaTitle": "Formatura Universitária SP",
     "metaDescription": "A formatura universitária em SP exige planejamento antecipado e fotógrafo experiente. Veja o guia completo da Pixi Formaturas para comissões.",
     "category": "Guia da Comissão",
     "date": "2025-12-17",

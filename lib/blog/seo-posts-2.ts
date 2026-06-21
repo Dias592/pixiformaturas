@@ -4,7 +4,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "fotografo-colacao-de-grau",
     "title": "Fotógrafo para Colação de Grau: O Que a Comissão Precisa Saber Antes de Contratar",
-    "metaTitle": "Fotógrafo para Colação de Grau | Pixi Formaturas",
+    "metaTitle": "Fotógrafo para Colação de Grau",
     "metaDescription": "Fotógrafo para colação de grau precisa entender protocolos formais. Veja o que exigir, como negociar e por que a Pixi Formaturas é a escolha certa.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-18",
@@ -116,7 +116,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "fotografo-colacao-grau-sp",
     "title": "Fotógrafo de Colação de Grau em SP: Como Garantir Cobertura Profissional da Cerimônia",
-    "metaTitle": "Fotógrafo de Colação de Grau SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Colação de Grau SP",
     "metaDescription": "Fotógrafo de colação de grau em SP com experiência em protocolos formais. Veja o que a Pixi Formaturas oferece para esse momento único.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-19",
@@ -228,7 +228,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "fotos-colacao-de-grau-sp",
     "title": "Fotos de Colação de Grau em SP: Como Garantir Imagens Perfeitas da Cerimônia",
-    "metaTitle": "Fotos de Colação de Grau SP | Pixi Formaturas",
+    "metaTitle": "Fotos de Colação de Grau SP",
     "metaDescription": "Fotos de colação de grau em SP que capturam cada emoção, do diploma à confraternização com a família. Galeria digital em 30 dias. Peça orçamento.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-20",
@@ -336,7 +336,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "ensaio-formatura-medicina-sp",
     "title": "Ensaio de Formatura de Medicina em SP: Tradição, Jaleco e Emoção em Cada Foto",
-    "metaTitle": "Ensaio de Formatura de Medicina SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura de Medicina SP",
     "metaDescription": "Ensaio de formatura de medicina em SP com jaleco, maquete anatômica e hospital escola. Veja como a Pixi Formaturas registra essa conquista única.",
     "category": "Segmentos",
     "date": "2025-11-21",
@@ -448,7 +448,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "fotos-formatura-medicina",
     "title": "Fotos de Formatura de Medicina: Como Registrar o Fim de 6 Anos de Dedicação",
-    "metaTitle": "Fotos de Formatura de Medicina | Pixi Formaturas",
+    "metaTitle": "Fotos de Formatura de Medicina",
     "metaDescription": "Fotos de formatura de medicina que traduzem 6 anos de dedicação, do jaleco ao diploma. Álbum digital com entrega por formando. Peça orçamento.",
     "category": "Segmentos",
     "date": "2025-11-22",
@@ -556,7 +556,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "ensaio-formatura-enfermagem",
     "title": "Ensaio de Formatura de Enfermagem em SP: Capturando a Essência do Cuidar",
-    "metaTitle": "Ensaio de Formatura de Enfermagem SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura de Enfermagem SP",
     "metaDescription": "Ensaio de formatura de enfermagem em SP valorizando jaleco, touca e identidade profissional. Veja como funciona o pacote da Pixi Formaturas.",
     "category": "Segmentos",
     "date": "2025-11-23",
@@ -664,7 +664,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "fotografa-formatura-usp",
     "title": "Fotógrafo de Formatura da USP: Experiência com as Maiores Cerimônias de SP",
-    "metaTitle": "Fotógrafo de Formatura da USP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura da USP",
     "metaDescription": "Fotógrafo de formatura da USP com experiência em grandes cerimônias. Veja como a Pixi Formaturas atende turmas da Universidade de São Paulo.",
     "category": "Segmentos",
     "date": "2025-11-24",
@@ -772,7 +772,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "fotografo-formatura-fapcom",
     "title": "Fotógrafo de Formatura da FAPCOM em SP: Cobertura Completa para Sua Turma",
-    "metaTitle": "Fotógrafo de Formatura FAPCOM | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura FAPCOM",
     "metaDescription": "Fotógrafo de formatura da FAPCOM em SP com ensaios criativos para turmas de comunicação. Veja como a Pixi Formaturas atende sua faculdade.",
     "category": "Segmentos",
     "date": "2025-11-25",
@@ -876,7 +876,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "ensaio-formatura-suzano",
     "title": "Ensaio de Formatura em Suzano: Fotógrafo Profissional para Sua Turma na Grande SP",
-    "metaTitle": "Ensaio de Formatura em Suzano | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura em Suzano",
     "metaDescription": "Fotógrafo de formatura em Suzano com ensaios externos, colação e álbum digital em 30 dias. A Pixi Formaturas atende toda a Grande São Paulo.",
     "category": "Fotógrafo por Região",
     "date": "2025-11-26",
@@ -980,7 +980,7 @@ export const SEO_POSTS_2: BlogPost[] = [
   {
     "slug": "fotos-formatura-individual",
     "title": "Fotos de Formatura Individual em SP: Por Que Ter Registro Exclusivo Vale a Pena",
-    "metaTitle": "Fotos de Formatura Individual SP | Pixi Formaturas",
+    "metaTitle": "Fotos de Formatura Individual SP",
     "metaDescription": "Fotos de formatura individual em SP criam memórias exclusivas além do ensaio de turma. Veja o que está incluso no pacote da Pixi Formaturas.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-27",

@@ -4,7 +4,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "ensaio-formatura-externo-sp",
     "title": "Ensaio Externo de Formatura em SP: As Melhores Locações para Fotos ao Ar Livre",
-    "metaTitle": "Ensaio Externo de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Ensaio Externo de Formatura SP",
     "metaDescription": "Ensaio externo de formatura em SP: veja as melhores locações ao ar livre, como planejar horário e luz, e o que fazer em caso de chuva.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-28",
@@ -116,7 +116,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "album-formatura-gratis",
     "title": "Álbum de Formatura Grátis: O Que Isso Significa e Como Funciona na Prática",
-    "metaTitle": "Álbum de Formatura Grátis | Pixi Formaturas",
+    "metaTitle": "Álbum de Formatura Grátis",
     "metaDescription": "Álbum de formatura grátis: entenda o que costuma estar incluso, o que pode estar escondido na proposta e como comparar com pacotes completos.",
     "category": "Orçamento",
     "date": "2025-11-29",
@@ -228,7 +228,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "pacote-formatura-fotografia",
     "title": "Pacotes de Fotografia para Formatura em SP: O Que Cada Um Inclui e Como Escolher",
-    "metaTitle": "Pacotes de Fotografia para Formatura SP | Pixi Formaturas",
+    "metaTitle": "Pacotes de Fotografia para Formatura SP",
     "metaDescription": "Compare os pacotes de fotografia de formatura em SP e entenda o que vale a pena contratar: ensaio, cerimônia, festa e álbum digital.",
     "category": "Orçamento",
     "date": "2025-11-30",
@@ -340,7 +340,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "ensaio-formatura-preco",
     "title": "Quanto Custa um Ensaio de Formatura em SP? Preços, Pacotes e O Que Inclui",
-    "metaTitle": "Ensaio de Formatura Preço SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura Preço SP",
     "metaDescription": "Descubra os valores praticados para ensaio de formatura em SP, o que está incluso em cada faixa de preço e como negociar e parcelar.",
     "category": "Orçamento",
     "date": "2025-12-01",
@@ -448,7 +448,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "fotografo-formatura-sp-preco",
     "title": "Fotógrafo de Formatura em SP: Quanto Custa e O Que Está Incluso no Preço",
-    "metaTitle": "Fotógrafo de Formatura SP Preço | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura SP Preço",
     "metaDescription": "Entenda o que define o preço de um fotógrafo de formatura em SP e como garantir qualidade sem pagar mais do que precisa. Veja os preços da Pixi para 2026.",
     "category": "Orçamento",
     "date": "2025-12-02",
@@ -556,7 +556,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "contratar-fotografo-formatura-sp",
     "title": "Como Contratar Fotógrafo de Formatura em SP: Passo a Passo para a Comissão",
-    "metaTitle": "Como Contratar Fotógrafo de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Como Contratar Fotógrafo de Formatura SP",
     "metaDescription": "Guia passo a passo para comissões de formatura em SP contratarem o fotógrafo certo, sem surpresas no contrato e com garantia de entrega.",
     "category": "Orçamento",
     "date": "2025-12-03",
@@ -665,7 +665,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "estudio-fotografia-formatura-sp",
     "title": "Estúdio de Fotografia de Formatura em SP: Quando Vale a Pena e Como Escolher",
-    "metaTitle": "Estúdio de Fotografia de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Estúdio de Fotografia de Formatura SP",
     "metaDescription": "Veja quando vale a pena optar por estúdio de fotografia de formatura em SP em vez de locações externas, e o que esperar do resultado.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-04",
@@ -773,7 +773,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "ensaio-formatura-com-familia",
     "title": "Ensaio de Formatura com Família em SP: Como Incluir Quem Você Ama nas Fotos",
-    "metaTitle": "Ensaio de Formatura com Família SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura com Família SP",
     "metaDescription": "Ensaio de formatura com família em SP: saiba como planejar, quem pode participar e como funciona a entrega digital das fotos em família.",
     "category": "Dicas",
     "date": "2025-12-05",
@@ -877,7 +877,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "fotos-de-turma",
     "title": "Fotos de Turma de Formatura: Como Organizar o Ensaio que Todo Mundo Vai Amar",
-    "metaTitle": "Fotos de Turma de Formatura | Pixi Formaturas",
+    "metaTitle": "Fotos de Turma de Formatura",
     "metaDescription": "Fotos de turma de formatura: veja como organizar o ensaio, alinhar looks e garantir que todos fiquem felizes com o resultado em São Paulo.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-06",
@@ -985,7 +985,7 @@ export const SEO_POSTS_3: BlogPost[] = [
   {
     "slug": "ensaio-pedagoga-formatura",
     "title": "Ensaio de Formatura de Pedagogia: Criatividade e Simbolismo para Quem Educa",
-    "metaTitle": "Ensaio de Formatura de Pedagogia | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura de Pedagogia",
     "metaDescription": "Ensaio de formatura de pedagogia com lousa, livros e elementos simbólicos. Veja como criar um ensaio autêntico para sua turma em SP.",
     "category": "Segmentos",
     "date": "2025-12-07",

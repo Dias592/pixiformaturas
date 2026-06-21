@@ -4,7 +4,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "album-digital-de-formatura",
     "title": "Álbum Digital de Formatura: O Que É, Como Funciona e Por Que É Melhor que o Impresso",
-    "metaTitle": "Álbum Digital de Formatura | Pixi Formaturas",
+    "metaTitle": "Álbum Digital de Formatura",
     "metaDescription": "O álbum digital de formatura mudou a forma de guardar memórias. Veja como funciona, quais os formatos disponíveis e o que a Pixi entrega em 30 dias.",
     "category": "Entrega e Tecnologia",
     "date": "2025-12-18",
@@ -112,7 +112,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "ensaio-externo-formatura",
     "title": "Ensaio Externo de Formatura: Por Que as Melhores Fotos Acontecem ao Ar Livre",
-    "metaTitle": "Ensaio Externo de Formatura | Pixi Formaturas",
+    "metaTitle": "Ensaio Externo de Formatura",
     "metaDescription": "O ensaio externo de formatura aproveita luz natural e cenários incríveis. Veja por que é o favorito das turmas e como planejar o seu.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-19",
@@ -224,7 +224,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "orcamento-formatura-sp",
     "title": "Como Pedir Orçamento de Formatura em SP: O Que Comparar para Fazer a Melhor Escolha",
-    "metaTitle": "Orçamento de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Orçamento de Formatura SP",
     "metaDescription": "Solicitar orçamento de formatura em SP é o primeiro passo. Saiba o que comparar, o que pedir de cada empresa e como a Pixi apresenta sua proposta.",
     "category": "Orçamento",
     "date": "2025-12-20",
@@ -332,7 +332,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "empresa-de-formatura-orcamento",
     "title": "Orçamento de Empresa de Formatura: Como Pedir, O Que Avaliar e Como Decidir",
-    "metaTitle": "Orçamento de Empresa de Formatura | Pixi Formaturas",
+    "metaTitle": "Orçamento de Empresa de Formatura",
     "metaDescription": "Pedir orçamento para empresa de formatura vai além do preço. Veja o que avaliar, quais perguntas fazer e como comparar propostas em SP.",
     "category": "Orçamento",
     "date": "2025-12-21",
@@ -440,7 +440,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "fotografo-baile-de-gala",
     "title": "Fotógrafo de Baile de Gala: Como Capturar a Elegância e Emoção da Festa",
-    "metaTitle": "Fotógrafo de Baile de Gala | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Baile de Gala",
     "metaDescription": "O baile de gala é a maior celebração da formatura. Veja como o fotógrafo certo captura elegância, emoção e os momentos mais especiais da noite.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-22",
@@ -544,7 +544,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "baile-de-gala-formatura",
     "title": "Baile de Gala de Formatura em SP: Guia de Fotografia para uma Noite Inesquecível",
-    "metaTitle": "Baile de Gala de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Baile de Gala de Formatura SP",
     "metaDescription": "O baile de gala de formatura é o ponto alto da celebração. Veja como garantir fotos que capturam toda a elegância e emoção da noite.",
     "category": "Guia da Comissão",
     "date": "2025-12-23",
@@ -652,7 +652,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "foto-formatura-sp-preco",
     "title": "Preço de Foto de Formatura em SP: Quanto Custa e O Que Você Está Pagando",
-    "metaTitle": "Preço de Foto de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Preço de Foto de Formatura SP",
     "metaDescription": "Os preços de foto de formatura em SP variam muito. Entenda o que define o valor, o que está incluso e como não ser surpreendido por cobranças extras.",
     "category": "Orçamento",
     "date": "2025-12-24",
@@ -760,7 +760,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "colacao-de-grau-faculdade-sp",
     "title": "Colação de Grau de Faculdade em SP: Como Planejar a Fotografia da Cerimônia",
-    "metaTitle": "Colação de Grau de Faculdade SP | Pixi Formaturas",
+    "metaTitle": "Colação de Grau de Faculdade SP",
     "metaDescription": "A colação de grau de faculdade em SP exige fotógrafo com experiência em cerimônias formais. Veja como planejar e garantir o melhor registro.",
     "category": "Guia da Comissão",
     "date": "2025-12-25",
@@ -868,7 +868,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "photo-day-formatura",
     "title": "Photo Day de Formatura: O Que É e Como Organizar para Toda a Turma Participar",
-    "metaTitle": "Photo Day de Formatura | Pixi Formaturas",
+    "metaTitle": "Photo Day de Formatura",
     "metaDescription": "O photo day de formatura é a sessão de fotos individuais de cada aluno. Veja como funciona, o que inclui e como a Pixi organiza esse momento.",
     "category": "Segmentos",
     "date": "2025-12-26",
@@ -972,7 +972,7 @@ export const SEO_POSTS_5: BlogPost[] = [
   {
     "slug": "ensaio-personalizado-formatura",
     "title": "Ensaio Personalizado de Formatura: Como Criar Fotos que Contam a Sua História",
-    "metaTitle": "Ensaio Personalizado de Formatura | Pixi Formaturas",
+    "metaTitle": "Ensaio Personalizado de Formatura",
     "metaDescription": "O ensaio personalizado de formatura vai além das poses tradicionais. Veja como criar fotos com conceito, identidade e significado único.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-27",

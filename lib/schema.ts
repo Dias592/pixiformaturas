@@ -112,8 +112,12 @@ export function articleSchema(opts: {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: opts.headline,
+    image: `${BUSINESS.url}${BUSINESS.ogImage}`,
     author: { '@id': `${BUSINESS.url}/#business` },
-    publisher: { '@id': `${BUSINESS.url}/#business` },
+    publisher: {
+      '@id': `${BUSINESS.url}/#business`,
+      logo: { '@type': 'ImageObject', url: `${BUSINESS.url}${BUSINESS.logoUrl}` },
+    },
     datePublished: opts.datePublished,
     dateModified: opts.dateModified,
     mainEntityOfPage: { '@type': 'WebPage', '@id': opts.url },

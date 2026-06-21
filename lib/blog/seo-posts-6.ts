@@ -4,7 +4,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "formatura-9-ano-sp",
     "title": "Formatura do 9º Ano em SP: Fotografia Completa para Esse Marco do Ensino Fundamental",
-    "metaTitle": "Formatura do 9º Ano SP | Pixi Formaturas",
+    "metaTitle": "Formatura do 9º Ano SP",
     "metaDescription": "A formatura do 9º ano em SP é um momento especial. Veja como a Pixi Formaturas registra ensaio de turma, cerimônia e álbum digital para escolas.",
     "category": "Segmentos",
     "date": "2025-12-28",
@@ -112,7 +112,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "formatura-ensino-medio-sp",
     "title": "Formatura do Ensino Médio em SP: Como Tornar Esse Momento Inesquecível com Fotos",
-    "metaTitle": "Formatura do Ensino Médio SP | Pixi Formaturas",
+    "metaTitle": "Formatura do Ensino Médio SP",
     "metaDescription": "A formatura do 3º ano do ensino médio é um divisor de águas. Veja como a Pixi Formaturas cobre esse momento com qualidade e emoção.",
     "category": "Segmentos",
     "date": "2025-12-29",
@@ -220,7 +220,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "ensaio-formatura-campus",
     "title": "Ensaio de Formatura no Campus: Como Usar a Própria Universidade Como Cenário",
-    "metaTitle": "Ensaio de Formatura no Campus | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura no Campus",
     "metaDescription": "Fazer o ensaio de formatura no campus da faculdade é uma homenagem à trajetória. Veja como planejar e o que é preciso para acontecer.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-30",
@@ -332,7 +332,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "fotos-formatura-universitaria",
     "title": "Fotos de Formatura Universitária em SP: Do Ensaio à Colação com Qualidade Total",
-    "metaTitle": "Fotos de Formatura Universitária SP | Pixi Formaturas",
+    "metaTitle": "Fotos de Formatura Universitária SP",
     "metaDescription": "A formatura universitária tem etapas únicas. Veja como garantir cobertura fotográfica completa, do ensaio ao baile, com entrega em 30 dias.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-12-31",
@@ -440,7 +440,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "album-digital-formatura-entrega",
     "title": "Entrega do Álbum Digital de Formatura: Prazo, Formato e O Que Esperar",
-    "metaTitle": "Entrega do Álbum Digital de Formatura | Pixi Formaturas",
+    "metaTitle": "Entrega do Álbum Digital de Formatura",
     "metaDescription": "Quando e como você recebe o álbum digital de formatura? Veja os prazos praticados no mercado e como a Pixi entrega em até 30 dias.",
     "category": "Entrega e Tecnologia",
     "date": "2026-01-01",
@@ -548,7 +548,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "como-escolher-fotografo-formatura",
     "title": "Como Escolher o Fotógrafo de Formatura Certo: Guia Definitivo para Comissões",
-    "metaTitle": "Como Escolher Fotógrafo de Formatura | Pixi Formaturas",
+    "metaTitle": "Como Escolher Fotógrafo de Formatura",
     "metaDescription": "Escolher o fotógrafo de formatura errado pode arruinar memórias que deveriam durar para sempre. Use este guia para tomar a decisão certa.",
     "category": "Guia da Comissão",
     "date": "2026-01-02",
@@ -657,7 +657,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "fotografo-de-formatura-campus",
     "title": "Fotógrafo de Formatura no Campus: Como Criar Ensaio com a Identidade da Faculdade",
-    "metaTitle": "Fotógrafo de Formatura no Campus | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura no Campus",
     "metaDescription": "O campus universitário é o melhor cenário para resgatar a memória acadêmica. Veja como a Pixi organiza ensaios no campus das faculdades de SP.",
     "category": "Fotógrafo de Formatura",
     "date": "2026-01-03",
@@ -769,7 +769,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "vantagens-ensaio-formatura-sp",
     "title": "Vantagens do Ensaio de Formatura: Por Que Vale Muito Mais Do Que Você Imagina",
-    "metaTitle": "Vantagens do Ensaio de Formatura | Pixi Formaturas",
+    "metaTitle": "Vantagens do Ensaio de Formatura",
     "metaDescription": "Muita gente questiona se o ensaio de formatura é necessário. Veja todos os motivos pelos quais esse momento é indispensável para qualquer turma.",
     "category": "Dicas",
     "date": "2026-01-04",
@@ -878,7 +878,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "dicas-ensaio-formatura-criativo",
     "title": "Dicas de Ensaio de Formatura Criativo: Ideias que Vão Tornar Suas Fotos Únicas",
-    "metaTitle": "Ensaio de Formatura Criativo | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura Criativo",
     "metaDescription": "Cansado das poses tradicionais? Veja dicas de ensaio de formatura criativo que vão surpreender sua turma e produzir fotos que ninguém vai esquecer.",
     "category": "Dicas",
     "date": "2026-01-05",
@@ -987,7 +987,7 @@ export const SEO_POSTS_6: BlogPost[] = [
   {
     "slug": "fotos-formatura-com-familia-sp",
     "title": "Fotos de Formatura com a Família em SP: Como Criar Registros que Emocionam Gerações",
-    "metaTitle": "Fotos de Formatura com a Família SP | Pixi Formaturas",
+    "metaTitle": "Fotos de Formatura com a Família SP",
     "metaDescription": "As fotos de formatura com a família são as mais emocionantes do álbum. Veja como planejar e garantir registros que vão durar para sempre.",
     "category": "Dicas",
     "date": "2026-01-06",

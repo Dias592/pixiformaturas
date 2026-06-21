@@ -4,7 +4,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "reconhecimento-facial-fotos-formatura",
     "title": "Reconhecimento Facial nas Fotos de Formatura: O Que É e Como Facilita Tudo",
-    "metaTitle": "Reconhecimento Facial em Fotos de Formatura | Pixi Formaturas",
+    "metaTitle": "Reconhecimento Facial em Fotos de Formatura",
     "metaDescription": "O reconhecimento facial nas fotos de formatura é uma tecnologia que organiza automaticamente as imagens por aluno. Veja como funciona na prática.",
     "category": "Entrega e Tecnologia",
     "date": "2026-01-07",
@@ -112,7 +112,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "fotografo-formatura-universitaria-entrega-rapida-sp",
     "title": "Fotógrafo de Formatura Universitária com Entrega Rápida em SP: Álbum em 30 Dias",
-    "metaTitle": "Fotógrafo de Formatura Entrega Rápida SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Entrega Rápida SP",
     "metaDescription": "Precisa de fotógrafo de formatura universitária em SP com entrega garantida em 30 dias? A Pixi Formaturas entrega álbum digital completo nesse prazo.",
     "category": "Entrega e Tecnologia",
     "date": "2026-01-08",
@@ -216,7 +216,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "album-digital-formatura-reconhecimento-facial",
     "title": "Álbum Digital de Formatura com Reconhecimento Facial: Como Cada Aluno Encontra Suas Fotos",
-    "metaTitle": "Álbum Digital com Reconhecimento Facial | Pixi Formaturas",
+    "metaTitle": "Álbum Digital com Reconhecimento Facial",
     "metaDescription": "O álbum digital de formatura com reconhecimento facial é a forma mais eficiente de distribuir fotos para centenas de formandos. Veja como funciona.",
     "category": "Entrega e Tecnologia",
     "date": "2026-01-09",
@@ -321,7 +321,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "empresa-de-formatura-que-parcela-em-12x",
     "title": "Empresa de Formatura que Parcela em até 12x: Como Funciona e O Que Cobrir no Contrato",
-    "metaTitle": "Empresa de Formatura Parcela em 12x | Pixi Formaturas",
+    "metaTitle": "Empresa de Formatura Parcela em 12x",
     "metaDescription": "Parcelar a formatura em 12x facilita para toda a turma. Veja como funciona, o que verificar no contrato e como a Pixi Formaturas oferece esse benefício.",
     "category": "Orçamento",
     "date": "2026-01-10",
@@ -425,7 +425,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "fotografo-formatura-universitaria-zona-sul-sp",
     "title": "Fotógrafo de Formatura Universitária na Zona Sul de SP: Coberturas Completas para Sua Turma",
-    "metaTitle": "Fotógrafo de Formatura Zona Sul SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Zona Sul SP",
     "metaDescription": "Turma de faculdade na Zona Sul de SP? A Pixi Formaturas atende toda a região com ensaio, cerimônia, baile e álbum digital em 30 dias.",
     "category": "Fotógrafo por Região",
     "date": "2026-01-11",
@@ -529,7 +529,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "ensaio-externo-formatura-parque-sp",
     "title": "Ensaio Externo de Formatura em Parque de SP: As Melhores Opções e Como Planejar",
-    "metaTitle": "Ensaio de Formatura em Parque SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura em Parque SP",
     "metaDescription": "Os parques de São Paulo oferecem cenários incríveis para ensaio externo de formatura. Veja os melhores, como usar e o que precisa de autorização.",
     "category": "Fotógrafo de Formatura",
     "date": "2026-01-12",
@@ -637,7 +637,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "album-digital-formatura-entrega-30-dias",
     "title": "Álbum Digital de Formatura com Entrega em 30 Dias: Por Que o Prazo Importa Tanto",
-    "metaTitle": "Álbum Digital de Formatura em 30 Dias | Pixi Formaturas",
+    "metaTitle": "Álbum Digital de Formatura em 30 Dias",
     "metaDescription": "Receber o álbum digital em 30 dias significa compartilhar as fotos enquanto a emoção ainda está fresca. Veja como a Pixi garante esse prazo.",
     "category": "Entrega e Tecnologia",
     "date": "2026-01-13",
@@ -741,7 +741,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "como-organizar-baile-formatura-com-buffet",
     "title": "Como Organizar Baile de Formatura com Buffet Incluso: Guia Completo para Comissões",
-    "metaTitle": "Como Organizar Baile de Formatura com Buffet | Pixi Formaturas",
+    "metaTitle": "Como Organizar Baile de Formatura com Buffet",
     "metaDescription": "Organizar um baile de formatura com buffet incluso exige planejamento. Veja o passo a passo para a comissão criar uma festa inesquecível.",
     "category": "Guia da Comissão",
     "date": "2026-01-14",
@@ -850,7 +850,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "ensaio-formatura-universitaria-parque-zona-sul-sp",
     "title": "Ensaio de Formatura em Parque na Zona Sul de SP: Locações, Dicas e Como Planejar",
-    "metaTitle": "Ensaio de Formatura em Parque Zona Sul SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura em Parque Zona Sul SP",
     "metaDescription": "A Zona Sul de SP tem parques incríveis para ensaio de formatura universitária. Veja as melhores opções, horários e como a Pixi organiza tudo.",
     "category": "Fotógrafo por Região",
     "date": "2026-01-15",
@@ -954,7 +954,7 @@ export const SEO_POSTS_7: BlogPost[] = [
   {
     "slug": "perguntas-antes-contratar-fotografo-formatura",
     "title": "15 Perguntas que Toda Comissão Deve Fazer Antes de Contratar o Fotógrafo de Formatura",
-    "metaTitle": "Perguntas Antes de Contratar Fotógrafo de Formatura | Pixi Formaturas",
+    "metaTitle": "Perguntas Antes de Contratar Fotógrafo de Formatura",
     "metaDescription": "Antes de assinar qualquer contrato de fotografia de formatura, faça essas 15 perguntas. Elas vão proteger sua turma e garantir o melhor resultado.",
     "category": "Guia da Comissão",
     "date": "2026-01-16",

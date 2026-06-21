@@ -5,9 +5,9 @@ import ContactForm from '@/components/ContactForm'
 import { BUSINESS, whatsappLink } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Orçamento de Fotografia de Formatura Escolar SP',
+  title: 'Orçamento Fotografia Formatura SP',
   description:
-    'Solicite orçamento de fotografia de formatura escolar com a Pixi Formaturas em São Paulo. Atendemos escolas públicas e particulares em todas as zonas. WhatsApp com resposta rápida.',
+    'Solicite orçamento de fotografia de formatura escolar com a Pixi Formaturas em SP. Atendemos escolas públicas e particulares. WhatsApp rápido.',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/contato/' },
 }
 

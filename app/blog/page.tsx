@@ -5,9 +5,9 @@ import CTASection from '@/components/CTASection'
 import { BLOG_POSTS } from '@/lib/blogPosts'
 
 export const metadata: Metadata = {
-  title: 'Blog: Tudo sobre Fotografia de Formatura Escolar',
+  title: 'Blog Fotografia de Formatura SP',
   description:
-    'Dicas, guias e informações sobre fotografia de formatura escolar em São Paulo: orçamento, escolha de fotógrafo, ensaios, álbum digital e cobertura por região.',
+    'Dicas e guias sobre fotografia de formatura escolar em SP: orçamento, escolha de fotógrafo, ensaios, álbum digital e cobertura por região.',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/blog/' },
 }
 

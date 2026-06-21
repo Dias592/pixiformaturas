@@ -4,9 +4,9 @@ import CTASection from '@/components/CTASection'
 import PortfolioGalleryFiltered from '@/components/PortfolioGalleryFiltered'
 
 export const metadata: Metadata = {
-  title: 'Portfólio de Fotografia de Formatura Escolar | Pixi Formaturas SP',
+  title: { absolute: 'Portfólio Fotografia de Formatura SP | Pixi' },
   description:
-    'Veja o portfólio da Pixi Formaturas: fotos de formatura escolar e universitária em São Paulo. Fotos de turma, colações de grau, bailes de gala e ensaios externos.',
+    'Portfólio da Pixi Formaturas: fotos de formatura escolar e universitária em SP. Fotos de turma, colações de grau, bailes de gala e ensaios.',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/portfolio/' },
 }
 

@@ -3,9 +3,9 @@ import ServicePageTemplate from '@/components/ServicePageTemplate'
 import { SERVICE_PAGES } from '@/lib/servicePages'
 
 export const metadata: Metadata = {
-  title: 'Soluções Digitais para Fotografia de Formatura SP',
+  title: 'Soluções Digitais Formatura SP',
   description:
-    'Plataformas digitais completas para entrega, organização e compartilhamento das fotos de formatura, integradas com reconhecimento facial e download em alta resolução.',
+    'Plataformas digitais para entrega e compartilhamento das fotos de formatura com reconhecimento facial e download em alta resolução.',
   alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/solucoes-digitais/' },
 }
 

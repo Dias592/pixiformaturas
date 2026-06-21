@@ -4,8 +4,8 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "fotografo-de-formatura-sp",
     "title": "Fotógrafo de Formatura em SP: Como Escolher o Melhor para Sua Turma",
-    "metaTitle": "Fotógrafo de Formatura SP | Pixi Formaturas",
-    "metaDescription": "Fotógrafo de formatura SP com cobertura completa: ensaio, cerimônia e álbum digital com reconhecimento facial. Atendemos toda São Paulo. Peça seu orçamento.",
+    "metaTitle": "Fotógrafo de Formatura SP",
+    "metaDescription": "Fotógrafo de formatura SP com cobertura completa: ensaio, cerimônia e álbum digital com reconhecimento facial. Atendemos toda São Paulo. Peça seu...",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-08",
     "excerpt": "Fotógrafo de formatura SP é a busca de quem quer registrar a colação de grau, o baile e os ensaios com qualidade profissional. Veja como escolher o ideal.",
@@ -130,7 +130,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "fotografo-formatura-sao-paulo",
     "title": "Fotógrafo de Formatura em São Paulo: Cobertura Completa para 9º Ano, EM e Universitária",
-    "metaTitle": "Fotógrafo Formatura São Paulo | Pixi Formaturas",
+    "metaTitle": "Fotógrafo Formatura São Paulo",
     "metaDescription": "Fotógrafo formatura São Paulo para 9º ano, Ensino Médio e colação de grau universitária. Cobertura completa do ensaio à festa. Solicite orçamento online.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-09",
@@ -242,7 +242,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "fotografa-formatura-sp",
     "title": "Fotógrafa de Formatura em SP: Sensibilidade e Técnica para Registrar Seu Momento",
-    "metaTitle": "Fotógrafa de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafa de Formatura SP",
     "metaDescription": "Fotógrafa de formatura SP com olhar sensível para ensaios externos, cerimônia e baile. Álbum digital com todas as fotos da turma. Agende pelo WhatsApp.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-10",
@@ -354,7 +354,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "fotos-de-formatura-sp",
     "title": "Fotos de Formatura em SP: Tudo que Você Precisa Saber Antes de Contratar",
-    "metaTitle": "Fotos de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Fotos de Formatura SP",
     "metaDescription": "Fotos de formatura SP com cobertura de ensaio, cerimônia e festa, edição profissional e entrega em álbum digital com reconhecimento facial em 30 dias.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-11",
@@ -469,7 +469,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "fotos-formatura-2026",
     "title": "Fotos de Formatura 2026 em SP: Garanta Seu Registro com Antecedência",
-    "metaTitle": "Fotos de Formatura 2026 SP | Pixi Formaturas",
+    "metaTitle": "Fotos de Formatura 2026 SP",
     "metaDescription": "Fotos de formatura 2026 em SP: reserve seu fotógrafo com antecedência. Pacotes com ensaio, cerimônia, baile e álbum digital. Consulte disponibilidade.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-12",
@@ -580,7 +580,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "ensaio-formatura-sp",
     "title": "Ensaio de Formatura em SP: Guia Completo para uma Sessão Fotográfica Perfeita",
-    "metaTitle": "Ensaio de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura SP",
     "metaDescription": "Ensaio de formatura SP em locações externas, com direção de cena para fotos individuais e em grupo. Saiba como se preparar e agende pelo WhatsApp.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-13",
@@ -692,7 +692,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "ensaio-de-formatura-sp",
     "title": "Ensaio de Formatura em São Paulo: Do Planejamento à Entrega das Fotos",
-    "metaTitle": "Ensaio de Formatura em SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura em SP",
     "metaDescription": "Ensaio de formatura em SP: planejamento, locações, organização da turma e entrega das fotos em álbum digital. Fale com a Pixi Formaturas pelo WhatsApp.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-14",
@@ -804,7 +804,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "ensaio-formatura-individual",
     "title": "Ensaio de Formatura Individual em SP: Fotos Únicas que Contam a Sua História",
-    "metaTitle": "Ensaio de Formatura Individual SP | Pixi Formaturas",
+    "metaTitle": "Ensaio de Formatura Individual SP",
     "metaDescription": "Ensaio de formatura individual em SP, com direção de cena exclusiva, escolha de locação e looks personalizados. Solicite orçamento pelo WhatsApp.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-15",
@@ -916,7 +916,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "book-formatura-sp",
     "title": "Book de Formatura em SP: Como Criar um Álbum que Você Vai Guardar para Sempre",
-    "metaTitle": "Book de Formatura SP | Pixi Formaturas",
+    "metaTitle": "Book de Formatura SP",
     "metaDescription": "Book de formatura SP com produção fotográfica completa e álbum impresso ou digital. Saiba como funciona e solicite orçamento pelo WhatsApp.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-16",
@@ -1027,7 +1027,7 @@ export const SEO_POSTS_1: BlogPost[] = [
   {
     "slug": "book-formatura-estudio",
     "title": "Book de Formatura em Estúdio em SP: Quando o Ambiente Controlado Faz a Diferença",
-    "metaTitle": "Book de Formatura em Estúdio SP | Pixi Formaturas",
+    "metaTitle": "Book de Formatura em Estúdio SP",
     "metaDescription": "Book de formatura em estúdio em SP, com iluminação profissional e fundos personalizados. Combine com ensaio externo. Solicite orçamento pelo WhatsApp.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-17",

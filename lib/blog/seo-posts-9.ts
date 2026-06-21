@@ -4,7 +4,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "diferenca-colacao-oficial-colacao-festiva",
     "title": "Colação Oficial vs Colação Festiva: Qual a Diferença e Como Fotografar Cada Uma",
-    "metaTitle": "Colação Oficial vs Colação Festiva | Pixi Formaturas",
+    "metaTitle": "Colação Oficial vs Colação Festiva",
     "metaDescription": "Colação oficial e colação festiva são momentos distintos com exigências fotográficas diferentes. Entenda a diferença e como registrar cada uma.",
     "category": "Guia da Comissão",
     "date": "2026-01-27",
@@ -112,7 +112,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "quanto-custa-fotografo-formatura-sp-2026",
     "title": "Quanto Custa um Fotógrafo de Formatura em SP em 2026? Guia de Preços Atualizado",
-    "metaTitle": "Quanto Custa Fotógrafo de Formatura SP 2026 | Pixi Formaturas",
+    "metaTitle": "Quanto Custa Fotógrafo de Formatura SP 2026",
     "metaDescription": "Os preços de fotógrafo de formatura em SP para 2026 variam bastante. Este guia mostra faixas de preço reais, o que está incluso e como avaliar.",
     "category": "Orçamento",
     "date": "2026-01-28",
@@ -217,7 +217,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-zona-sul-sp",
     "title": "Fotógrafo de Formatura na Zona Sul de SP: Ensaio, Colação e Baile para Sua Turma",
-    "metaTitle": "Fotógrafo de Formatura Zona Sul SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Zona Sul SP",
     "metaDescription": "Procurando fotógrafo de formatura na Zona Sul de SP? A Pixi Formaturas atende Santo Amaro, Interlagos, Campo Limpo e toda a região.",
     "category": "Fotógrafo por Região",
     "date": "2026-01-29",
@@ -321,7 +321,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-zona-norte-sp",
     "title": "Fotógrafo de Formatura na Zona Norte de SP: Cobertura Completa para Sua Região",
-    "metaTitle": "Fotógrafo de Formatura Zona Norte SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Zona Norte SP",
     "metaDescription": "Turma na Zona Norte de SP? A Pixi Formaturas atende Santana, Tucuruvi, Jaçanã e toda a região com ensaio, cerimônia e álbum digital.",
     "category": "Fotógrafo por Região",
     "date": "2026-01-30",
@@ -425,7 +425,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-zona-leste-sp",
     "title": "Fotógrafo de Formatura na Zona Leste de SP: Ensaio e Cerimônia para Toda a Região",
-    "metaTitle": "Fotógrafo de Formatura Zona Leste SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Zona Leste SP",
     "metaDescription": "Zona Leste de SP tem fotógrafo de formatura profissional? Sim — a Pixi atende Tatuapé, Mooca, Penha, Itaquera e toda a região.",
     "category": "Fotógrafo por Região",
     "date": "2026-01-31",
@@ -529,7 +529,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-zona-oeste-sp",
     "title": "Fotógrafo de Formatura na Zona Oeste de SP: Pinheiros, Vila Madalena e Região",
-    "metaTitle": "Fotógrafo de Formatura Zona Oeste SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Zona Oeste SP",
     "metaDescription": "Formatura na Zona Oeste de SP? A Pixi Formaturas atende Pinheiros, Vila Madalena, Lapa, Alto de Pinheiros e toda a região com cobertura completa.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-01",
@@ -633,7 +633,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-guarulhos",
     "title": "Fotógrafo de Formatura em Guarulhos: Cobertura Completa para Sua Turma na Grande SP",
-    "metaTitle": "Fotógrafo de Formatura Guarulhos | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Guarulhos",
     "metaDescription": "Procurando fotógrafo de formatura em Guarulhos? A Pixi Formaturas atende Guarulhos e toda a Grande SP com ensaio, cerimônia e álbum digital.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-02",
@@ -737,7 +737,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-abc-sp",
     "title": "Fotógrafo de Formatura no ABC Paulista: Santo André, São Bernardo e São Caetano",
-    "metaTitle": "Fotógrafo de Formatura ABC Paulista | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura ABC Paulista",
     "metaDescription": "Turma se formando no ABC Paulista? A Pixi Formaturas atende Santo André, São Bernardo do Campo e São Caetano com qualidade profissional.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-03",
@@ -841,7 +841,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-osasco",
     "title": "Fotógrafo de Formatura em Osasco: Cobertura Completa para Sua Turma",
-    "metaTitle": "Fotógrafo de Formatura Osasco | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Osasco",
     "metaDescription": "Turma se formando em Osasco? A Pixi Formaturas atende Osasco e região com ensaio de turma, cerimônia e álbum digital em 30 dias.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-04",
@@ -945,7 +945,7 @@ export const SEO_POSTS_9: BlogPost[] = [
   {
     "slug": "fotografo-formatura-grande-sp",
     "title": "Fotógrafo de Formatura na Grande SP: Cobertura em Toda a Região Metropolitana",
-    "metaTitle": "Fotógrafo de Formatura Grande SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Grande SP",
     "metaDescription": "Sua turma está na Grande SP? A Pixi Formaturas atende toda a Região Metropolitana de São Paulo com ensaio, colação e álbum digital.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-05",

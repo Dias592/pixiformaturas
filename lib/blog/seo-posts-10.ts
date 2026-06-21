@@ -4,7 +4,7 @@ export const SEO_POSTS_10: BlogPost[] = [
   {
     "slug": "empresa-formatura-ibirapuera",
     "title": "Empresa de Fotografia de Formatura no Ibirapuera: Por Que Esse Parque é Especial",
-    "metaTitle": "Empresa de Fotografia de Formatura Ibirapuera | Pixi Formaturas",
+    "metaTitle": "Empresa de Fotografia de Formatura Ibirapuera",
     "metaDescription": "O Parque Ibirapuera é o mais procurado para fotos de formatura em SP. Veja como a Pixi organiza sessões no Ibirapuera com qualidade garantida.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-06",
@@ -108,7 +108,7 @@ export const SEO_POSTS_10: BlogPost[] = [
   {
     "slug": "planejamento-ensaio-formatura-ibirapuera-sp",
     "title": "Como Planejar o Ensaio de Formatura no Parque Ibirapuera: Passo a Passo Completo",
-    "metaTitle": "Como Planejar Ensaio de Formatura no Ibirapuera | Pixi Formaturas",
+    "metaTitle": "Como Planejar Ensaio de Formatura no Ibirapuera",
     "metaDescription": "Organizar um ensaio de formatura no Parque Ibirapuera exige planejamento. Veja horários, autorização, o que levar e como a Pixi conduz tudo.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-07",
@@ -212,7 +212,7 @@ export const SEO_POSTS_10: BlogPost[] = [
   {
     "slug": "fotografo-formatura-vila-mariana-sp",
     "title": "Fotógrafo de Formatura na Vila Mariana em SP: Locações e Cobertura para Sua Turma",
-    "metaTitle": "Fotógrafo de Formatura Vila Mariana SP | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Vila Mariana SP",
     "metaDescription": "Vila Mariana tem locações incríveis para ensaio de formatura. Veja como a Pixi Formaturas atende essa região com qualidade e pontualidade.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-08",
@@ -316,7 +316,7 @@ export const SEO_POSTS_10: BlogPost[] = [
   {
     "slug": "fotografo-formatura-santo-andre",
     "title": "Fotógrafo de Formatura em Santo André: Ensaio, Colação e Álbum Digital para Sua Turma",
-    "metaTitle": "Fotógrafo de Formatura Santo André | Pixi Formaturas",
+    "metaTitle": "Fotógrafo de Formatura Santo André",
     "metaDescription": "Turma se formando em Santo André? A Pixi Formaturas atende Santo André e o ABC com ensaio de turma, cerimônia e álbum digital em 30 dias.",
     "category": "Fotógrafo por Região",
     "date": "2026-02-09",

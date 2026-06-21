@@ -20,7 +20,7 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   if (!post) return {}
 
   return {
-    title: post.metaTitle,
+    title: { absolute: post.metaTitle },
     description: post.metaDescription,
     alternates: { canonical: `${BUSINESS.url}/blog/${post.slug}/` },
   }
