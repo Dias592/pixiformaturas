@@ -26,21 +26,21 @@ export default function HeroSection() {
       {/* Content column */}
       <div className="flex flex-1 flex-col justify-center gap-6 px-6 py-10 md:px-16 md:py-0">
         <p className="eyebrow normal-case tracking-normal">
-          Fotógrafo de Formatura Escolar e Universitária · São Paulo
+          Empresa de Formatura · São Paulo, ABC e Grande SP
         </p>
 
         <h1 className="font-sans text-4xl font-bold leading-tight text-white md:text-6xl">
-          Sua turma merece
+          Empresa de Formatura
           <br />
-          <span className="gold-italic text-5xl md:text-7xl">Fotos que Emocionam</span>
+          <span className="gold-italic text-5xl md:text-7xl">Fotografia que Emociona</span>
           <br />
-          para sempre
+          sua turma para sempre
         </h1>
 
         <p className="rounded-lg border border-borderC bg-bgCard/50 p-4 text-textMuted">
-          Especialistas em fotografia de formatura escolar e universitária em São Paulo. Cobertura
-          completa para 9º ano, 3º ano do Ensino Médio, colação de grau universitária, fotos de
-          turma, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas da cidade.
+          Empresa de formatura especializada em fotografia escolar e universitária em São Paulo,
+          ABC Paulista e Grande SP. Cobertura completa para 9º ano, Terceirão, colação de grau,
+          Medicina, Direito e demais cursos. Álbum digital em 30 dias, parcelamento em 12x.
         </p>
 
         <div className="grid grid-cols-3 gap-y-3 gap-x-2 py-2 text-center">

@@ -4,11 +4,12 @@ export const globalSchema = {
   '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': ['LocalBusiness', 'ProfessionalService'],
+      '@type': ['LocalBusiness', 'ProfessionalService', 'Photographer'],
       '@id': `${BUSINESS.url}/#business`,
       name: BUSINESS.name,
+      slogan: 'Empresa de Formatura especializada em Fotografia Escolar e Universitária',
       description:
-        'Especialistas em fotografia de formatura escolar e universitária em São Paulo desde 2015. Fotos de turma, colação de grau, ensaio externo, baile de gala e álbum digital.',
+        'Empresa de formatura especializada em fotografia escolar e universitária em São Paulo, ABC Paulista e Grande SP desde 2015. Cobertura de formaturas do 9º ano, Ensino Médio (Terceirão), colação de grau universitária e cursos de Medicina, Direito e Engenharia. Álbum digital com reconhecimento facial em 30 dias, parcelamento em 12x.',
       url: BUSINESS.url,
       logo: {
         '@type': 'ImageObject',
@@ -28,13 +29,21 @@ export const globalSchema = {
       },
       areaServed: [
         { '@type': 'City', name: 'São Paulo' },
-        { '@type': 'City', name: 'Guarulhos' },
-        { '@type': 'City', name: 'Osasco' },
         { '@type': 'City', name: 'Santo André' },
         { '@type': 'City', name: 'São Bernardo do Campo' },
         { '@type': 'City', name: 'São Caetano do Sul' },
         { '@type': 'City', name: 'Diadema' },
+        { '@type': 'City', name: 'Mauá' },
+        { '@type': 'City', name: 'Ribeirão Pires' },
+        { '@type': 'City', name: 'Rio Grande da Serra' },
+        { '@type': 'City', name: 'Guarulhos' },
+        { '@type': 'City', name: 'Osasco' },
         { '@type': 'City', name: 'Mogi das Cruzes' },
+        { '@type': 'City', name: 'Suzano' },
+        { '@type': 'City', name: 'Barueri' },
+        { '@type': 'City', name: 'Carapicuíba' },
+        { '@type': 'City', name: 'Cotia' },
+        { '@type': 'City', name: 'Taboão da Serra' },
       ],
       sameAs: [BUSINESS.instagram, 'https://www.facebook.com/pixiformaturas/'],
       openingHoursSpecification: [

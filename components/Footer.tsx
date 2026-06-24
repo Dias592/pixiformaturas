@@ -88,10 +88,13 @@ export default function Footer() {
         <div className="mx-auto max-w-7xl px-6 text-center text-xs text-white/90">
           <p>© 2026 Pixi Formaturas · Todos os direitos reservados</p>
           <p className="mt-1">
-            Fotógrafo de formatura SP · Fotos de turma · Colação de grau · 9º ano · 3º médio ·
-            Ensaio externo formatura SP · Álbum digital · Baile de gala · Filmagem formatura SP ·
-            Formatura universitária · Colação de grau faculdade SP · Zona Sul · Zona Norte · Zona
-            Leste · Zona Oeste · Centro SP · Grande SP
+            Empresa de formatura em São Paulo · ABC Paulista · Grande SP · Santo André · São Bernardo
+            do Campo · São Caetano do Sul · Diadema · Mauá · Guarulhos · Osasco · Moema · Vila Mariana
+            · Pinheiros · Brooklin · Morumbi · Higienópolis · Jardins
+          </p>
+          <p className="mt-1">
+            9º Ano · Terceirão · Ensino Médio · Colação de Grau · Universitária · Medicina · Direito
+            · Engenharia · Administração · Fotos de turma · Álbum digital · Baile de gala
           </p>
         </div>
       </div>
