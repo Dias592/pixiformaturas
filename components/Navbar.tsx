@@ -13,6 +13,13 @@ const NAV_LINKS = [
   { href: '/contato/', label: 'Contato' },
 ]
 
+const TURMA_LINKS = [
+  { href: '/empresa-de-formatura-sp/', label: 'Empresa de Formatura em SP' },
+  { href: '/empresas-de-formatura-ensino-medio/', label: 'Formatura do Ensino Médio' },
+  { href: '/empresas-de-formatura-medicina/', label: 'Formatura de Medicina' },
+  { href: '/empresas-de-formatura-faculdade/', label: 'Formatura Universitária' },
+]
+
 export default function Navbar() {
   const [open, setOpen] = useState(false)
   const [servicesOpen, setServicesOpen] = useState(false)
@@ -106,6 +113,24 @@ export default function Navbar() {
             )}
           </div>
 
+          <div className="relative group">
+            <button className="flex items-center gap-1 text-sm transition-colors hover:text-gold text-textMain">
+              Para sua Turma
+              <svg className="h-3 w-3 transition-transform group-hover:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2} aria-hidden="true">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            <div className="absolute left-0 top-full pt-2 hidden group-hover:block">
+              <div className="flex w-[260px] flex-col gap-2 rounded-lg border border-borderC bg-bgCard p-4 shadow-xl">
+                {TURMA_LINKS.map((t) => (
+                  <Link key={t.href} href={t.href} className="text-sm text-textMuted transition-colors hover:text-gold">
+                    {t.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+
           <Link href="/portfolio/" className={linkClass('/portfolio/')}>
             Portfólio
           </Link>
@@ -195,6 +220,17 @@ export default function Navbar() {
                   ))}
                 </div>
               )}
+            </div>
+
+            <div>
+              <p className="text-sm font-bold text-gold">Para sua Turma</p>
+              <div className="mt-2 flex flex-col gap-2 pl-4">
+                {TURMA_LINKS.map((t) => (
+                  <Link key={t.href} href={t.href} onClick={() => setOpen(false)} className="text-sm text-textMuted transition-colors hover:text-gold">
+                    {t.label}
+                  </Link>
+                ))}
+              </div>
             </div>
 
             {NAV_LINKS.slice(1).map((link) => (
