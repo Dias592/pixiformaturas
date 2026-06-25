@@ -1,7 +1,5 @@
 import type { MetadataRoute } from 'next'
 
-export const dynamic = 'force-static'
-
 const SITE_URL = 'https://www.pixiformaturas.com.br'
 
 export default function robots(): MetadataRoute.Robots {
