@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import BlogPhoto from '@/components/BlogPhoto'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
@@ -102,6 +103,10 @@ export default function EmpresasFormaturasEnsinoMedioPage() {
           >
             Solicitar Orçamento pelo WhatsApp
           </a>
+
+          <div className="mt-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresas-de-formatura-ensino-medio-hero" alt="Turma de formandos do ensino médio reunida para foto - Pixi Formaturas" priority />
+          </div>
         </div>
       </section>
 
@@ -155,6 +160,14 @@ export default function EmpresasFormaturasEnsinoMedioPage() {
               adaptamos ao planejamento e ao orçamento de cada comissão de
               formatura.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bg py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresas-de-formatura-ensino-medio-1" alt="Cobertura fotográfica de formatura do ensino médio - Pixi Formaturas" />
           </div>
         </div>
       </section>
@@ -239,6 +252,14 @@ export default function EmpresasFormaturasEnsinoMedioPage() {
               permitindo que cada aluno e família encontrem suas imagens
               facilmente.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bgCard py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8">
+            <BlogPhoto seed="empresas-de-formatura-ensino-medio-2" alt="Formandos do terceirão comemorando na festa - Pixi Formaturas" />
           </div>
         </div>
       </section>

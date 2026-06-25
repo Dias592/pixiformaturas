@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import BlogPhoto from '@/components/BlogPhoto'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
@@ -67,6 +68,10 @@ export default function FormaturaABCPage() {
             galeria online com reconhecimento facial por aluno e entrega em até 30
             dias.
           </p>
+
+          <div className="mt-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="formatura-abc-hero" alt="Cobertura fotográfica da turma de formandos no ABC Paulista - Pixi Formaturas" priority />
+          </div>
         </div>
       </section>
 
@@ -145,6 +150,14 @@ export default function FormaturaABCPage() {
         </div>
       </section>
 
+      <section className="bg-bg py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="formatura-abc-1" alt="Cobertura fotográfica de formatura no ABC Paulista - Pixi Formaturas" />
+          </div>
+        </div>
+      </section>
+
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
@@ -183,6 +196,14 @@ export default function FormaturaABCPage() {
           >
             Solicitar Orçamento pelo WhatsApp
           </a>
+        </div>
+      </section>
+
+      <section className="bg-bgCard py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="formatura-abc-2" alt="Ensaio fotográfico de formandos no ABC - Pixi Formaturas" />
+          </div>
         </div>
       </section>
 

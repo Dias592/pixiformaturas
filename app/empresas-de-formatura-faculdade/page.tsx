@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import BlogPhoto from '@/components/BlogPhoto'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
@@ -96,6 +97,10 @@ export default function EmpresasFormaturaFaculdadePage() {
           >
             Solicitar Orçamento pelo WhatsApp
           </a>
+
+          <div className="mt-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresas-de-formatura-faculdade-hero" alt="Formandos no palco da colação de grau universitária - Pixi Formaturas" priority />
+          </div>
         </div>
       </section>
 
@@ -141,6 +146,14 @@ export default function EmpresasFormaturaFaculdadePage() {
               com equipamento profissional full-frame, equipe dedicada e galeria
               online com reconhecimento facial.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bg py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresas-de-formatura-faculdade-1" alt="Cobertura fotográfica de formatura universitária - Pixi Formaturas" />
           </div>
         </div>
       </section>
@@ -257,6 +270,14 @@ export default function EmpresasFormaturaFaculdadePage() {
               </Link>
               . Para faculdades no ABC, não cobramos taxa de deslocamento.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bgCard py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8">
+            <BlogPhoto seed="empresas-de-formatura-faculdade-2" alt="Grupo de formandos da turma no baile de gala - Pixi Formaturas" />
           </div>
         </div>
       </section>

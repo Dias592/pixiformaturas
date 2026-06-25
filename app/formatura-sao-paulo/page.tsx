@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import BlogPhoto from '@/components/BlogPhoto'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
@@ -64,6 +65,10 @@ export default function FormaturaSaoPauloPage() {
             entrega em até 30 dias, somos a escolha de dezenas de escolas públicas e
             particulares na maior cidade do Brasil.
           </p>
+
+          <div className="mt-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="formatura-sao-paulo-hero" alt="Ensaio fotográfico de formandos em São Paulo - Pixi Formaturas" priority />
+          </div>
         </div>
       </section>
 
@@ -95,6 +100,14 @@ export default function FormaturaSaoPauloPage() {
             em buffets e espaços de eventos por toda a cidade. Cada pacote é
             personalizado conforme a necessidade da turma e da comissão.
           </p>
+        </div>
+      </section>
+
+      <section className="bg-bg py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="formatura-sao-paulo-1" alt="Cobertura fotográfica de formatura em São Paulo - Pixi Formaturas" />
+          </div>
         </div>
       </section>
 
@@ -166,6 +179,14 @@ export default function FormaturaSaoPauloPage() {
           >
             Solicitar Orçamento pelo WhatsApp
           </a>
+        </div>
+      </section>
+
+      <section className="bg-bg py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="formatura-sao-paulo-2" alt="Formandos na pista de dança do baile de gala em SP - Pixi Formaturas" />
+          </div>
         </div>
       </section>
 

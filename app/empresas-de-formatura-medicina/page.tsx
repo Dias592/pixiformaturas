@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import BlogPhoto from '@/components/BlogPhoto'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
@@ -86,6 +87,10 @@ export default function EmpresasFormaturaMedicinaPage() {
           >
             Solicitar Orçamento pelo WhatsApp
           </a>
+
+          <div className="mt-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresas-de-formatura-medicina-hero" alt="Cerimônia de colação de grau de Medicina em São Paulo - Pixi Formaturas" priority />
+          </div>
         </div>
       </section>
 
@@ -134,6 +139,14 @@ export default function EmpresasFormaturaMedicinaPage() {
               celebração de anos de estudo intenso e dedicação — e nós tratamos esse
               momento com o respeito que ele merece.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bg py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresas-de-formatura-medicina-1" alt="Cobertura fotográfica de formatura de Medicina - Pixi Formaturas" />
           </div>
         </div>
       </section>
@@ -228,6 +241,14 @@ export default function EmpresasFormaturaMedicinaPage() {
               , não cobramos taxa de deslocamento — levamos toda a estrutura
               fotográfica sem custo adicional.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bgCard py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresas-de-formatura-medicina-2" alt="Entrega de diploma na formatura de Medicina - Pixi Formaturas" />
           </div>
         </div>
       </section>

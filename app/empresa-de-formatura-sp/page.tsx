@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import BlogPhoto from '@/components/BlogPhoto'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
@@ -94,6 +95,10 @@ export default function EmpresaDeFormaturaSPPage() {
           >
             Solicitar Orçamento pelo WhatsApp
           </a>
+
+          <div className="mt-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresa-de-formatura-sp-hero" alt="Formandos celebrando no baile de gala em São Paulo - Pixi Formaturas" priority />
+          </div>
         </div>
       </section>
 
@@ -123,6 +128,14 @@ export default function EmpresaDeFormaturaSPPage() {
               comissão escolhe uma empresa de formatura especializada, reduz riscos e
               ganha tranquilidade para curtir a própria formatura.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bg py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8 overflow-hidden rounded-lg">
+            <BlogPhoto seed="empresa-de-formatura-sp-1" alt="Cobertura fotográfica de formatura em São Paulo - Pixi Formaturas" />
           </div>
         </div>
       </section>
@@ -228,6 +241,14 @@ export default function EmpresaDeFormaturaSPPage() {
                 Formatura na Grande São Paulo &rarr;
               </Link>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-bgCard py-4">
+        <div className="mx-auto max-w-3xl px-6">
+          <div className="my-8">
+            <BlogPhoto seed="empresa-de-formatura-sp-2" alt="Foto de grupo da turma de formandos - Pixi Formaturas" />
           </div>
         </div>
       </section>
