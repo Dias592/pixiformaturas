@@ -1,6 +1,7 @@
 import { whatsappLink } from '@/lib/constants'
 import { HOME_HERO_IMAGES } from '@/lib/galleryImages'
-import HeroPhoto from './HeroPhoto'
+import HeroPhotoStatic from './HeroPhotoStatic'
+import HeroPhotoCarousel from './HeroPhotoCarousel'
 
 const SERVICE_GRID = [
   ['Fotos de Turma', 'Colação de Grau', 'Colação Festiva'],
@@ -19,8 +20,9 @@ export default function HeroSection() {
         fetchPriority="high"
       />
       {/* Mobile image */}
-      <div className="h-[45vh] w-full md:hidden">
-        <HeroPhoto />
+      <div className="relative h-[45vh] w-full overflow-hidden bg-bgCard md:hidden">
+        <HeroPhotoStatic />
+        <HeroPhotoCarousel startIndex={1} />
       </div>
 
       {/* Content column */}
@@ -62,8 +64,9 @@ export default function HeroSection() {
       </div>
 
       {/* Desktop image */}
-      <div className="relative hidden md:block">
-        <HeroPhoto />
+      <div className="relative hidden overflow-hidden bg-bgCard md:block">
+        <HeroPhotoStatic />
+        <HeroPhotoCarousel startIndex={1} />
       </div>
 
       {/* Scroll chevron */}
