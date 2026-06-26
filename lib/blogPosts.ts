@@ -10,6 +10,8 @@ import { SEO_POSTS_7 } from './blog/seo-posts-7'
 import { SEO_POSTS_8 } from './blog/seo-posts-8'
 import { SEO_POSTS_9 } from './blog/seo-posts-9'
 import { SEO_POSTS_10 } from './blog/seo-posts-10'
+import { EMPRESA_POSTS_1 } from './blog/posts-empresa-formatura-1'
+import { EMPRESA_POSTS_2 } from './blog/posts-empresa-formatura-2'
 import type { BlogPost, ContentBlock } from './blog/types'
 
 export type { BlogPost, ContentBlock }
@@ -27,6 +29,8 @@ export const BLOG_POSTS: BlogPost[] = [
   ...SEO_POSTS_8,
   ...SEO_POSTS_9,
   ...SEO_POSTS_10,
+  ...EMPRESA_POSTS_1,
+  ...EMPRESA_POSTS_2,
 ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
