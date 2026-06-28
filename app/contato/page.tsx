@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Orçamento Fotografia Formatura SP',
   description:
     'Solicite orçamento de fotografia de formatura escolar com a Pixi Formaturas em SP. Atendemos escolas públicas e particulares. WhatsApp rápido.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/contato/' },
+  alternates: { canonical: 'https://pixiformaturas.com.br/contato/' },
 }
 
 const contactSchema = {

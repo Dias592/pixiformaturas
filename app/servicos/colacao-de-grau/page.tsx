@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Fotógrafo Colação de Grau SP',
   description:
     'Cobertura fotográfica completa da cerimônia oficial de colação de grau, registrando cada momento solene com discrição e qualidade profissional.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/colacao-de-grau/' },
+  alternates: { canonical: 'https://pixiformaturas.com.br/servicos/colacao-de-grau/' },
 }
 
 export default function Page() {

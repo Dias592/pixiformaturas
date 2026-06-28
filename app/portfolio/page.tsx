@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: { absolute: 'Portfólio Fotografia de Formatura SP | Pixi' },
   description:
     'Portfólio da Pixi Formaturas: fotos de formatura escolar e universitária em SP. Fotos de turma, colações de grau, bailes de gala e ensaios.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/portfolio/' },
+  alternates: { canonical: 'https://pixiformaturas.com.br/portfolio/' },
 }
 
 export default function PortfolioPage() {

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: { absolute: 'Empresa de Formatura em SP | Pixi Formaturas' },
   description:
     'Empresa de formatura em São Paulo, ABC e Grande SP desde 2015. Fotografia escolar e universitária, colação de grau, ensaio e álbum digital em 30 dias.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/' },
+  alternates: { canonical: 'https://pixiformaturas.com.br/' },
 }
 
 export default function Home() {

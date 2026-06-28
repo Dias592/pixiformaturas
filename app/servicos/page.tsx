@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: { absolute: 'Serviços Fotografia de Formatura SP | Pixi Formaturas' },
   description:
     'Serviços da Pixi Formaturas: fotos de turma, colação de grau, colação festiva, ensaio externo, baile de gala e álbum digital. Orçamento grátis.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/' },
+  alternates: { canonical: 'https://pixiformaturas.com.br/servicos/' },
 }
 
 export default function ServicosPage() {

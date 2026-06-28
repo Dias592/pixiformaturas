@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Pré-Eventos de Formatura em SP',
   description:
     'Cobertura fotográfica de pré-eventos da formatura, como chá de turma, encontros da comissão e celebrações que antecedem a colação de grau.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/pre-eventos/' },
+  alternates: { canonical: 'https://pixiformaturas.com.br/servicos/pre-eventos/' },
 }
 
 export default function Page() {
