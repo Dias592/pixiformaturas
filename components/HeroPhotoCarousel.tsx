@@ -9,13 +9,21 @@ const PRELOAD_BEFORE_MS = 800
 
 export default function HeroPhotoCarousel({ startIndex = 1 }: { startIndex?: number }) {
   const [current, setCurrent] = useState(startIndex)
-  const [preloaded, setPreloaded] = useState<number | null>(null)
   const [next, setNext] = useState<number | null>(null)
   const [hydrated, setHydrated] = useState(false)
   const currentRef = useRef(startIndex)
   const transitioning = useRef(false)
+  const preloadedRef = useRef<Set<string>>(new Set())
 
   const getNextIdx = useCallback((idx: number) => (idx + 1) % HOME_HERO_IMAGES.length, [])
+
+  const preloadImage = useCallback((idx: number) => {
+    const src = HOME_HERO_IMAGES[idx].src
+    if (preloadedRef.current.has(src)) return
+    preloadedRef.current.add(src)
+    const img = new Image()
+    img.src = src
+  }, [])
 
   useEffect(() => {
     setHydrated(true)
@@ -24,8 +32,7 @@ export default function HeroPhotoCarousel({ startIndex = 1 }: { startIndex?: num
 
     const preloadTimer = setInterval(() => {
       if (transitioning.current) return
-      const nextIdx = getNextIdx(currentRef.current)
-      setPreloaded(nextIdx)
+      preloadImage(getNextIdx(currentRef.current))
     }, INTERVAL_MS - PRELOAD_BEFORE_MS)
 
     const transitionTimer = setInterval(() => {
@@ -38,7 +45,6 @@ export default function HeroPhotoCarousel({ startIndex = 1 }: { startIndex?: num
         currentRef.current = nextIdx
         setCurrent(nextIdx)
         setNext(null)
-        setPreloaded(null)
         transitioning.current = false
       }, FADE_MS)
     }, INTERVAL_MS)
@@ -47,11 +53,10 @@ export default function HeroPhotoCarousel({ startIndex = 1 }: { startIndex?: num
       clearInterval(preloadTimer)
       clearInterval(transitionTimer)
     }
-  }, [getNextIdx])
+  }, [getNextIdx, preloadImage])
 
   const currentImage = HOME_HERO_IMAGES[current]
   const nextImage = next !== null ? HOME_HERO_IMAGES[next] : null
-  const preloadImage = preloaded !== null && next === null ? HOME_HERO_IMAGES[preloaded] : null
 
   return (
     <div
@@ -84,9 +89,6 @@ export default function HeroPhotoCarousel({ startIndex = 1 }: { startIndex?: num
             className="h-full w-full object-contain"
           />
         </div>
-      )}
-      {preloadImage && (
-        <link rel="prefetch" href={preloadImage.src} as="image" />
       )}
     </div>
   )
