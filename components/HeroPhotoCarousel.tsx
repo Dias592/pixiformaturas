@@ -5,39 +5,53 @@ import { HOME_HERO_IMAGES } from '@/lib/galleryImages'
 
 const INTERVAL_MS = 2500
 const FADE_MS = 1000
+const PRELOAD_BEFORE_MS = 800
 
 export default function HeroPhotoCarousel({ startIndex = 1 }: { startIndex?: number }) {
   const [current, setCurrent] = useState(startIndex)
+  const [preloaded, setPreloaded] = useState<number | null>(null)
   const [next, setNext] = useState<number | null>(null)
   const [hydrated, setHydrated] = useState(false)
   const currentRef = useRef(startIndex)
   const transitioning = useRef(false)
 
-  const advance = useCallback(() => {
-    if (transitioning.current) return
-    transitioning.current = true
-    const nextIdx = (currentRef.current + 1) % HOME_HERO_IMAGES.length
-    setNext(nextIdx)
-
-    setTimeout(() => {
-      currentRef.current = nextIdx
-      setCurrent(nextIdx)
-      setNext(null)
-      transitioning.current = false
-    }, FADE_MS)
-  }, [])
+  const getNextIdx = useCallback((idx: number) => (idx + 1) % HOME_HERO_IMAGES.length, [])
 
   useEffect(() => {
     setHydrated(true)
     const staticEl = document.querySelector('[data-static-hero]')
     if (staticEl) (staticEl as HTMLElement).style.opacity = '0'
 
-    const interval = setInterval(advance, INTERVAL_MS)
-    return () => clearInterval(interval)
-  }, [advance])
+    const preloadTimer = setInterval(() => {
+      if (transitioning.current) return
+      const nextIdx = getNextIdx(currentRef.current)
+      setPreloaded(nextIdx)
+    }, INTERVAL_MS - PRELOAD_BEFORE_MS)
+
+    const transitionTimer = setInterval(() => {
+      if (transitioning.current) return
+      transitioning.current = true
+      const nextIdx = getNextIdx(currentRef.current)
+      setNext(nextIdx)
+
+      setTimeout(() => {
+        currentRef.current = nextIdx
+        setCurrent(nextIdx)
+        setNext(null)
+        setPreloaded(null)
+        transitioning.current = false
+      }, FADE_MS)
+    }, INTERVAL_MS)
+
+    return () => {
+      clearInterval(preloadTimer)
+      clearInterval(transitionTimer)
+    }
+  }, [getNextIdx])
 
   const currentImage = HOME_HERO_IMAGES[current]
   const nextImage = next !== null ? HOME_HERO_IMAGES[next] : null
+  const preloadImage = preloaded !== null && next === null ? HOME_HERO_IMAGES[preloaded] : null
 
   return (
     <div
@@ -70,6 +84,9 @@ export default function HeroPhotoCarousel({ startIndex = 1 }: { startIndex?: num
             className="h-full w-full object-contain"
           />
         </div>
+      )}
+      {preloadImage && (
+        <link rel="prefetch" href={preloadImage.src} as="image" />
       )}
     </div>
   )

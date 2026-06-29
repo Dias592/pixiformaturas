@@ -9,8 +9,8 @@ export default function HeroPhotoStatic() {
         data-static-hero
         src={image.src}
         alt={image.alt}
-        width={1280}
-        height={853}
+        width={800}
+        height={533}
         fetchPriority="high"
         loading="eager"
         decoding="sync"
