@@ -32,9 +32,9 @@ export default function HeroSection() {
         </p>
 
         <h1 className="font-sans text-4xl font-bold leading-tight text-white md:text-6xl">
-          Empresa de Formatura
+          Empresa de Formatura em São Paulo
           <br />
-          <span className="gold-italic text-5xl md:text-7xl">Fotografia que Emociona</span>
+          <span className="gold-italic text-4xl md:text-6xl">Fotografia que Emociona</span>
           <br />
           sua turma para sempre
         </h1>
