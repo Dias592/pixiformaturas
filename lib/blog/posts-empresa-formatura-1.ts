@@ -18,7 +18,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A Pixi Formaturas é uma empresa especializada em fotografia de formatura que atua desde 2015 em São Paulo e região. Já atendemos mais de 500 turmas em bairros como Moema, Vila Mariana, Pinheiros, Brooklin, Morumbi e Higienópolis, além de cidades do ABC como Santo André, São Bernardo do Campo e São Caetano do Sul. Diferente de empresas que tentam oferecer tudo, nós nos dedicamos inteiramente ao que sabemos fazer de melhor: fotografar formaturas com excelência, entregando o [álbum digital](/servicos/album-digital/) com reconhecimento facial em até 30 dias. Nossa equipe própria, equipamento de backup e parcelamento em até 12x são diferenciais que construímos ao longo de uma década de atuação como fornecedor de fotografia de formatura."
+        text: "A Pixi Formaturas é uma **empresa especializada em fotografia de formatura** que atua **desde 2015** em São Paulo e região. Já atendemos **mais de 500 turmas** em bairros como Moema, Vila Mariana, Pinheiros, Brooklin, Morumbi e Higienópolis, além de cidades do ABC como Santo André, São Bernardo do Campo e São Caetano do Sul. Diferente de empresas que tentam oferecer tudo, nós nos dedicamos inteiramente ao que sabemos fazer de melhor: fotografar formaturas com excelência, entregando o [álbum digital](/servicos/album-digital/) com reconhecimento facial em até 30 dias. Nossa equipe própria, equipamento de backup e parcelamento em até 12x são diferenciais que construímos ao longo de uma década de atuação como fornecedor de fotografia de formatura."
       },
       {
         type: "h2",
@@ -46,7 +46,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Entender essa diferença é fundamental para a comissão de formandos, porque a escolha entre uma empresa de formatura completa e uma especializada impacta diretamente na qualidade de cada serviço entregue. Quando uma empresa tenta fazer tudo, inevitavelmente alguma área recebe menos atenção do que outra. No caso da fotografia, isso pode significar câmeras menos sofisticadas, fotógrafos terceirizados sem experiência específica em formaturas e prazos de entrega indefinidos. Como empresa especializada em fotografia de formatura, nós investimos cada real disponível em equipamento de ponta, treinamento da equipe e tecnologia de entrega — como o reconhecimento facial que organiza automaticamente as fotos de cada formando no [álbum digital](/servicos/album-digital/)."
+        text: "Entender essa diferença é fundamental para a comissão de formandos, porque a escolha entre uma empresa de formatura completa e uma especializada impacta diretamente na qualidade de cada serviço entregue. Quando uma empresa tenta fazer tudo, inevitavelmente alguma área recebe menos atenção do que outra. No caso da fotografia, isso pode significar câmeras menos sofisticadas, fotógrafos terceirizados sem experiência específica em formaturas e prazos de entrega indefinidos. Como empresa especializada em fotografia de formatura, nós investimos cada real disponível em equipamento de ponta, treinamento da equipe e tecnologia de entrega — como o **reconhecimento facial** que organiza automaticamente as fotos de cada formando no [álbum digital](/servicos/album-digital/)."
       },
       {
         type: "h3",
@@ -70,11 +70,11 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Muitas comissões se perguntam se devem contratar uma empresa de formatura para a fotografia ou um fotógrafo independente. A principal diferença está na estrutura: uma empresa especializada em fotografia de formatura, como a Pixi Formaturas, conta com equipe própria de fotógrafos, equipamentos de backup para cada evento, fluxo de pós-produção estruturado com prazos definidos e processos que garantem a entrega dentro do prazo contratual. Um fotógrafo independente, por outro lado, costuma trabalhar sozinho ou com um assistente eventual, sem equipe de apoio permanente e, muitas vezes, sem equipamento reserva caso algo dê errado durante a cerimônia de colação de grau ou no baile de formatura."
+        text: "Muitas comissões se perguntam se devem contratar uma empresa de formatura para a fotografia ou um fotógrafo independente. A principal diferença está na estrutura: uma empresa especializada em fotografia de formatura, como a Pixi Formaturas, conta com **equipe própria** de fotógrafos, **equipamentos de backup** para cada evento, fluxo de pós-produção estruturado com prazos definidos e processos que garantem a entrega dentro do prazo contratual. Um fotógrafo independente, por outro lado, costuma trabalhar sozinho ou com um assistente eventual, sem equipe de apoio permanente e, muitas vezes, sem equipamento reserva caso algo dê errado durante a cerimônia de colação de grau ou no baile de formatura."
       },
       {
         type: "p",
-        text: "Isso não significa que todo fotógrafo independente entregue um trabalho inferior — existem profissionais excelentes atuando de forma autônoma no mercado de São Paulo. Porém, para eventos com muitos formandos, onde é necessário cobrir múltiplos ambientes simultaneamente e entregar centenas de fotos editadas em até 30 dias, a estrutura de uma empresa de formatura faz uma diferença significativa na segurança da entrega. Nós, na Pixi, trabalhamos com equipes de dois a três fotógrafos por evento, dependendo do tamanho da turma, e todo o material passa por um fluxo de edição e organização antes de ser disponibilizado no álbum digital com reconhecimento facial. Para entender melhor essas diferenças, leia nosso comparativo completo entre [empresa de formatura e fotógrafo independente](/blog/empresa-de-formatura-vs-fotografo-independente/)."
+        text: "Isso não significa que todo fotógrafo independente entregue um trabalho inferior — existem profissionais excelentes atuando de forma autônoma no mercado de São Paulo. Porém, para eventos com muitos formandos, onde é necessário cobrir múltiplos ambientes simultaneamente e entregar centenas de fotos editadas em **até 30 dias**, a estrutura de uma empresa de formatura faz uma diferença significativa na segurança da entrega. Nós, na Pixi, trabalhamos com equipes de dois a três fotógrafos por evento, dependendo do tamanho da turma, e todo o material passa por um fluxo de edição e organização antes de ser disponibilizado no álbum digital com reconhecimento facial. Para entender melhor essas diferenças, leia nosso comparativo completo entre [empresa de formatura e fotógrafo independente](/blog/empresa-de-formatura-vs-fotografo-independente/)."
       },
       {
         type: "h3",
@@ -86,7 +86,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Outro aspecto importante é a conformidade com a LGPD (Lei Geral de Proteção de Dados). Uma empresa de formatura estruturada mantém políticas de proteção de dados pessoais, controles de acesso ao acervo fotográfico, termos de uso da imagem e processos de exclusão de fotos quando solicitado pelo formando ou sua família. Essas práticas são parte das melhores práticas de mercado e refletem o compromisso da empresa de formatura com a privacidade dos formandos. Na Pixi, tratamos os dados e imagens dos formandos com o mesmo cuidado que dedicamos à qualidade técnica das fotografias, seguindo as diretrizes da LGPD em todas as etapas do processo."
+        text: "Outro aspecto importante é a conformidade com a **LGPD** (Lei Geral de Proteção de Dados). Uma empresa de formatura estruturada mantém políticas de proteção de dados pessoais, controles de acesso ao acervo fotográfico, termos de uso da imagem e processos de exclusão de fotos quando solicitado pelo formando ou sua família. Essas práticas são parte das melhores práticas de mercado e refletem o compromisso da empresa de formatura com a privacidade dos formandos. Na Pixi, tratamos os dados e imagens dos formandos com o mesmo cuidado que dedicamos à qualidade técnica das fotografias, seguindo as diretrizes da LGPD em todas as etapas do processo."
       },
       {
         type: "h2",
@@ -126,7 +126,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Além do reconhecimento facial, nossa plataforma permite que formandos e familiares acessem as fotos por navegador, sem necessidade de instalar aplicativos proprietários. Essa abertura de acesso é uma decisão deliberada: acreditamos que a comissão e os formandos devem ter acesso irrestrito ao material que contrataram e pagaram, sem barreiras tecnológicas ou cobranças adicionais para download. Essa postura transparente é parte do que nos define como empresa especializada em fotografia de formatura e reflete as melhores práticas de mercado para entrega de conteúdo fotográfico digital, em conformidade com as diretrizes da LGPD sobre acesso aos próprios dados pessoais."
+        text: "Além do reconhecimento facial, nossa plataforma permite que formandos e familiares acessem as fotos por navegador, sem necessidade de instalar aplicativos proprietários. Essa abertura de acesso é uma decisão deliberada: acreditamos que a comissão e os formandos devem ter acesso irrestrito ao material que contrataram e pagaram, sem barreiras tecnológicas ou cobranças adicionais para download. Essa postura transparente é parte do que nos define como empresa especializada em fotografia de formatura e reflete as melhores práticas de mercado para entrega de conteúdo fotográfico digital, em conformidade com as diretrizes da **LGPD** sobre acesso aos próprios dados pessoais."
       },
       {
         type: "h2",
@@ -163,7 +163,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "O resultado foi um álbum com fotos desfocadas nos momentos da entrega dos diplomas, ausência de registros de vários formandos que estavam nos cantos do auditório e um prazo de entrega que se estendeu por mais de quatro meses. A comissão então nos procurou para refazer as fotos — mas uma colação de grau não pode ser refeita. A partir daí, contrataram a Pixi Formaturas para fotografar o baile de gala da mesma turma, e a diferença na qualidade e no atendimento foi imediatamente perceptível. Esse caso reforça por que recomendamos que a comissão avalie a fotografia como um item separado, com critérios específicos, mesmo quando opta por um pacote completo para os demais serviços da formatura."
+        text: "O resultado foi um álbum com fotos desfocadas nos momentos da entrega dos diplomas, ausência de registros de vários formandos que estavam nos cantos do auditório e um prazo de entrega que se estendeu por **mais de quatro meses**. A comissão então nos procurou para refazer as fotos — mas uma colação de grau não pode ser refeita. A partir daí, contrataram a Pixi Formaturas para fotografar o baile de gala da mesma turma, e a diferença na qualidade e no atendimento foi imediatamente perceptível. Esse caso reforça por que recomendamos que a comissão avalie a fotografia como um item separado, com critérios específicos, mesmo quando opta por um pacote completo para os demais serviços da formatura."
       },
       {
         type: "h2",
@@ -179,7 +179,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Essa cobertura geográfica ampla é resultado de mais de uma década de atuação no mercado. Desde 2015, construímos nossa reputação como fornecedor de fotografia de formatura em São Paulo atendendo turmas de todos os portes, desde formaturas de 9º ano com 30 alunos até colações de grau universitárias com mais de 300 formandos. Conhecemos as particularidades de cada tipo de cerimônia e de cada região da cidade, o que nos permite posicionar a equipe de forma estratégica e antecipar os desafios logísticos de cada evento. Para saber mais sobre nossa atuação na região, visite a página [empresa de formatura SP](/empresa-de-formatura-sp/)."
+        text: "Essa cobertura geográfica ampla é resultado de **mais de uma década de atuação** no mercado. Desde 2015, construímos nossa reputação como fornecedor de fotografia de formatura em São Paulo atendendo turmas de todos os portes, desde formaturas de 9º ano com 30 alunos até colações de grau universitárias com mais de 300 formandos. Conhecemos as particularidades de cada tipo de cerimônia e de cada região da cidade, o que nos permite posicionar a equipe de forma estratégica e antecipar os desafios logísticos de cada evento. Para saber mais sobre nossa atuação na região, visite a página [empresa de formatura SP](/empresa-de-formatura-sp/)."
       },
       {
         type: "h3",
@@ -191,7 +191,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Quarto, o parcelamento em até 12x: sabemos que o custo da formatura é dividido entre os membros da comissão, e facilitar o pagamento é parte do nosso compromisso com a acessibilidade do serviço. Quinto, a conformidade com a LGPD: mantemos políticas de proteção de dados, termos de uso de imagem e processos de exclusão de fotos sob demanda, seguindo as melhores práticas de mercado para empresas que lidam com dados pessoais em grande volume. Esses diferenciais não são promessas de marketing — são práticas consolidadas ao longo de mais de 500 turmas atendidas desde 2015, verificáveis através do nosso portfólio e das referências de comissões anteriores."
+        text: "Quarto, o **parcelamento em até 12x**: sabemos que o custo da formatura é dividido entre os membros da comissão, e facilitar o pagamento é parte do nosso compromisso com a acessibilidade do serviço. Quinto, a conformidade com a LGPD: mantemos políticas de proteção de dados, termos de uso de imagem e processos de exclusão de fotos sob demanda, seguindo as melhores práticas de mercado para empresas que lidam com dados pessoais em grande volume. Esses diferenciais não são promessas de marketing — são práticas consolidadas ao longo de **mais de 500 turmas atendidas** desde 2015, verificáveis através do nosso portfólio e das referências de comissões anteriores."
       },
       {
         type: "h2",
@@ -283,7 +283,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A Pixi Formaturas se posiciona como uma empresa de formatura que combina o melhor dos dois mundos: temos a estrutura de uma empresa — equipe própria de fotógrafos, equipamentos de backup em todos os eventos, fluxo de pós-produção estruturado e entrega do [álbum digital](/servicos/album-digital/) com reconhecimento facial em 30 dias — com o atendimento próximo e personalizado que normalmente se associa a fotógrafos independentes. Desde 2015, atendemos mais de 500 turmas com essa abordagem em São Paulo e região, sempre priorizando a qualidade do registro fotográfico. Entender [o que é uma empresa de formatura](/blog/empresa-de-formatura-o-que-e/) e como ela funciona é o primeiro passo para fazer essa comparação de forma informada."
+        text: "A Pixi Formaturas se posiciona como uma empresa de formatura que combina o melhor dos dois mundos: temos a estrutura de uma empresa — equipe própria de fotógrafos, equipamentos de backup em todos os eventos, fluxo de pós-produção estruturado e entrega do [álbum digital](/servicos/album-digital/) com reconhecimento facial em 30 dias — com o atendimento próximo e personalizado que normalmente se associa a fotógrafos independentes. **Desde 2015**, atendemos **mais de 500 turmas** com essa abordagem em São Paulo e região, sempre priorizando a qualidade do registro fotográfico. Entender [o que é uma empresa de formatura](/blog/empresa-de-formatura-o-que-e/) e como ela funciona é o primeiro passo para fazer essa comparação de forma informada."
       },
       {
         type: "h2",
@@ -307,11 +307,11 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A empresa de formatura especializada em fotografia funciona com equipes, processos e infraestrutura própria. Isso inclui múltiplos fotógrafos por evento, equipamentos reserva (câmeras, lentes, flashes e cartões de memória), sistemas de organização das fotos como reconhecimento facial, um fluxo de pós-produção que não depende de uma única pessoa e prazos de entrega formalizados em contrato. Na Pixi Formaturas, cada evento conta com dois a três fotógrafos posicionados estrategicamente para cobrir diferentes ângulos e ambientes simultaneamente, garantindo que nenhum momento importante passe sem registro."
+        text: "A **empresa de formatura especializada em fotografia** funciona com equipes, processos e infraestrutura própria. Isso inclui múltiplos fotógrafos por evento, equipamentos reserva (câmeras, lentes, flashes e cartões de memória), sistemas de organização das fotos como reconhecimento facial, um fluxo de pós-produção que não depende de uma única pessoa e prazos de entrega formalizados em contrato. Na Pixi Formaturas, cada evento conta com dois a três fotógrafos posicionados estrategicamente para cobrir diferentes ângulos e ambientes simultaneamente, garantindo que nenhum momento importante passe sem registro."
       },
       {
         type: "p",
-        text: "Essa estrutura impacta diretamente na capacidade de atendimento e na segurança da entrega. Se um fotógrafo da equipe tiver um imprevisto, outro profissional assume imediatamente, sem impacto para a turma. A pós-produção é feita por uma equipe dedicada, o que permite manter o prazo de 30 dias mesmo em temporadas com múltiplos eventos. E a conformidade com a LGPD — incluindo termos de uso de imagem, controles de acesso ao acervo e processos de exclusão de dados — é parte das operações da empresa, não uma preocupação individual de um profissional autônomo. Essas diferenças estruturais são o que torna a empresa de formatura uma opção mais segura para eventos de grande porte."
+        text: "Essa estrutura impacta diretamente na capacidade de atendimento e na segurança da entrega. Se um fotógrafo da equipe tiver um imprevisto, outro profissional assume imediatamente, sem impacto para a turma. A pós-produção é feita por uma equipe dedicada, o que permite manter o **prazo de 30 dias** mesmo em temporadas com múltiplos eventos. E a conformidade com a **LGPD** — incluindo termos de uso de imagem, controles de acesso ao acervo e processos de exclusão de dados — é parte das operações da empresa, não uma preocupação individual de um profissional autônomo. Essas diferenças estruturais são o que torna a empresa de formatura uma opção mais segura para eventos de grande porte."
       },
       {
         type: "h2",
@@ -352,7 +352,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Essa redundância não é paranoia — é profissionalismo baseado em experiência. Em mais de 500 formaturas atendidas desde 2015, já enfrentamos situações em que equipamentos falharam durante cerimônias. Em todas elas, o backup entrou em ação em segundos, e a turma nem percebeu o imprevisto. Um fotógrafo independente que trabalha com uma única câmera e sem reserva está expondo a turma a um risco real: a perda irreversível do registro de um momento que não pode ser repetido. Essa diferença de segurança é especialmente crítica em colações de grau, onde cada formando sobe ao palco uma única vez para receber o diploma, e o momento dura poucos segundos."
+        text: "Essa redundância não é paranoia — é profissionalismo baseado em experiência. Em **mais de 500 formaturas atendidas** desde 2015, já enfrentamos situações em que equipamentos falharam durante cerimônias. Em todas elas, o backup entrou em ação em segundos, e a turma nem percebeu o imprevisto. Um fotógrafo independente que trabalha com uma única câmera e sem reserva está expondo a turma a um risco real: a perda irreversível do registro de um momento que não pode ser repetido. Essa diferença de segurança é especialmente crítica em colações de grau, onde cada formando sobe ao palco uma única vez para receber o diploma, e o momento dura poucos segundos."
       },
       {
         type: "h3",
@@ -364,7 +364,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A pós-produção estruturada também garante consistência na qualidade das fotos. Quando a edição é feita por uma equipe treinada seguindo um padrão definido, o resultado final é uniforme em termos de cores, exposição e tratamento. Um fotógrafo independente pode entregar fotos belíssimas quando está descansado e motivado, mas o padrão pode cair quando está sobrecarregado com múltiplos eventos não editados. Além disso, a empresa de formatura costuma oferecer condições de pagamento mais flexíveis, como parcelamento em até 12x, o que facilita a vida da comissão de formandos que precisa dividir o investimento entre os membros da turma."
+        text: "A pós-produção estruturada também garante consistência na qualidade das fotos. Quando a edição é feita por uma equipe treinada seguindo um padrão definido, o resultado final é uniforme em termos de cores, exposição e tratamento. Um fotógrafo independente pode entregar fotos belíssimas quando está descansado e motivado, mas o padrão pode cair quando está sobrecarregado com múltiplos eventos não editados. Além disso, a empresa de formatura costuma oferecer condições de pagamento mais flexíveis, como **parcelamento em até 12x**, o que facilita a vida da comissão de formandos que precisa dividir o investimento entre os membros da turma."
       },
       {
         type: "h2",
@@ -380,7 +380,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "No entanto, mesmo nesses casos, é fundamental verificar se o profissional tem experiência específica com formaturas, se possui equipamento de backup disponível, qual o prazo de entrega garantido e o que acontece em caso de imprevisto no dia do evento. Um fotógrafo excelente em casamentos ou ensaios de família pode não ter a mesma desenvoltura em uma colação de grau, onde o protocolo acadêmico é rígido, os momentos-chave são rápidos e o posicionamento do fotógrafo precisa ser estratégico para não interferir na cerimônia. A experiência específica com formaturas é um critério que não deve ser ignorado, independentemente do modelo de contratação escolhido pela comissão."
+        text: "No entanto, mesmo nesses casos, é fundamental verificar se o profissional tem experiência específica com formaturas, se possui **equipamento de backup** disponível, qual o prazo de entrega garantido e o que acontece em caso de imprevisto no dia do evento. Um fotógrafo excelente em casamentos ou ensaios de família pode não ter a mesma desenvoltura em uma colação de grau, onde o protocolo acadêmico é rígido, os momentos-chave são rápidos e o posicionamento do fotógrafo precisa ser estratégico para não interferir na cerimônia. A experiência específica com formaturas é um critério que não deve ser ignorado, independentemente do modelo de contratação escolhido pela comissão."
       },
       {
         type: "h3",
@@ -392,7 +392,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A comissão ficou frustrada e buscou alternativas, mas não havia como refazer a cerimônia. Esse caso ilustra um ponto importante: a qualidade artística de um fotógrafo não substitui a experiência operacional com formaturas e a redundância de equipe. Na Pixi Formaturas, cada colação de grau é coberta por pelo menos dois fotógrafos posicionados em ângulos complementares, garantindo que cada formando seja registrado no momento da entrega do diploma. Essa abordagem só é possível com a estrutura de uma empresa de formatura que mantém equipe própria treinada especificamente para cerimônias acadêmicas."
+        text: "A comissão ficou frustrada e buscou alternativas, mas não havia como refazer a cerimônia. Esse caso ilustra um ponto importante: a qualidade artística de um fotógrafo não substitui a experiência operacional com formaturas e a redundância de equipe. Na Pixi Formaturas, cada colação de grau é coberta por pelo menos dois fotógrafos posicionados em ângulos complementares, garantindo que cada formando seja registrado no momento da entrega do diploma. Essa abordagem só é possível com a estrutura de uma empresa de formatura que mantém **equipe própria** treinada especificamente para cerimônias acadêmicas."
       },
       {
         type: "h2",
@@ -471,7 +471,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A Pixi Formaturas é uma empresa de formatura especializada exclusivamente em fotografia. Desde 2015, atendemos mais de 500 turmas em São Paulo e região — de bairros como Moema, Vila Mariana e Pinheiros até cidades do ABC como Santo André e São Bernardo do Campo — com essa abordagem focada. A experiência acumulada nos mostra que turmas que priorizam a qualidade do registro fotográfico geralmente preferem trabalhar com uma empresa especializada, mesmo quando contratam uma agência completa para os demais serviços. Para entender o panorama geral, leia primeiro nosso artigo sobre [o que é uma empresa de formatura](/blog/empresa-de-formatura-o-que-e/)."
+        text: "A Pixi Formaturas é uma empresa de formatura especializada exclusivamente em fotografia. **Desde 2015**, atendemos **mais de 500 turmas** em São Paulo e região — de bairros como Moema, Vila Mariana e Pinheiros até cidades do ABC como Santo André e São Bernardo do Campo — com essa abordagem focada. A experiência acumulada nos mostra que turmas que priorizam a qualidade do registro fotográfico geralmente preferem trabalhar com uma empresa especializada, mesmo quando contratam uma agência completa para os demais serviços. Para entender o panorama geral, leia primeiro nosso artigo sobre [o que é uma empresa de formatura](/blog/empresa-de-formatura-o-que-e/)."
       },
       {
         type: "h2",
@@ -511,7 +511,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Uma empresa de formatura especializada em fotografia, como a Pixi Formaturas, dedica 100% dos seus recursos a um único serviço. Isso permite investir continuamente em equipamentos de última geração, treinamento da equipe para os diferentes formatos de cerimônia acadêmica, tecnologias como reconhecimento facial no álbum digital e um fluxo de pós-produção otimizado para entregar as fotos editadas em até 30 dias. A especialização também significa que cada fotógrafo da equipe tem experiência acumulada exclusivamente em formaturas, conhecendo o roteiro típico de colações de grau, a dinâmica de bailes e jantares de gala, e os melhores ângulos para cada momento de cada tipo de evento."
+        text: "Uma empresa de formatura especializada em fotografia, como a Pixi Formaturas, dedica **100% dos seus recursos** a um único serviço. Isso permite investir continuamente em equipamentos de última geração, treinamento da equipe para os diferentes formatos de cerimônia acadêmica, tecnologias como **reconhecimento facial** no álbum digital e um fluxo de pós-produção otimizado para entregar as fotos editadas em **até 30 dias**. A especialização também significa que cada fotógrafo da equipe tem experiência acumulada exclusivamente em formaturas, conhecendo o roteiro típico de colações de grau, a dinâmica de bailes e jantares de gala, e os melhores ângulos para cada momento de cada tipo de evento."
       },
       {
         type: "p",
@@ -568,7 +568,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Nesses casos, recomendamos que a comissão pelo menos verifique quem será o fotógrafo designado para o evento, peça para ver trabalhos anteriores desse profissional específico (não apenas o portfólio genérico da agência) e confirme se há equipamento de backup disponível. Mesmo dentro de um pacote completo, é possível negociar condições melhores para a fotografia, como exigir um número mínimo de fotógrafos, prazo de entrega definido e entrega das fotos em galeria aberta, sem aplicativo proprietário. Essas garantias devem estar formalizadas no contrato para ter valor legal."
+        text: "Nesses casos, recomendamos que a comissão pelo menos verifique quem será o fotógrafo designado para o evento, peça para ver trabalhos anteriores desse profissional específico (não apenas o portfólio genérico da agência) e confirme se há **equipamento de backup** disponível. Mesmo dentro de um pacote completo, é possível negociar condições melhores para a fotografia, como exigir um número mínimo de fotógrafos, prazo de entrega definido e entrega das fotos em galeria aberta, sem aplicativo proprietário. Essas garantias devem estar formalizadas no contrato para ter valor legal."
       },
       {
         type: "h3",
@@ -576,7 +576,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Uma turma de Pedagogia de uma faculdade da zona sul de São Paulo (nomes omitidos por privacidade) contratou uma empresa de formatura completa para organizar toda a cerimônia e o baile. O pacote incluía fotografia, e a agência garantiu que enviaria um fotógrafo experiente. No dia da colação de grau, o fotógrafo designado era um profissional que normalmente trabalhava com eventos corporativos e não tinha experiência com formaturas acadêmicas. Ele posicionou-se de forma inadequada durante a cerimônia, não conhecia o protocolo de entrega dos diplomas e perdeu vários momentos importantes. As fotos foram entregues quatro meses depois, sem edição profissional e em formato JPEG comprimido."
+        text: "Uma turma de Pedagogia de uma faculdade da zona sul de São Paulo (nomes omitidos por privacidade) contratou uma empresa de formatura completa para organizar toda a cerimônia e o baile. O pacote incluía fotografia, e a agência garantiu que enviaria um fotógrafo experiente. No dia da colação de grau, o fotógrafo designado era um profissional que normalmente trabalhava com eventos corporativos e não tinha experiência com formaturas acadêmicas. Ele posicionou-se de forma inadequada durante a cerimônia, não conhecia o protocolo de entrega dos diplomas e perdeu vários momentos importantes. As fotos foram entregues **quatro meses** depois, sem edição profissional e em formato JPEG comprimido."
       },
       {
         type: "p",
@@ -596,7 +596,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na Pixi Formaturas, oferecemos [ensaio personalizado](/servicos/ensaio-personalizado/) em locações icônicas de São Paulo, cobertura completa da cerimônia de colação de grau com múltiplos fotógrafos, registro do jantar e do baile de gala, álbum digital com reconhecimento facial e álbum impresso em papel fotográfico de alta qualidade, tudo com entrega em até 30 dias e parcelamento em até 12x. Cada um desses serviços é executado pela mesma equipe própria, treinada especificamente para formaturas, o que garante coesão visual em todo o material e um registro narrativo completo do evento. Solicite orçamento pelo WhatsApp e conheça nossas opções para a sua formatura em [SP](/empresa-de-formatura-sp/)."
+        text: "Na Pixi Formaturas, oferecemos [ensaio personalizado](/servicos/ensaio-personalizado/) em locações icônicas de São Paulo, cobertura completa da cerimônia de colação de grau com múltiplos fotógrafos, registro do jantar e do baile de gala, álbum digital com reconhecimento facial e álbum impresso em papel fotográfico de alta qualidade, tudo com entrega em até 30 dias e **parcelamento em até 12x**. Cada um desses serviços é executado pela **mesma equipe própria**, treinada especificamente para formaturas, o que garante coesão visual em todo o material e um registro narrativo completo do evento. Solicite orçamento pelo WhatsApp e conheça nossas opções para a sua formatura em [SP](/empresa-de-formatura-sp/)."
       },
       {
         type: "h3",
@@ -632,7 +632,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Nossa recomendação, com base em mais de uma década de experiência atendendo turmas em São Paulo, é que a comissão trate a fotografia como um item separado, com critérios próprios de avaliação, independentemente de optar por um pacote completo ou por fornecedores individuais. As fotos são o legado permanente da formatura, e merecem o mesmo nível de atenção e investimento que a turma dedica à escolha do espaço para a festa ou do buffet. Quando a fotografia é tratada como apêndice de um pacote maior, o risco de decepção é significativamente maior do que quando é contratada com base em critérios específicos de qualidade."
+        text: "Nossa recomendação, com base em **mais de uma década de experiência** atendendo turmas em São Paulo, é que a comissão trate a fotografia como um item separado, com critérios próprios de avaliação, independentemente de optar por um pacote completo ou por fornecedores individuais. As fotos são o legado permanente da formatura, e merecem o mesmo nível de atenção e investimento que a turma dedica à escolha do espaço para a festa ou do buffet. Quando a fotografia é tratada como apêndice de um pacote maior, o risco de decepção é significativamente maior do que quando é contratada com base em critérios específicos de qualidade."
       },
       {
         type: "p",
@@ -646,7 +646,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         question: "Posso contratar a Pixi só para a fotografia e outra empresa para o resto?",
-        answer: "Sim, muitas comissões fazem exatamente isso e é um dos modelos mais comuns entre as turmas que nos procuram. A Pixi Formaturas trabalha em conjunto com outros fornecedores no dia do evento, cuidando exclusivamente da cobertura fotográfica com equipe própria, equipamento de backup e entrega em 30 dias. Já coordenamos com dezenas de agências de eventos diferentes em mais de 500 formaturas desde 2015."
+        answer: "Sim, muitas comissões fazem exatamente isso e é um dos modelos mais comuns entre as turmas que nos procuram. A Pixi Formaturas trabalha em conjunto com outros fornecedores no dia do evento, cuidando exclusivamente da cobertura fotográfica com equipe própria, equipamento de backup e entrega em 30 dias. Já coordenamos com dezenas de agências de eventos diferentes em **mais de 500 formaturas** desde 2015."
       },
       {
         question: "Qual modelo sai mais barato para a fotografia?",
@@ -691,7 +691,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na Pixi Formaturas, acumulamos desde 2015 a experiência de mais de 500 turmas atendidas em universidades como USP, PUC-SP, Mackenzie, FGV, Insper, FECAP, Metodista, FMABC, UFABC e USCS. Ao longo dessa trajetória, percebemos que muitas comissões chegam até nós após experiências frustrantes com fornecedores anteriores, justamente por não terem seguido critérios objetivos na hora da contratação. Por isso, elaboramos este guia completo com 12 critérios definitivos que toda comissão deveria avaliar antes de assinar qualquer contrato com uma [empresa de formatura](/blog/empresa-de-formatura-o-que-e/). Cada critério foi selecionado com base nas dúvidas mais frequentes que recebemos e nos problemas mais comuns que observamos no mercado paulistano de formaturas."
+        text: "Na Pixi Formaturas, acumulamos **desde 2015** a experiência de **mais de 500 turmas** atendidas em universidades como USP, PUC-SP, Mackenzie, FGV, Insper, FECAP, Metodista, FMABC, UFABC e USCS. Ao longo dessa trajetória, percebemos que muitas comissões chegam até nós após experiências frustrantes com fornecedores anteriores, justamente por não terem seguido critérios objetivos na hora da contratação. Por isso, elaboramos este guia completo com 12 critérios definitivos que toda comissão deveria avaliar antes de assinar qualquer contrato com uma [empresa de formatura](/blog/empresa-de-formatura-o-que-e/). Cada critério foi selecionado com base nas dúvidas mais frequentes que recebemos e nos problemas mais comuns que observamos no mercado paulistano de formaturas."
       },
       {
         type: "h2",
@@ -715,7 +715,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "O tempo de atuação no mercado de formaturas e o número de turmas atendidas são indicadores importantes da solidez e da confiabilidade de uma empresa de formatura. Empresas que estão no mercado há muitos anos e já atenderam centenas de turmas desenvolvem processos internos mais maduros, conhecem as particularidades de cada universidade e possuem experiência para lidar com imprevistos que inevitavelmente acontecem em eventos desse porte. A Pixi Formaturas atua desde 2015 e já fotografou mais de 500 turmas em São Paulo, Grande SP e ABC, o que nos confere um conhecimento profundo das dinâmicas de cerimônias em locais como o auditório da Mackenzie, os campi da PUC-SP e os salões de eventos em Guarulhos, Osasco e Barueri."
+        text: "O tempo de atuação no mercado de formaturas e o número de turmas atendidas são indicadores importantes da solidez e da confiabilidade de uma empresa de formatura. Empresas que estão no mercado há muitos anos e já atenderam centenas de turmas desenvolvem processos internos mais maduros, conhecem as particularidades de cada universidade e possuem experiência para lidar com imprevistos que inevitavelmente acontecem em eventos desse porte. A Pixi Formaturas atua **desde 2015** e já fotografou **mais de 500 turmas** em São Paulo, Grande SP e ABC, o que nos confere um conhecimento profundo das dinâmicas de cerimônias em locais como o auditório da Mackenzie, os campi da PUC-SP e os salões de eventos em Guarulhos, Osasco e Barueri."
       },
       {
         type: "p",
@@ -731,11 +731,11 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Um contrato claro e transparente é a principal ferramenta de proteção da comissão de formandos ao contratar uma empresa de formatura. O documento deve detalhar todos os serviços incluídos, prazos de entrega, condições de cancelamento, políticas de reembolso, quantidade de profissionais que estarão presentes no evento e especificações técnicas do material entregue. Cuidado com contratos vagos que não especificam prazos ou que usam termos genéricos como 'entrega em prazo razoável' — esse tipo de linguagem deixa a comissão sem respaldo caso a empresa demore meses para entregar as fotos. Na Pixi Formaturas, nosso contrato especifica prazo de entrega de 30 dias, quantidade de fotógrafos por evento e todas as especificações do [álbum digital](/servicos/album-digital/) entregue."
+        text: "Um contrato claro e transparente é a principal ferramenta de proteção da comissão de formandos ao contratar uma empresa de formatura. O documento deve detalhar todos os serviços incluídos, prazos de entrega, condições de cancelamento, políticas de reembolso, quantidade de profissionais que estarão presentes no evento e especificações técnicas do material entregue. Cuidado com contratos vagos que não especificam prazos ou que usam termos genéricos como 'entrega em prazo razoável' — esse tipo de linguagem deixa a comissão sem respaldo caso a empresa demore meses para entregar as fotos. Na Pixi Formaturas, nosso contrato especifica **prazo de entrega de 30 dias**, quantidade de fotógrafos por evento e todas as especificações do [álbum digital](/servicos/album-digital/) entregue."
       },
       {
         type: "p",
-        text: "Verifique também se o contrato está em conformidade com o Código de Defesa do Consumidor e com a LGPD (Lei Geral de Proteção de Dados), especialmente no que diz respeito ao uso de imagens dos formandos. Uma empresa de formatura [credenciada e responsável](/blog/empresa-de-formatura-credenciada/) deve incluir cláusulas específicas sobre como as fotos serão armazenadas, por quanto tempo e quem terá acesso a elas. Esses detalhes, embora pareçam burocráticos, são fundamentais para proteger os direitos dos formandos e garantir que a comissão tenha respaldo legal em caso de descumprimento de qualquer item acordado. Leve o contrato para análise jurídica antes de assinar, mesmo que a empresa de formatura aparente ser idônea."
+        text: "Verifique também se o contrato está em conformidade com o **Código de Defesa do Consumidor** e com a **LGPD** (Lei Geral de Proteção de Dados), especialmente no que diz respeito ao uso de imagens dos formandos. Uma empresa de formatura [credenciada e responsável](/blog/empresa-de-formatura-credenciada/) deve incluir cláusulas específicas sobre como as fotos serão armazenadas, por quanto tempo e quem terá acesso a elas. Esses detalhes, embora pareçam burocráticos, são fundamentais para proteger os direitos dos formandos e garantir que a comissão tenha respaldo legal em caso de descumprimento de qualquer item acordado. Leve o contrato para análise jurídica antes de assinar, mesmo que a empresa de formatura aparente ser idônea."
       },
       {
         type: "h3",
@@ -759,7 +759,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Um dos critérios mais negligenciados pelas comissões ao escolher uma empresa de formatura em SP é verificar se a equipe de fotógrafos é própria ou terceirizada. Empresas que trabalham com equipe própria possuem maior controle sobre a qualidade do trabalho, o treinamento dos profissionais e a padronização das entregas. Quando a equipe é terceirizada, a empresa contratada pela comissão funciona apenas como intermediária, repassando o serviço para fotógrafos freelancers que podem variar de evento para evento — e com eles, varia também a qualidade. A Pixi Formaturas mantém equipe própria de fotógrafos, todos treinados especificamente para formaturas, o que nos permite garantir consistência em cada evento."
+        text: "Um dos critérios mais negligenciados pelas comissões ao escolher uma empresa de formatura em SP é verificar se a equipe de fotógrafos é própria ou terceirizada. Empresas que trabalham com equipe própria possuem maior controle sobre a qualidade do trabalho, o treinamento dos profissionais e a padronização das entregas. Quando a equipe é terceirizada, a empresa contratada pela comissão funciona apenas como intermediária, repassando o serviço para fotógrafos freelancers que podem variar de evento para evento — e com eles, varia também a qualidade. A Pixi Formaturas mantém **equipe própria** de fotógrafos, todos treinados especificamente para formaturas, o que nos permite garantir consistência em cada evento."
       },
       {
         type: "p",
@@ -771,7 +771,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A formatura é um evento irrepetível, e qualquer falha de equipamento durante a cobertura pode resultar na perda de momentos cruciais. Por isso, verificar se a empresa de formatura possui equipamento profissional e, principalmente, equipamento de backup é um critério inegociável. Uma empresa preparada leva câmeras reserva, lentes extras, baterias sobressalentes, flashes adicionais e cartões de memória redundantes para cada evento. Na Pixi Formaturas, operamos com equipamento de backup completo em todos os eventos — se uma câmera falhar no meio da colação de grau, temos outra pronta para assumir imediatamente, sem que nenhum momento seja perdido."
+        text: "A formatura é um evento irrepetível, e qualquer falha de equipamento durante a cobertura pode resultar na perda de momentos cruciais. Por isso, verificar se a empresa de formatura possui equipamento profissional e, principalmente, equipamento de backup é um critério inegociável. Uma empresa preparada leva câmeras reserva, lentes extras, baterias sobressalentes, flashes adicionais e cartões de memória redundantes para cada evento. Na Pixi Formaturas, operamos com **equipamento de backup** completo em todos os eventos — se uma câmera falhar no meio da colação de grau, temos outra pronta para assumir imediatamente, sem que nenhum momento seja perdido."
       },
       {
         type: "p",
@@ -783,7 +783,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A tecnologia utilizada na entrega das fotos é um diferencial cada vez mais relevante no mercado de fotografia de formatura em São Paulo. O reconhecimento facial, por exemplo, permite que cada formando acesse automaticamente todas as fotos em que aparece, sem precisar navegar por milhares de imagens em busca das suas. Essa tecnologia agiliza a experiência de visualização e aumenta significativamente a satisfação da turma com o serviço contratado. Na Pixi Formaturas, o reconhecimento facial é padrão em todos os [álbuns digitais](/servicos/album-digital/) e funciona integrado às nossas [soluções digitais](/servicos/solucoes-digitais/), organizando automaticamente as fotos de cada formando."
+        text: "A tecnologia utilizada na entrega das fotos é um diferencial cada vez mais relevante no mercado de fotografia de formatura em São Paulo. O **reconhecimento facial**, por exemplo, permite que cada formando acesse automaticamente todas as fotos em que aparece, sem precisar navegar por milhares de imagens em busca das suas. Essa tecnologia agiliza a experiência de visualização e aumenta significativamente a satisfação da turma com o serviço contratado. Na Pixi Formaturas, o reconhecimento facial é padrão em todos os [álbuns digitais](/servicos/album-digital/) e funciona integrado às nossas [soluções digitais](/servicos/solucoes-digitais/), organizando automaticamente as fotos de cada formando."
       },
       {
         type: "p",
@@ -799,7 +799,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "O prazo de entrega é, sem dúvida, uma das maiores fontes de frustração entre formandos em todo o Brasil, e em São Paulo não é diferente. Existem relatos de turmas que esperaram seis meses, um ano ou até mais para receber as fotos da formatura, transformando a ansiedade positiva do pós-evento em uma experiência desgastante de cobranças e promessas não cumpridas. Para evitar esse cenário, exija que o prazo de entrega esteja claramente especificado em contrato, com data ou período definido contado a partir da realização do evento. Na Pixi Formaturas, nosso compromisso contratual é entregar o álbum digital completo em até 30 dias após o evento — e cumprimos esse prazo consistentemente."
+        text: "O prazo de entrega é, sem dúvida, uma das maiores fontes de frustração entre formandos em todo o Brasil, e em São Paulo não é diferente. Existem relatos de turmas que esperaram seis meses, um ano ou até mais para receber as fotos da formatura, transformando a ansiedade positiva do pós-evento em uma experiência desgastante de cobranças e promessas não cumpridas. Para evitar esse cenário, exija que o prazo de entrega esteja claramente especificado em contrato, com data ou período definido contado a partir da realização do evento. Na Pixi Formaturas, nosso compromisso contratual é entregar o álbum digital completo em **até 30 dias** após o evento — e cumprimos esse prazo consistentemente."
       },
       {
         type: "p",
@@ -914,7 +914,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A comissão decidiu aplicar uma versão simplificada dos critérios que apresentamos neste guia: avaliou portfólios, verificou tempo de mercado, leu avaliações online, analisou contratos e comparou condições de pagamento. Após esse filtro, três empresas foram selecionadas para uma reunião presencial, entre elas a Pixi Formaturas. Na reunião, apresentamos nosso portfólio completo com eventos recentes na própria Mackenzie, explicamos nosso processo de trabalho com equipe própria e equipamento de backup, demonstramos o funcionamento do reconhecimento facial no álbum digital e detalhamos nosso compromisso contratual com entrega em 30 dias. A comissão nos contratou e, após a cerimônia, recebeu todas as fotos dentro do prazo, com cada formando acessando suas imagens automaticamente pelo reconhecimento facial."
+        text: "A comissão decidiu aplicar uma versão simplificada dos critérios que apresentamos neste guia: avaliou portfólios, verificou tempo de mercado, leu avaliações online, analisou contratos e comparou condições de pagamento. Após esse filtro, três empresas foram selecionadas para uma reunião presencial, entre elas a Pixi Formaturas. Na reunião, apresentamos nosso portfólio completo com eventos recentes na própria Mackenzie, explicamos nosso processo de trabalho com **equipe própria** e **equipamento de backup**, demonstramos o funcionamento do **reconhecimento facial** no álbum digital e detalhamos nosso compromisso contratual com entrega em 30 dias. A comissão nos contratou e, após a cerimônia, recebeu todas as fotos dentro do prazo, com cada formando acessando suas imagens automaticamente pelo reconhecimento facial."
       },
       {
         type: "h3",
@@ -1018,7 +1018,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na prática, empresas que cobram significativamente menos que a média do mercado paulistano geralmente cortam custos em áreas críticas: usam equipamento inferior, contratam fotógrafos freelancers inexperientes, não possuem backup de equipamento e não investem em tecnologias como reconhecimento facial para organização do [álbum digital](/servicos/album-digital/). Na Pixi Formaturas, nosso preço reflete o investimento que fazemos em equipe própria treinada, equipamento profissional com redundância completa, tecnologia de entrega com reconhecimento facial e compromisso contratual com entrega em 30 dias. Compare preços apenas entre empresas que oferecem padrões semelhantes de qualidade para que a comparação seja justa e a decisão, acertada."
+        text: "Na prática, empresas que cobram significativamente menos que a média do mercado paulistano geralmente cortam custos em áreas críticas: usam equipamento inferior, contratam fotógrafos freelancers inexperientes, não possuem backup de equipamento e não investem em tecnologias como reconhecimento facial para organização do [álbum digital](/servicos/album-digital/). Na Pixi Formaturas, nosso preço reflete o investimento que fazemos em equipe própria treinada, equipamento profissional com redundância completa, tecnologia de entrega com reconhecimento facial e compromisso contratual com **entrega em 30 dias**. Compare preços apenas entre empresas que oferecem padrões semelhantes de qualidade para que a comparação seja justa e a decisão, acertada."
       },
       {
         type: "h3",
@@ -1054,11 +1054,11 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Um erro surpreendentemente comum é a comissão assinar o contrato com a empresa de formatura sem lê-lo integralmente. Muitos membros de comissões confiam na explicação verbal do vendedor e assinam o documento sem verificar se o que foi prometido oralmente está efetivamente formalizado no contrato. Esse descuido é perigoso porque, juridicamente, o que vale é o que está escrito no contrato, não o que foi dito em reunião. Se o vendedor prometeu entrega em 30 dias mas o contrato diz 'prazo a definir', a comissão não terá respaldo legal para cobrar o cumprimento da promessa verbal. Leia cada cláusula, cada parágrafo e cada nota de rodapé antes de assinar."
+        text: "Um erro surpreendentemente comum é a comissão assinar o contrato com a empresa de formatura sem lê-lo integralmente. Muitos membros de comissões confiam na explicação verbal do vendedor e assinam o documento sem verificar se o que foi prometido oralmente está efetivamente formalizado no contrato. Esse descuido é perigoso porque, juridicamente, o que vale é o que está escrito no contrato, não o que foi dito em reunião. Se o vendedor prometeu **entrega em 30 dias** mas o contrato diz 'prazo a definir', a comissão não terá respaldo legal para cobrar o cumprimento da promessa verbal. Leia cada cláusula, cada parágrafo e cada nota de rodapé antes de assinar."
       },
       {
         type: "p",
-        text: "Recomendamos que a comissão submeta o contrato à análise de um advogado ou, no mínimo, de alguém com conhecimento jurídico básico antes da assinatura. Preste atenção especial às cláusulas de prazo de entrega, cancelamento, reembolso, exclusividade e uso de imagem. Verifique se o contrato está em conformidade com o Código de Defesa do Consumidor e com a LGPD. Na Pixi Formaturas, nosso contrato é redigido com linguagem clara e objetiva, detalhando cada serviço incluído, prazo de entrega de 30 dias, condições de parcelamento em até 12x e políticas de cancelamento. Transparência contratual é uma demonstração de respeito pela comissão e pelos formandos que estão investindo."
+        text: "Recomendamos que a comissão submeta o contrato à análise de um advogado ou, no mínimo, de alguém com conhecimento jurídico básico antes da assinatura. Preste atenção especial às cláusulas de prazo de entrega, cancelamento, reembolso, exclusividade e uso de imagem. Verifique se o contrato está em conformidade com o **Código de Defesa do Consumidor** e com a **LGPD**. Na Pixi Formaturas, nosso contrato é redigido com linguagem clara e objetiva, detalhando cada serviço incluído, prazo de entrega de 30 dias, condições de parcelamento em até 12x e políticas de cancelamento. Transparência contratual é uma demonstração de respeito pela comissão e pelos formandos que estão investindo."
       },
       {
         type: "h3",
@@ -1066,11 +1066,11 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Algumas empresas de formatura, especialmente as que oferecem pacotes completos, incluem cláusulas de exclusividade no contrato que impedem a comissão de contratar outros fornecedores para serviços específicos como fotografia. Essa cláusula pode passar despercebida em meio ao texto contratual, mas suas consequências são significativas: se a comissão quiser contratar uma empresa especializada em fotografia para garantir maior qualidade, estará impedida contratualmente de fazê-lo. Verifique se o contrato contém cláusulas de exclusividade e, se contiver, negocie a remoção ou a exclusão do serviço fotográfico do pacote completo antes de assinar."
+        text: "Algumas empresas de formatura, especialmente as que oferecem pacotes completos, incluem cláusulas de exclusividade no contrato que impedem a comissão de contratar outros fornecedores para serviços específicos como fotografia. Essa cláusula pode passar despercebida em meio ao texto contratual, mas suas consequências são significativas: se a comissão quiser contratar uma empresa especializada em fotografia para garantir maior qualidade, estará impedida contratualmente de fazê-lo. Verifique se o contrato contém **cláusulas de exclusividade** e, se contiver, negocie a remoção ou a exclusão do serviço fotográfico do pacote completo antes de assinar."
       },
       {
         type: "p",
-        text: "O direito de escolha do consumidor é protegido pelo Código de Defesa do Consumidor, e cláusulas que restringem indevidamente a liberdade de contratação podem ser consideradas abusivas. Se a empresa se recusar a remover a cláusula de exclusividade ou a excluir a fotografia do pacote, considere esse comportamento como um sinal de alerta sobre a postura da empresa em relação aos interesses da turma. Na experiência da Pixi Formaturas atendendo turmas em São Paulo, ABC e Grande SP, os melhores resultados ocorrem quando a comissão tem liberdade para escolher os melhores fornecedores em cada área, garantindo qualidade superior em todos os aspectos da formatura."
+        text: "O direito de escolha do consumidor é protegido pelo **Código de Defesa do Consumidor**, e cláusulas que restringem indevidamente a liberdade de contratação podem ser consideradas abusivas. Se a empresa se recusar a remover a cláusula de exclusividade ou a excluir a fotografia do pacote, considere esse comportamento como um sinal de alerta sobre a postura da empresa em relação aos interesses da turma. Na experiência da Pixi Formaturas atendendo turmas em São Paulo, ABC e Grande SP, os melhores resultados ocorrem quando a comissão tem liberdade para escolher os melhores fornecedores em cada área, garantindo qualidade superior em todos os aspectos da formatura."
       },
       {
         type: "h2",
@@ -1082,7 +1082,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Muitas comissões sequer perguntam se os fotógrafos que farão a cobertura da formatura são funcionários da empresa ou profissionais terceirizados contratados sob demanda. Essa distinção é fundamental porque afeta diretamente a qualidade, a consistência e a confiabilidade do serviço entregue. Fotógrafos terceirizados podem variar de evento para evento, o que significa que a comissão não tem garantia de que o profissional que fotografará sua formatura terá o mesmo nível de competência e experiência daquele cujas fotos foram mostradas no portfólio. Na Pixi Formaturas, trabalhamos exclusivamente com equipe própria, treinada especificamente para formaturas e familiar com as dinâmicas de cada tipo de cerimônia."
+        text: "Muitas comissões sequer perguntam se os fotógrafos que farão a cobertura da formatura são funcionários da empresa ou profissionais terceirizados contratados sob demanda. Essa distinção é fundamental porque afeta diretamente a qualidade, a consistência e a confiabilidade do serviço entregue. Fotógrafos terceirizados podem variar de evento para evento, o que significa que a comissão não tem garantia de que o profissional que fotografará sua formatura terá o mesmo nível de competência e experiência daquele cujas fotos foram mostradas no portfólio. Na Pixi Formaturas, trabalhamos exclusivamente com **equipe própria**, treinada especificamente para formaturas e familiar com as dinâmicas de cada tipo de cerimônia."
       },
       {
         type: "p",
@@ -1094,11 +1094,11 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Equipamentos eletrônicos podem falhar a qualquer momento, e câmeras fotográficas não são exceção. Durante uma [colação de grau](/servicos/colacao-de-grau/) ou um baile de formatura, uma falha de equipamento sem solução de backup significa perda irreversível de momentos cruciais que jamais poderão ser refeitos. Apesar disso, muitas comissões simplesmente não perguntam à empresa de formatura se ela possui equipamento de backup para os eventos. Esse é um erro grave porque a existência de redundância de equipamento é um dos indicadores mais confiáveis da seriedade e da preparação da empresa para lidar com imprevistos durante a cobertura fotográfica."
+        text: "Equipamentos eletrônicos podem falhar a qualquer momento, e câmeras fotográficas não são exceção. Durante uma [colação de grau](/servicos/colacao-de-grau/) ou um baile de formatura, uma falha de equipamento sem solução de backup significa perda irreversível de momentos cruciais que jamais poderão ser refeitos. Apesar disso, muitas comissões simplesmente não perguntam à empresa de formatura se ela possui **equipamento de backup** para os eventos. Esse é um erro grave porque a existência de redundância de equipamento é um dos indicadores mais confiáveis da seriedade e da preparação da empresa para lidar com imprevistos durante a cobertura fotográfica."
       },
       {
         type: "p",
-        text: "Na Pixi Formaturas, levamos equipamento de backup completo para todos os eventos: câmeras reserva, lentes extras, baterias sobressalentes, flashes adicionais e cartões de memória redundantes. Se uma câmera falhar no meio da cerimônia, temos outra pronta para assumir em segundos, garantindo que nenhum momento seja perdido. Pergunte à empresa quantas câmeras ela leva para cada evento, se possui lentes e baterias extras e qual é o protocolo de contingência em caso de falha de equipamento. Se a resposta for vaga ou insatisfatória, considere seriamente outras opções no mercado de fotografia de formatura em São Paulo e região."
+        text: "Na Pixi Formaturas, levamos **equipamento de backup** completo para todos os eventos: câmeras reserva, lentes extras, baterias sobressalentes, flashes adicionais e cartões de memória redundantes. Se uma câmera falhar no meio da cerimônia, temos outra pronta para assumir em segundos, garantindo que nenhum momento seja perdido. Pergunte à empresa quantas câmeras ela leva para cada evento, se possui lentes e baterias extras e qual é o protocolo de contingência em caso de falha de equipamento. Se a resposta for vaga ou insatisfatória, considere seriamente outras opções no mercado de fotografia de formatura em São Paulo e região."
       },
       {
         type: "h3",
@@ -1134,7 +1134,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Alguns vendedores de empresas de formatura utilizam técnicas de pressão para forçar a comissão a tomar uma decisão rápida, como oferecer descontos que expiram em 24 horas, alegar que a agenda está quase lotada ou sugerir que o preço subirá em breve. Esse tipo de pressão artificial é uma tática de vendas que prejudica a capacidade da comissão de tomar uma decisão informada e ponderada. Uma empresa séria e confiável respeita o tempo de decisão da comissão e entende que a contratação de um serviço que envolve o investimento coletivo de dezenas de formandos exige análise cuidadosa, comparação de propostas e discussão entre os membros da comissão e os próprios formandos."
+        text: "Alguns vendedores de empresas de formatura utilizam técnicas de pressão para forçar a comissão a tomar uma decisão rápida, como oferecer descontos que expiram em 24 horas, alegar que a agenda está quase lotada ou sugerir que o preço subirá em breve. Esse tipo de **pressão artificial** é uma tática de vendas que prejudica a capacidade da comissão de tomar uma decisão informada e ponderada. Uma empresa séria e confiável respeita o tempo de decisão da comissão e entende que a contratação de um serviço que envolve o investimento coletivo de dezenas de formandos exige análise cuidadosa, comparação de propostas e discussão entre os membros da comissão e os próprios formandos."
       },
       {
         type: "p",
@@ -1173,7 +1173,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Após essa experiência, a mesma faculdade teve outra turma de formandos no ano seguinte que nos procurou justamente por causa do relato negativo da turma anterior. Dessa vez, a comissão seguiu um processo estruturado: comparou três propostas, verificou avaliações, analisou contratos e priorizou critérios como equipe própria, equipamento de backup e prazo de entrega definido. Contrataram a Pixi Formaturas, e o resultado foi completamente diferente: equipe própria de quatro fotógrafos, equipamento profissional com backup, cobertura completa de todos os momentos da cerimônia e entrega do álbum digital com reconhecimento facial em 28 dias. A diferença entre as duas experiências ilustra com clareza como evitar erros na contratação protege o registro fotográfico da turma."
+        text: "Após essa experiência, a mesma faculdade teve outra turma de formandos no ano seguinte que nos procurou justamente por causa do relato negativo da turma anterior. Dessa vez, a comissão seguiu um processo estruturado: comparou três propostas, verificou avaliações, analisou contratos e priorizou critérios como equipe própria, equipamento de backup e prazo de entrega definido. Contrataram a Pixi Formaturas, e o resultado foi completamente diferente: **equipe própria** de quatro fotógrafos, equipamento profissional com backup, cobertura completa de todos os momentos da cerimônia e entrega do álbum digital com reconhecimento facial em 28 dias. A diferença entre as duas experiências ilustra com clareza como evitar erros na contratação protege o registro fotográfico da turma."
       },
       {
         type: "h3",
@@ -1234,7 +1234,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         question: "O contrato deve mencionar a LGPD?",
-        answer: "Sim. O contrato com a empresa de formatura deve incluir cláusulas sobre o tratamento de dados pessoais e imagens dos formandos em conformidade com a LGPD. Essas cláusulas devem especificar como as fotos serão armazenadas, por quanto tempo, quem terá acesso e como serão descartadas após o período de retenção. A ausência dessas cláusulas não significa necessariamente que a empresa é irresponsável, mas sua presença demonstra que o fornecedor está atualizado com as exigências legais e comprometido com a proteção dos dados dos formandos que confiaram suas imagens à empresa."
+        answer: "Sim. O contrato com a empresa de formatura deve incluir cláusulas sobre o tratamento de dados pessoais e imagens dos formandos em conformidade com a **LGPD**. Essas cláusulas devem especificar como as fotos serão armazenadas, por quanto tempo, quem terá acesso e como serão descartadas após o período de retenção. A ausência dessas cláusulas não significa necessariamente que a empresa é irresponsável, mas sua presença demonstra que o fornecedor está atualizado com as exigências legais e comprometido com a proteção dos dados dos formandos que confiaram suas imagens à empresa."
       },
       {
         question: "É possível trocar de empresa depois de assinar o contrato?",
@@ -1259,7 +1259,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A Pixi Formaturas é uma empresa pequena especializada em fotografia de formatura que atua desde 2015 em São Paulo, Grande SP e região do ABC. Com mais de 500 turmas atendidas, equipe própria, equipamento de backup e entrega do álbum digital com reconhecimento facial em 30 dias, representamos o modelo de empresa especializada que concentra todos os recursos em uma única área de excelência. Neste artigo, comparamos de forma objetiva os dois modelos — empresa pequena especializada e grande agência — para que a comissão possa tomar uma decisão informada. Não pretendemos demonizar as grandes agências, mas sim esclarecer as diferenças práticas que afetam a experiência da turma, complementando nossos guias sobre [como escolher empresa de formatura](/blog/como-escolher-empresa-de-formatura-sp/) e sobre os [erros comuns na contratação](/blog/erros-contratar-empresa-de-formatura/)."
+        text: "A Pixi Formaturas é uma empresa pequena especializada em fotografia de formatura que atua desde 2015 em São Paulo, Grande SP e região do ABC. Com mais de 500 turmas atendidas, equipe própria, equipamento de backup e entrega do álbum digital com **reconhecimento facial** em 30 dias, representamos o modelo de empresa especializada que concentra todos os recursos em uma única área de excelência. Neste artigo, comparamos de forma objetiva os dois modelos — empresa pequena especializada e grande agência — para que a comissão possa tomar uma decisão informada. Não pretendemos demonizar as grandes agências, mas sim esclarecer as diferenças práticas que afetam a experiência da turma, complementando nossos guias sobre [como escolher empresa de formatura](/blog/como-escolher-empresa-de-formatura-sp/) e sobre os [erros comuns na contratação](/blog/erros-contratar-empresa-de-formatura/)."
       },
       {
         type: "h2",
@@ -1299,7 +1299,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A empresa pequena especializada em fotografia de formatura concentra 100% dos seus recursos — financeiros, humanos e tecnológicos — em uma única área de atuação. Isso significa que cada real investido em equipamento, cada hora de treinamento da equipe e cada melhoria de processo beneficiam diretamente a qualidade fotográfica entregue à turma. Na Pixi Formaturas, investimos continuamente em câmeras profissionais de última geração, lentes luminosas para ambientes escuros, sistemas de iluminação dedicados, software de edição avançado e tecnologia de reconhecimento facial para organização dos álbuns digitais. Todo esse investimento é possível justamente porque não dividimos nossos recursos com outras frentes como buffet, decoração ou convites."
+        text: "A empresa pequena especializada em fotografia de formatura concentra **100% dos seus recursos** — financeiros, humanos e tecnológicos — em uma única área de atuação. Isso significa que cada real investido em equipamento, cada hora de treinamento da equipe e cada melhoria de processo beneficiam diretamente a qualidade fotográfica entregue à turma. Na Pixi Formaturas, investimos continuamente em câmeras profissionais de última geração, lentes luminosas para ambientes escuros, sistemas de iluminação dedicados, software de edição avançado e tecnologia de reconhecimento facial para organização dos álbuns digitais. Todo esse investimento é possível justamente porque não dividimos nossos recursos com outras frentes como buffet, decoração ou convites."
       },
       {
         type: "p",
@@ -1315,7 +1315,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Outra limitação técnica frequente nas grandes agências é a ausência de tecnologias avançadas de entrega, como o reconhecimento facial nos álbuns digitais. Essa tecnologia exige investimento significativo em software e infraestrutura, e agências que dividem seus recursos entre múltiplos serviços geralmente não priorizam esse tipo de inovação fotográfica. O resultado é que os formandos recebem galerias de fotos genéricas onde precisam navegar manualmente por centenas ou milhares de imagens para encontrar as suas — uma experiência frustrante que poderia ser eliminada com a tecnologia adequada. Para turmas grandes de universidades como USP, PUC-SP e Mackenzie, a diferença entre ter e não ter reconhecimento facial impacta significativamente a satisfação com o serviço contratado."
+        text: "Outra limitação técnica frequente nas grandes agências é a ausência de tecnologias avançadas de entrega, como o reconhecimento facial nos álbuns digitais. Essa tecnologia exige investimento significativo em software e infraestrutura, e agências que dividem seus recursos entre múltiplos serviços geralmente não priorizam esse tipo de inovação fotográfica. O resultado é que os formandos recebem galerias de fotos genéricas onde precisam navegar manualmente por centenas ou milhares de imagens para encontrar as suas — uma experiência frustrante que poderia ser eliminada com a tecnologia adequada. Para turmas grandes de universidades como USP, PUC-SP e Mackenzie, a diferença entre ter e não ter **reconhecimento facial** impacta significativamente a satisfação com o serviço contratado."
       },
       {
         type: "h2",
@@ -1409,7 +1409,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "O resultado da comparação revelou um padrão claro: as empresas especializadas em fotografia pontuaram consistentemente mais alto nos critérios diretamente relacionados à qualidade fotográfica, enquanto as grandes agências pontuaram mais alto apenas em conveniência logística (ter tudo em um único fornecedor). A comissão optou pelo modelo híbrido: contratou uma agência para coordenar a festa e a Pixi Formaturas para toda a cobertura fotográfica. O resultado foi uma formatura com logística bem organizada pela agência e com fotografia de excelência pela Pixi, com entrega do álbum digital com reconhecimento facial em 27 dias — três dias antes do prazo contratual de 30 dias. A comissão relatou que essa divisão foi a melhor decisão que tomaram."
+        text: "O resultado da comparação revelou um padrão claro: as empresas especializadas em fotografia pontuaram consistentemente mais alto nos critérios diretamente relacionados à qualidade fotográfica, enquanto as grandes agências pontuaram mais alto apenas em conveniência logística (ter tudo em um único fornecedor). A comissão optou pelo modelo híbrido: contratou uma agência para coordenar a festa e a Pixi Formaturas para toda a cobertura fotográfica. O resultado foi uma formatura com logística bem organizada pela agência e com fotografia de excelência pela Pixi, com entrega do álbum digital com reconhecimento facial em **27 dias** — três dias antes do **prazo contratual de 30 dias**. A comissão relatou que essa divisão foi a melhor decisão que tomaram."
       },
       {
         type: "h3",
@@ -1417,7 +1417,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Quando a comissão comparou os custos detalhadamente, descobriu que a parcela destinada à fotografia nos pacotes das grandes agências representava, em média, apenas 15% do valor total do pacote — bem menos do que os formandos imaginavam. Já o investimento direto na Pixi Formaturas representou um valor absoluto similar a essa parcela, mas com qualidade fotográfica significativamente superior: equipe própria de quatro fotógrafos, equipamento profissional com backup completo, reconhecimento facial no álbum digital e prazo contratual de 30 dias. Na prática, os formandos investiram aproximadamente o mesmo valor em fotografia, mas receberam um serviço muito mais completo e especializado."
+        text: "Quando a comissão comparou os custos detalhadamente, descobriu que a parcela destinada à fotografia nos pacotes das grandes agências representava, em média, apenas **15% do valor total do pacote** — bem menos do que os formandos imaginavam. Já o investimento direto na Pixi Formaturas representou um valor absoluto similar a essa parcela, mas com qualidade fotográfica significativamente superior: equipe própria de quatro fotógrafos, equipamento profissional com backup completo, reconhecimento facial no álbum digital e prazo contratual de 30 dias. Na prática, os formandos investiram aproximadamente o mesmo valor em fotografia, mas receberam um serviço muito mais completo e especializado."
       },
       {
         type: "p",
@@ -1449,7 +1449,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         type: "p",
-        text: "É importante que a comissão que optar pela grande agência esteja ciente das possíveis limitações na qualidade fotográfica e tome medidas para mitigá-las: exija conhecer previamente os fotógrafos que serão designados para o evento, verifique se a equipe é da agência ou terceirizada, confirme a existência de equipamento de backup e negocie um prazo de entrega definido em contrato. Se a agência não conseguir atender satisfatoriamente nesses pontos, considere seriamente separar a fotografia do pacote e contratar uma empresa especializada como a Pixi Formaturas para essa frente. O modelo híbrido combina o melhor dos dois mundos: a praticidade logística da agência e a excelência fotográfica da empresa especializada."
+        text: "É importante que a comissão que optar pela grande agência esteja ciente das possíveis limitações na qualidade fotográfica e tome medidas para mitigá-las: exija conhecer previamente os fotógrafos que serão designados para o evento, verifique se a equipe é da agência ou terceirizada, confirme a existência de **equipamento de backup** e negocie um prazo de entrega definido em contrato. Se a agência não conseguir atender satisfatoriamente nesses pontos, considere seriamente separar a fotografia do pacote e contratar uma empresa especializada como a Pixi Formaturas para essa frente. O modelo híbrido combina o melhor dos dois mundos: a praticidade logística da agência e a excelência fotográfica da empresa especializada."
       },
       {
         type: "h2",
@@ -1474,7 +1474,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
     faq: [
       {
         question: "Empresa pequena consegue atender turmas grandes?",
-        answer: "Sim. Empresa pequena especializada não significa empresa com recursos limitados — significa empresa com foco concentrado em uma área de excelência. Na Pixi Formaturas, já atendemos turmas com mais de 200 formandos em universidades como USP e Mackenzie, escalando equipes múltiplas de fotógrafos para garantir cobertura completa. A diferença é que todos os fotógrafos são da nossa equipe própria, treinados nos mesmos padrões e utilizando equipamento da empresa com backup completo. O tamanho da empresa não limita a capacidade de atendimento quando a especialização e os processos internos são sólidos."
+        answer: "Sim. Empresa pequena especializada não significa empresa com recursos limitados — significa empresa com foco concentrado em uma área de excelência. Na Pixi Formaturas, já atendemos turmas com mais de 200 formandos em universidades como USP e Mackenzie, escalando equipes múltiplas de fotógrafos para garantir cobertura completa. A diferença é que todos os fotógrafos são da nossa **equipe própria**, treinados nos mesmos padrões e utilizando equipamento da empresa com backup completo. O tamanho da empresa não limita a capacidade de atendimento quando a especialização e os processos internos são sólidos."
       },
       {
         question: "A grande agência sempre terceiriza a fotografia?",
@@ -1490,7 +1490,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         question: "Empresa pequena oferece as mesmas garantias legais que a grande?",
-        answer: "Sim, desde que a empresa pequena opere formalmente com CNPJ ativo, emita nota fiscal e formalize seus serviços em contrato detalhado. As garantias legais são determinadas pela formalidade da operação e pelo contrato assinado, não pelo tamanho da empresa. Na Pixi Formaturas, operamos com total formalidade, contrato detalhado com prazos e condições claras, emissão de nota fiscal para todos os serviços e conformidade com a LGPD no tratamento de dados e imagens dos formandos. O tamanho da empresa não reduz as garantias quando a operação é profissional e formalizada."
+        answer: "Sim, desde que a empresa pequena opere formalmente com CNPJ ativo, emita nota fiscal e formalize seus serviços em contrato detalhado. As garantias legais são determinadas pela formalidade da operação e pelo contrato assinado, não pelo tamanho da empresa. Na Pixi Formaturas, operamos com total formalidade, contrato detalhado com prazos e condições claras, emissão de nota fiscal para todos os serviços e conformidade com a **LGPD** no tratamento de dados e imagens dos formandos. O tamanho da empresa não reduz as garantias quando a operação é profissional e formalizada."
       },
       {
         question: "Qual modelo é melhor para turmas do ABC?",
@@ -1502,7 +1502,7 @@ export const EMPRESA_POSTS_1: BlogPost[] = [
       },
       {
         question: "Como a Pixi se compara a outras empresas pequenas especializadas?",
-        answer: "O mercado de fotografia de formatura em SP possui algumas empresas pequenas especializadas, e a Pixi se diferencia por quatro fatores principais: tempo de mercado desde 2015 com mais de 500 turmas atendidas, equipe própria treinada especificamente para formaturas, reconhecimento facial como padrão em todos os álbuns digitais e compromisso contratual de entrega em 30 dias. Esses diferenciais são resultado de uma década de investimento contínuo em qualidade, tecnologia e processos. Recomendamos que a comissão compare critérios objetivos entre as opções disponíveis para tomar a melhor decisão para sua turma."
+        answer: "O mercado de fotografia de formatura em SP possui algumas empresas pequenas especializadas, e a Pixi se diferencia por quatro fatores principais: tempo de mercado **desde 2015** com **mais de 500 turmas** atendidas, equipe própria treinada especificamente para formaturas, reconhecimento facial como padrão em todos os álbuns digitais e compromisso contratual de entrega em 30 dias. Esses diferenciais são resultado de uma década de investimento contínuo em qualidade, tecnologia e processos. Recomendamos que a comissão compare critérios objetivos entre as opções disponíveis para tomar a melhor decisão para sua turma."
       }
     ]
   }

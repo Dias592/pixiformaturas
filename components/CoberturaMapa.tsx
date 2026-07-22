@@ -7,7 +7,7 @@ export default function CoberturaMapa() {
         <div className="mb-12 max-w-2xl">
           <p className="eyebrow mb-2">Cobertura Local</p>
           <h2 className="font-sans text-3xl font-bold md:text-4xl">
-            Atendemos em <span className="gold-italic">todo São Paulo</span>
+            Quais regiões de São Paulo <span className="gold-italic">a Pixi atende?</span>
           </h2>
           <p className="mt-4 text-textMuted">
             Levamos toda a estrutura fotográfica até a sua escola, em qualquer região da capital

@@ -7,7 +7,7 @@ export default function DiferenciaisSection() {
         <div className="mb-12 max-w-2xl">
           <p className="eyebrow mb-2">Por que a Pixi Formaturas?</p>
           <h2 className="font-sans text-3xl font-bold md:text-4xl">
-            O fotógrafo certo <span className="gold-italic">para a sua Escola</span>
+            Por que escolher a Pixi Formaturas <span className="gold-italic">para sua turma?</span>
           </h2>
           <p className="mt-4 text-textMuted">
             Somos referência em fotografia de formatura escolar em São Paulo. Veja o que nos

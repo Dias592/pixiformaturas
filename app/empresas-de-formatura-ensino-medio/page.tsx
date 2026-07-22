@@ -11,7 +11,7 @@ import { faqSchema } from '@/lib/schema'
 export const metadata: Metadata = {
   title: { absolute: 'Empresas de Formatura Ensino Médio SP | Pixi' },
   description:
-    'Empresas de formatura do ensino médio e terceirão em São Paulo. Cobertura fotográfica completa para turmas do 3º ano e 9º ano. Orçamento grátis.',
+    'A Pixi Formaturas é especialista em fotografia de formatura do ensino médio em São Paulo, ABC e Grande SP. Cobertura completa para terceirão, 9º ano e colação de grau.',
   alternates: {
     canonical: `${BUSINESS.url}/empresas-de-formatura-ensino-medio/`,
   },
@@ -114,8 +114,8 @@ export default function EmpresasFormaturasEnsinoMedioPage() {
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            O que a Pixi Formaturas oferece para turmas do{' '}
-            <span className="gold-italic">Ensino Médio</span>
+            Quais serviços a Pixi oferece para turmas do{' '}
+            <span className="gold-italic">Ensino Médio?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
@@ -177,7 +177,7 @@ export default function EmpresasFormaturasEnsinoMedioPage() {
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
             Por que a formatura do Ensino Médio merece{' '}
-            <span className="gold-italic">cobertura profissional</span>
+            <span className="gold-italic">fotografia profissional?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
@@ -213,8 +213,8 @@ export default function EmpresasFormaturasEnsinoMedioPage() {
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            Cobertura para o 9º Ano e para o{' '}
-            <span className="gold-italic">3º Ano do Ensino Médio</span>
+            Qual a diferença entre formatura do 9º Ano e do{' '}
+            <span className="gold-italic">3º Ano do Ensino Médio?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>

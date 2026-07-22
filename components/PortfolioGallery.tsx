@@ -8,7 +8,7 @@ export default function PortfolioGallery() {
         <div className="mb-12 max-w-2xl">
           <p className="eyebrow mb-2">Portfólio</p>
           <h2 className="font-sans text-3xl font-bold md:text-4xl">
-            Momentos que <span className="gold-italic">contam histórias</span>
+            Como é o portfólio de <span className="gold-italic">formaturas da Pixi?</span>
           </h2>
         </div>
 

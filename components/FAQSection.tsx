@@ -5,6 +5,38 @@ interface FAQItem {
   answer: string
 }
 
+const INLINE_PATTERN = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g
+
+function renderInline(text: string) {
+  const parts: (string | JSX.Element)[] = []
+  let lastIndex = 0
+  let match: RegExpExecArray | null
+  let key = 0
+
+  INLINE_PATTERN.lastIndex = 0
+  while ((match = INLINE_PATTERN.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index))
+    }
+    if (match[3] !== undefined) {
+      parts.push(<strong key={key++}>{match[3]}</strong>)
+    } else {
+      parts.push(
+        <a key={key++} href={match[2]} className="text-gold underline-offset-2 hover:underline">
+          {match[1]}
+        </a>
+      )
+    }
+    lastIndex = match.index + match[0].length
+  }
+
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex))
+  }
+
+  return parts.length > 0 ? parts : text
+}
+
 interface FAQSectionProps {
   items: FAQItem[]
   eyebrow?: string
@@ -42,7 +74,7 @@ export default function FAQSection({
                   <span className="text-gold transition-transform group-open:rotate-45">+</span>
                 </span>
               </summary>
-              <p className="mt-3 text-sm leading-relaxed text-textMuted">{item.answer}</p>
+              <p className="mt-3 text-sm leading-relaxed text-textMuted">{renderInline(item.answer)}</p>
             </details>
           ))}
         </div>

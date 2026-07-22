@@ -18,7 +18,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Uma empresa de formatura confiável apresenta documentação regularizada, portfólio real de eventos anteriores, referências verificáveis de clientes e um contrato transparente que detalha todos os serviços incluídos. Turmas de universidades como Mackenzie, FMABC e UFABC precisam de garantias concretas antes de investir coletivamente. Na Pixi Formaturas, atuamos desde 2015 com mais de 500 turmas atendidas e entrega do álbum digital em até 30 dias, sempre com contrato claro e sem surpresas."
+        text: "Uma empresa de formatura confiável apresenta documentação regularizada, portfólio real de eventos anteriores, referências verificáveis de clientes e um contrato transparente que detalha todos os serviços incluídos. Turmas de universidades como Mackenzie, FMABC e UFABC precisam de garantias concretas antes de investir coletivamente. Na Pixi Formaturas, atuamos **desde 2015** com **mais de 500 turmas atendidas** e entrega do álbum digital **em até 30 dias**, sempre com contrato claro e sem surpresas."
       },
       {
         type: "h2",
@@ -93,7 +93,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Outro aspecto documental que ganha relevância é a conformidade com a LGPD (Lei Geral de Proteção de Dados). Uma empresa de formatura credenciada deve demonstrar que trata as imagens dos formandos com responsabilidade, armazenando-as em servidores seguros e utilizando-as apenas conforme autorizado em contrato. A galeria com reconhecimento facial, por exemplo, processa dados biométricos que exigem consentimento expresso dos formandos. Empresas que ignoram a LGPD expõem a turma a riscos jurídicos e demonstram falta de profissionalismo no tratamento de informações sensíveis."
+        text: "Outro aspecto documental que ganha relevância é a conformidade com a **LGPD** (Lei Geral de Proteção de Dados). Uma empresa de formatura credenciada deve demonstrar que trata as imagens dos formandos com responsabilidade, armazenando-as em servidores seguros e utilizando-as apenas conforme autorizado em contrato. A galeria com **reconhecimento facial**, por exemplo, processa dados biométricos que exigem consentimento expresso dos formandos. Empresas que ignoram a LGPD expõem a turma a riscos jurídicos e demonstram falta de profissionalismo no tratamento de informações sensíveis."
       },
       {
         type: "p",
@@ -153,7 +153,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na Pixi Formaturas, incentivamos nossas turmas a deixar avaliações públicas após a entrega do álbum digital. Com mais de 500 turmas atendidas desde 2015, mantemos uma reputação construída sobre entregas consistentes e atendimento próximo durante todo o processo, do primeiro contato à entrega final em até 30 dias. Nossas avaliações refletem experiências de turmas de diferentes perfis — desde colégios em Moema e Vila Mariana até universidades no ABC — e podem ser verificadas diretamente no Google Meu Negócio."
+        text: "Na Pixi Formaturas, incentivamos nossas turmas a deixar avaliações públicas após a entrega do álbum digital. Com **mais de 500 turmas atendidas desde 2015**, mantemos uma reputação construída sobre entregas consistentes e atendimento próximo durante todo o processo, do primeiro contato à entrega final em até 30 dias. Nossas avaliações refletem experiências de turmas de diferentes perfis — desde colégios em Moema e Vila Mariana até universidades no ABC — e podem ser verificadas diretamente no Google Meu Negócio."
       },
       {
         type: "h2",
@@ -215,7 +215,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Nós, da Pixi Formaturas, trabalhamos com orçamentos detalhados enviados por WhatsApp, sem taxas ocultas, e oferecemos parcelamento em até 12x para facilitar o pagamento pela comissão. Não cobramos taxa de deslocamento para a região do ABC e Grande São Paulo, e nosso contrato declara expressamente que o valor apresentado é o valor final, sem possibilidade de cobranças adicionais não previstas. Essa clareza é fundamental para comissões que gerenciam orçamento coletivo e precisam prestar contas aos demais formandos."
+        text: "Nós, da Pixi Formaturas, trabalhamos com orçamentos detalhados enviados por WhatsApp, sem taxas ocultas, e oferecemos parcelamento **em até 12x** para facilitar o pagamento pela comissão. Não cobramos taxa de deslocamento para a região do ABC e Grande São Paulo, e nosso contrato declara expressamente que o valor apresentado é o valor final, sem possibilidade de cobranças adicionais não previstas. Essa clareza é fundamental para comissões que gerenciam orçamento coletivo e precisam prestar contas aos demais formandos."
       },
       {
         type: "h2",
@@ -248,7 +248,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A Pixi Formaturas atende todas essas exigências desde 2015, com mais de 500 turmas fotografadas, entrega em até 30 dias e contrato transparente. Atuamos em toda São Paulo e região do ABC com política de preços sem taxas ocultas e conformidade com a LGPD. [Solicite seu orçamento gratuito pelo WhatsApp](/contato/) e comprove nossa credibilidade antes de fechar com qualquer empresa de formatura."
+        text: "A Pixi Formaturas atende todas essas exigências desde 2015, com mais de 500 turmas fotografadas, entrega **em até 30 dias** e **contrato transparente**. Atuamos em toda São Paulo e região do ABC com política de preços sem taxas ocultas e conformidade com a LGPD. [Solicite seu orçamento gratuito pelo WhatsApp](/contato/) e comprove nossa credibilidade antes de fechar com qualquer empresa de formatura."
       }
     ],
     faq: [
@@ -262,7 +262,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         question: "O que um portfólio real de empresa de formatura deve conter?",
-        answer: "Um portfólio real deve apresentar álbuns completos de formaturas anteriores, com centenas de fotos que mostrem a cobertura de todo o evento — do ensaio à festa. Desconfie de portfólios com poucas fotos soltas ou imagens genéricas. Peça para ver galerias online de entregas anteriores e utilize busca reversa de imagens no Google para verificar a autenticidade. Álbuns com 300 a 800 fotos demonstram cobertura completa e consistente."
+        answer: "Um portfólio real deve apresentar álbuns completos de formaturas anteriores, com centenas de fotos que mostrem a cobertura de todo o evento — do ensaio à festa. Desconfie de portfólios com poucas fotos soltas ou imagens genéricas. Peça para ver galerias online de entregas anteriores e utilize busca reversa de imagens no Google para verificar a autenticidade. Álbuns com **300 a 800 fotos** demonstram cobertura completa e consistente."
       },
       {
         question: "A Pixi Formaturas é credenciada?",
@@ -274,11 +274,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         question: "O que a LGPD tem a ver com empresa de formatura?",
-        answer: "A LGPD (Lei Geral de Proteção de Dados) regula o tratamento de dados pessoais, incluindo imagens e dados biométricos como reconhecimento facial. Uma empresa de formatura credenciada deve obter consentimento expresso dos formandos para uso das imagens, armazená-las em servidores seguros e ter política clara sobre compartilhamento e tempo de retenção. Empresas que ignoram a LGPD expõem a turma a riscos jurídicos."
+        answer: "A LGPD (Lei Geral de Proteção de Dados) regula o tratamento de dados pessoais, incluindo imagens e dados biométricos como **reconhecimento facial**. Uma empresa de formatura credenciada deve obter consentimento expresso dos formandos para uso das imagens, armazená-las em servidores seguros e ter política clara sobre compartilhamento e tempo de retenção. Empresas que ignoram a LGPD expõem a turma a riscos jurídicos."
       },
       {
         question: "Empresa de formatura no ABC cobra taxa de deslocamento?",
-        answer: "Depende da empresa. Muitas empresas sediadas em São Paulo capital cobram taxa de deslocamento para eventos em Santo André, São Bernardo do Campo, São Caetano do Sul e outras cidades do ABC. Na Pixi Formaturas, não cobramos taxa de deslocamento para toda a região do ABC e Grande São Paulo, pois consideramos essas áreas parte da nossa cobertura natural. Essa isenção está garantida em contrato."
+        answer: "Depende da empresa. Muitas empresas sediadas em São Paulo capital cobram taxa de deslocamento para eventos em Santo André, São Bernardo do Campo, São Caetano do Sul e outras cidades do ABC. Na Pixi Formaturas, não cobramos taxa de deslocamento para toda a **região do ABC** e Grande São Paulo, pois consideramos essas áreas parte da nossa cobertura natural. Essa isenção está garantida em contrato."
       },
       {
         question: "Qual o prazo ideal para contratar uma empresa de formatura?",
@@ -299,11 +299,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
     content: [
       {
         type: "p",
-        text: "O contrato com uma empresa de formatura é o documento que define exatamente o que será entregue, em que prazo e sob quais condições. Sem um contrato bem estruturado, a comissão de formandos fica exposta a atrasos, cobranças extras e até perda do material fotográfico. Por isso, exigir cláusulas claras e completas não é preciosismo — é proteção básica para a turma. Em São Paulo e na região do ABC, onde o volume de formaturas universitárias é altíssimo, contratos mal redigidos são a principal causa de conflitos entre turmas e fornecedores, segundo dados do Procon-SP."
+        text: "O contrato com uma empresa de formatura é o documento que define exatamente o que será entregue, em que prazo e sob quais condições. Sem um contrato bem estruturado, a comissão de formandos fica exposta a atrasos, cobranças extras e até perda do material fotográfico. Por isso, exigir cláusulas claras e completas não é preciosismo — é proteção básica para a turma. Em São Paulo e na região do ABC, onde o volume de formaturas universitárias é altíssimo, contratos mal redigidos são a principal causa de conflitos entre turmas e fornecedores, segundo dados do **Procon-SP**."
       },
       {
         type: "p",
-        text: "Neste artigo, listamos as 15 cláusulas que consideramos indispensáveis em qualquer contrato com empresa de formatura, baseadas em mais de dez anos de experiência na Pixi Formaturas. Desde 2015, já atendemos mais de 500 turmas com contratos transparentes e entrega do álbum digital em até 30 dias. Cada cláusula abaixo reflete situações reais que vivenciamos e que sabemos que fazem diferença para a segurança da turma. Além disso, detalhamos a relação de cada cláusula com o Código de Defesa do Consumidor e a LGPD, para que a comissão tenha embasamento jurídico ao negociar."
+        text: "Neste artigo, listamos as 15 cláusulas que consideramos indispensáveis em qualquer contrato com empresa de formatura, baseadas em mais de dez anos de experiência na Pixi Formaturas. **Desde 2015**, já atendemos **mais de 500 turmas** com contratos transparentes e entrega do álbum digital **em até 30 dias**. Cada cláusula abaixo reflete situações reais que vivenciamos e que sabemos que fazem diferença para a segurança da turma. Além disso, detalhamos a relação de cada cláusula com o Código de Defesa do Consumidor e a LGPD, para que a comissão tenha embasamento jurídico ao negociar."
       },
       {
         type: "h2",
@@ -315,7 +315,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A formatura é um evento único e irrepetível. Se algo der errado com a cobertura fotográfica, não há como voltar no tempo e refazer as fotos da colação de grau, do baile ou do ensaio de turma. O contrato é a garantia legal de que a empresa de formatura cumprirá o que prometeu durante a negociação. Sem ele, qualquer acordo verbal pode ser negado posteriormente, e a comissão não terá amparo jurídico para exigir o cumprimento. O artigo 30 do Código de Defesa do Consumidor determina que toda informação publicitária ou pré-contratual vincula o fornecedor — mas na prática, sem contrato escrito, provar o que foi prometido se torna uma batalha difícil e desgastante para a turma."
+        text: "A formatura é um evento único e irrepetível. Se algo der errado com a cobertura fotográfica, não há como voltar no tempo e refazer as fotos da colação de grau, do baile ou do ensaio de turma. O contrato é a garantia legal de que a empresa de formatura cumprirá o que prometeu durante a negociação. Sem ele, qualquer acordo verbal pode ser negado posteriormente, e a comissão não terá amparo jurídico para exigir o cumprimento. O artigo 30 do **Código de Defesa do Consumidor** determina que toda informação publicitária ou pré-contratual vincula o fornecedor — mas na prática, sem contrato escrito, provar o que foi prometido se torna uma batalha difícil e desgastante para a turma."
       },
       {
         type: "p",
@@ -331,7 +331,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na prática, contratos equilibrados estabelecem responsabilidades mútuas: a turma se compromete com datas de pagamento, acesso ao local do evento e fornecimento de lista de formandos, enquanto a empresa se compromete com prazo de entrega, qualidade mínima, equipe dimensionada e equipamento backup. Essa bilateralidade é especialmente importante em formaturas de turmas grandes em faculdades do ABC como Santo André e São Bernardo do Campo, onde a logística envolve dezenas de profissionais e centenas de formandos. Um contrato unilateral — que só protege a empresa — é tão problemático quanto a ausência total de contrato."
+        text: "Na prática, contratos equilibrados estabelecem responsabilidades mútuas: a turma se compromete com datas de pagamento, acesso ao local do evento e fornecimento de lista de formandos, enquanto a empresa se compromete com prazo de entrega, qualidade mínima, equipe dimensionada e **equipamento backup**. Essa bilateralidade é especialmente importante em formaturas de turmas grandes em faculdades do ABC como Santo André e São Bernardo do Campo, onde a logística envolve dezenas de profissionais e centenas de formandos. Um contrato unilateral — que só protege a empresa — é tão problemático quanto a ausência total de contrato."
       },
       {
         type: "h2",
@@ -371,11 +371,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Algumas empresas de formatura incluem no contrato cláusulas que permitem cobranças adicionais por serviços que a turma assume estarem incluídos. As mais comuns são: taxa de deslocamento para regiões fora da área de cobertura principal, cobrança por edição além de um número X de fotos, taxa para download de imagens em alta resolução e cobrança por hora extra sem aviso prévio. Essas cobranças são particularmente prejudiciais porque surgem depois que o evento já aconteceu, quando a turma não tem mais poder de negociação e precisa das fotos entregues. O Código de Defesa do Consumidor, em seu artigo 39, proíbe práticas abusivas como condicionar o fornecimento de produto a limites quantitativos não informados previamente."
+        text: "Algumas empresas de formatura incluem no contrato cláusulas que permitem cobranças adicionais por serviços que a turma assume estarem incluídos. As mais comuns são: taxa de deslocamento para regiões fora da área de cobertura principal, cobrança por edição além de um número X de fotos, taxa para download de imagens em alta resolução e cobrança por hora extra sem aviso prévio. Essas cobranças são particularmente prejudiciais porque surgem depois que o evento já aconteceu, quando a turma não tem mais poder de negociação e precisa das fotos entregues. O Código de Defesa do Consumidor, em seu **artigo 39**, proíbe práticas abusivas como condicionar o fornecimento de produto a limites quantitativos não informados previamente."
       },
       {
         type: "p",
-        text: "Para evitar essas situações, a comissão deve exigir que o contrato com a empresa de formatura contenha uma cláusula de valor fixo total, listando expressamente todos os serviços incluídos e declarando que não haverá cobranças adicionais além do valor estipulado. Na Pixi Formaturas, nosso contrato especifica cada item incluído e não praticamos taxa de deslocamento para a região do ABC e Grande São Paulo. Comissões de turmas em Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema e Mauá recebem o mesmo valor que turmas na capital, sem nenhum acréscimo por deslocamento."
+        text: "Para evitar essas situações, a comissão deve exigir que o contrato com a empresa de formatura contenha uma cláusula de valor fixo total, listando expressamente todos os serviços incluídos e declarando que não haverá cobranças adicionais além do valor estipulado. Na Pixi Formaturas, nosso contrato especifica cada item incluído e não praticamos taxa de deslocamento para a **região do ABC** e Grande São Paulo. Comissões de turmas em Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema e Mauá recebem o mesmo valor que turmas na capital, sem nenhum acréscimo por deslocamento."
       },
       {
         type: "h3",
@@ -425,7 +425,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Uma das cláusulas que mais gera insatisfação entre formandos é o formato de entrega das fotos. Algumas empresas de formatura utilizam aplicativos proprietários que exigem pagamento individual por foto ou por download, transformando o que deveria ser uma entrega completa em uma loja virtual onde cada imagem tem um preço. Para uma turma de 50 formandos, com cada um querendo ao menos 20 fotos pessoais, o custo adicional pode facilmente ultrapassar o valor original do contrato. Essa prática é questionável à luz do artigo 39, inciso I, do Código de Defesa do Consumidor, que veda condicionar o fornecimento de produto ou serviço ao fornecimento de outro."
+        text: "Uma das cláusulas que mais gera insatisfação entre formandos é o formato de entrega das fotos. Algumas empresas de formatura utilizam **aplicativos proprietários** que exigem pagamento individual por foto ou por download, transformando o que deveria ser uma entrega completa em uma loja virtual onde cada imagem tem um preço. Para uma turma de 50 formandos, com cada um querendo ao menos 20 fotos pessoais, o custo adicional pode facilmente ultrapassar o valor original do contrato. Essa prática é questionável à luz do artigo 39, inciso I, do Código de Defesa do Consumidor, que veda condicionar o fornecimento de produto ou serviço ao fornecimento de outro."
       },
       {
         type: "p",
@@ -437,7 +437,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "O contrato deve especificar claramente o formato de entrega. Na Pixi, entregamos todas as fotos em galeria digital aberta, sem cobrança por download individual. A galeria conta com reconhecimento facial para que cada formando encontre suas fotos rapidamente, e fica disponível para acesso da turma pelo período definido em contrato. Essa transparência no formato de entrega é parte da nossa filosofia de trabalho. Galerias abertas também facilitam o compartilhamento entre familiares e amigos, que podem acessar as fotos de qualquer dispositivo sem precisar instalar aplicativos ou criar cadastros."
+        text: "O contrato deve especificar claramente o formato de entrega. Na Pixi, entregamos todas as fotos em galeria digital aberta, sem cobrança por download individual. A galeria conta com **reconhecimento facial** para que cada formando encontre suas fotos rapidamente, e fica disponível para acesso da turma pelo período definido em contrato. Essa transparência no formato de entrega é parte da nossa filosofia de trabalho. Galerias abertas também facilitam o compartilhamento entre familiares e amigos, que podem acessar as fotos de qualquer dispositivo sem precisar instalar aplicativos ou criar cadastros."
       },
       {
         type: "p",
@@ -453,7 +453,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na Pixi, nosso contrato estipula prazo máximo de 30 dias corridos para entrega do álbum digital, com cláusula de multa por atraso a partir do 31º dia. Esse prazo é cumprido consistentemente desde 2015, com mais de 500 turmas atendidas. A diferença entre um contrato com prazo definido e um sem prazo pode parecer sutil no momento da assinatura, mas se torna a diferença entre receber suas fotos em um mês e esperar indefinidamente. Comissões de turmas em São Paulo, ABC e qualquer região devem tratar a cláusula de prazo máximo como inegociável."
+        text: "Na Pixi, nosso contrato estipula prazo máximo de 30 dias corridos para entrega do álbum digital, com cláusula de multa por atraso a partir do 31º dia. Esse prazo é cumprido consistentemente **desde 2015**, com **mais de 500 turmas atendidas**. A diferença entre um contrato com prazo definido e um sem prazo pode parecer sutil no momento da assinatura, mas se torna a diferença entre receber suas fotos em um mês e esperar indefinidamente. Comissões de turmas em São Paulo, ABC e qualquer região devem tratar a cláusula de prazo máximo como inegociável."
       },
       {
         type: "h2",
@@ -477,7 +477,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "O Código de Defesa do Consumidor (Lei 8.078/90) garante à comissão o direito de exigir informações claras e completas sobre os serviços contratados, incluindo prazo, preço, características e riscos. A recusa em formalizar essas informações por escrito pode configurar prática abusiva nos termos do artigo 39. Além disso, a LGPD (Lei 13.709/2018) exige que o tratamento de dados pessoais — incluindo imagens e dados biométricos usados em reconhecimento facial — seja feito com base legal definida e consentimento expresso, o que torna a cláusula de privacidade não apenas recomendável, mas obrigatória."
+        text: "O Código de Defesa do Consumidor (Lei 8.078/90) garante à comissão o direito de exigir informações claras e completas sobre os serviços contratados, incluindo prazo, preço, características e riscos. A recusa em formalizar essas informações por escrito pode configurar prática abusiva nos termos do artigo 39. Além disso, a **LGPD** (Lei 13.709/2018) exige que o tratamento de dados pessoais — incluindo imagens e dados biométricos usados em reconhecimento facial — seja feito com base legal definida e consentimento expresso, o que torna a cláusula de privacidade não apenas recomendável, mas obrigatória."
       },
       {
         type: "p",
@@ -548,11 +548,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         question: "Qual o prazo ideal de entrega estipulado em contrato?",
-        answer: "O prazo ideal é de até 30 dias corridos após o evento, que é o padrão praticado pelas empresas de formatura mais estruturadas de São Paulo e do ABC. Prazos superiores a 60 dias são incomuns no mercado e podem indicar falta de estrutura da empresa para processar o material. O contrato deve estipular esse prazo de forma expressa e prever multa por descumprimento, com percentual definido por semana de atraso."
+        answer: "O prazo ideal é de **até 30 dias corridos** após o evento, que é o padrão praticado pelas empresas de formatura mais estruturadas de São Paulo e do ABC. Prazos superiores a 60 dias são incomuns no mercado e podem indicar falta de estrutura da empresa para processar o material. O contrato deve estipular esse prazo de forma expressa e prever multa por descumprimento, com percentual definido por semana de atraso."
       },
       {
         question: "Posso exigir multa por atraso na entrega das fotos?",
-        answer: "Sim, é legítimo e recomendável incluir uma cláusula de multa por atraso. Recomendamos 2% ao mês sobre o valor total do contrato, com possibilidade de rescisão e reembolso integral a partir de 30 dias de atraso. Essa cláusula está amparada pelo Código de Defesa do Consumidor e funciona como incentivo para que a empresa de formatura cumpra o prazo acordado. Na Pixi, nosso contrato já prevê essa penalidade como padrão."
+        answer: "Sim, é legítimo e recomendável incluir uma cláusula de multa por atraso. Recomendamos **2% ao mês** sobre o valor total do contrato, com possibilidade de rescisão e reembolso integral a partir de 30 dias de atraso. Essa cláusula está amparada pelo Código de Defesa do Consumidor e funciona como incentivo para que a empresa de formatura cumpra o prazo acordado. Na Pixi, nosso contrato já prevê essa penalidade como padrão."
       },
       {
         question: "O que fazer se a empresa não quer dar contrato?",
@@ -589,11 +589,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
     content: [
       {
         type: "p",
-        text: "Contratar uma empresa de formatura sem pesquisar pode transformar um dos dias mais importantes da vida acadêmica em uma experiência frustrante. Reclamações sobre atrasos na entrega, fotos com qualidade abaixo do esperado, cobranças surpresa e até perda do material são mais comuns do que se imagina. Identificar os red flags antes de assinar o contrato é a melhor forma de proteger sua turma. O Procon-SP registra centenas de reclamações anuais contra prestadores de serviços fotográficos, e boa parte delas envolve formaturas em que a comissão não verificou credenciais básicas do fornecedor antes de fechar negócio."
+        text: "Contratar uma empresa de formatura sem pesquisar pode transformar um dos dias mais importantes da vida acadêmica em uma experiência frustrante. Reclamações sobre atrasos na entrega, fotos com qualidade abaixo do esperado, cobranças surpresa e até perda do material são mais comuns do que se imagina. Identificar os red flags antes de assinar o contrato é a melhor forma de proteger sua turma. O **Procon-SP** registra centenas de reclamações anuais contra prestadores de serviços fotográficos, e boa parte delas envolve formaturas em que a comissão não verificou credenciais básicas do fornecedor antes de fechar negócio."
       },
       {
         type: "p",
-        text: "Neste artigo, reunimos os sinais de alerta mais frequentes que indicam problemas com uma empresa de formatura, baseados em relatos reais de comissões que passaram por dificuldades. Na Pixi Formaturas, atuamos desde 2015 com mais de 500 turmas atendidas e entrega em até 30 dias, justamente porque conhecemos essas armadilhas e construímos nossos processos para evitá-las. Atendemos turmas em Moema, Brooklin, Zona Norte de São Paulo e em cidades do ABC como Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema e Mauá — e em cada uma dessas regiões já presenciamos casos de comissões prejudicadas por fornecedores que apresentavam os red flags que vamos detalhar."
+        text: "Neste artigo, reunimos os sinais de alerta mais frequentes que indicam problemas com uma empresa de formatura, baseados em relatos reais de comissões que passaram por dificuldades. Na Pixi Formaturas, atuamos **desde 2015** com **mais de 500 turmas atendidas** e entrega **em até 30 dias**, justamente porque conhecemos essas armadilhas e construímos nossos processos para evitá-las. Atendemos turmas em Moema, Brooklin, Zona Norte de São Paulo e em cidades do ABC como Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema e Mauá — e em cada uma dessas regiões já presenciamos casos de comissões prejudicadas por fornecedores que apresentavam os red flags que vamos detalhar."
       },
       {
         type: "h2",
@@ -617,7 +617,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Descontos com prazo curtíssimo — como 'só vale se fechar hoje' ou 'essa condição expira amanhã' — são táticas de pressão comercial que impedem a comissão de comparar propostas e verificar referências. Uma empresa de formatura séria sabe que a decisão de uma comissão envolve consulta a dezenas de formandos e precisa de tempo para ser tomada com responsabilidade. Quando o vendedor pressiona por uma decisão imediata, geralmente é porque sabe que a proposta não resistiria a uma comparação objetiva com concorrentes mais estruturados. O Código de Defesa do Consumidor (CDC) protege o consumidor contra práticas comerciais abusivas, e a pressão por contratação imediata pode ser enquadrada no artigo 39 do CDC como prática que se aproveita da fraqueza ou ignorância do consumidor."
+        text: "Descontos com prazo curtíssimo — como 'só vale se fechar hoje' ou 'essa condição expira amanhã' — são táticas de pressão comercial que impedem a comissão de comparar propostas e verificar referências. Uma empresa de formatura séria sabe que a decisão de uma comissão envolve consulta a dezenas de formandos e precisa de tempo para ser tomada com responsabilidade. Quando o vendedor pressiona por uma decisão imediata, geralmente é porque sabe que a proposta não resistiria a uma comparação objetiva com concorrentes mais estruturados. O Código de Defesa do Consumidor (CDC) protege o consumidor contra práticas comerciais abusivas, e a pressão por contratação imediata pode ser enquadrada no **artigo 39 do CDC** como prática que se aproveita da fraqueza ou ignorância do consumidor."
       },
       {
         type: "p",
@@ -643,7 +643,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Mesmo quando a empresa de formatura apresenta um contrato, é preciso ler com atenção. Contratos vagos ou com cláusulas abusivas são tão perigosos quanto a ausência de contrato. O problema mais comum que identificamos ao longo de mais de dez anos atendendo turmas em São Paulo é o contrato unilateral — aquele que concentra todas as proteções para a empresa e transfere todos os riscos para a comissão. Cláusulas que permitem cancelamento sem penalidade pela empresa mas cobram multa integral da turma, prazos de entrega 'estimados' sem compromisso formal e cessões amplas de direito de imagem sem prazo ou limite geográfico são exemplos claros de desequilíbrio contratual que o CDC classifica como abusivo em seu artigo 51."
+        text: "Mesmo quando a empresa de formatura apresenta um contrato, é preciso ler com atenção. Contratos vagos ou com cláusulas abusivas são tão perigosos quanto a ausência de contrato. O problema mais comum que identificamos ao longo de mais de dez anos atendendo turmas em São Paulo é o contrato unilateral — aquele que concentra todas as proteções para a empresa e transfere todos os riscos para a comissão. Cláusulas que permitem cancelamento sem penalidade pela empresa mas cobram multa integral da turma, prazos de entrega 'estimados' sem compromisso formal e cessões amplas de direito de imagem sem prazo ou limite geográfico são exemplos claros de desequilíbrio contratual que o CDC classifica como abusivo em seu **artigo 51**."
       },
       {
         type: "p",
@@ -655,7 +655,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Outro conjunto de red flags contratuais diz respeito às garantias técnicas e operacionais. Contratos que não mencionam equipamento backup, que não especificam o número de fotógrafos por evento ou que não definem procedimentos em caso de falha técnica deixam a turma completamente exposta a imprevistos no dia da formatura. Em um evento irrepetível como a colação de grau, a ausência de equipamento reserva pode significar a perda total do registro fotográfico se uma câmera falhar. Empresas de formatura sérias levam ao menos duas câmeras, dois conjuntos de lentes e flashes extras para cada evento, e formalizam essa garantia por escrito no contrato."
+        text: "Outro conjunto de red flags contratuais diz respeito às garantias técnicas e operacionais. Contratos que não mencionam **equipamento backup**, que não especificam o número de fotógrafos por evento ou que não definem procedimentos em caso de falha técnica deixam a turma completamente exposta a imprevistos no dia da formatura. Em um evento irrepetível como a colação de grau, a ausência de equipamento reserva pode significar a perda total do registro fotográfico se uma câmera falhar. Empresas de formatura sérias levam ao menos duas câmeras, dois conjuntos de lentes e flashes extras para cada evento, e formalizam essa garantia por escrito no contrato."
       },
       {
         type: "p",
@@ -697,7 +697,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "As cobranças retroativas são outro red flag do pós-evento que causa indignação justificada nas comissões. Valores extras por deslocamento que não foi mencionado na negociação, hora extra cobrada desde o primeiro minuto excedente sem tolerância, taxa de edição que aparece apenas na fatura final e cobrança para disponibilizar as fotos em resolução adequada para impressão são exemplos de práticas que transformam um orçamento aparentemente acessível em um custo final muito superior ao planejado. O artigo 39 do CDC proíbe expressamente cobranças por serviços não previamente informados, e a comissão que enfrentar essa situação pode e deve registrar reclamação no Procon de sua cidade — seja na capital, na Zona Norte ou em qualquer município do ABC."
+        text: "As cobranças retroativas são outro red flag do pós-evento que causa indignação justificada nas comissões. Valores extras por deslocamento que não foi mencionado na negociação, hora extra cobrada desde o primeiro minuto excedente sem tolerância, taxa de edição que aparece apenas na fatura final e cobrança para disponibilizar as fotos em resolução adequada para impressão são exemplos de práticas que transformam um orçamento aparentemente acessível em um custo final muito superior ao planejado. O **artigo 39** do CDC proíbe expressamente cobranças por serviços não previamente informados, e a comissão que enfrentar essa situação pode e deve registrar reclamação no Procon de sua cidade — seja na capital, na Zona Norte ou em qualquer município do ABC."
       },
       {
         type: "ul",
@@ -773,11 +773,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Em 2024, recebemos uma turma de 9º ano da Zona Norte de São Paulo que havia contratado um fotógrafo independente sem contrato formal. No dia da colação, o profissional não apareceu. A comissão nos acionou de emergência e conseguimos montar uma equipe de cobertura em 48 horas. O caso ilustra perfeitamente os riscos de contratar sem verificar credenciais: a turma havia escolhido o fotógrafo com base apenas em fotos do Instagram, sem consultar CNPJ, sem pedir referências e sem formalizar contrato. Quando o profissional simplesmente não compareceu, a comissão não tinha nem contrato para acionar judicialmente nem outro fornecedor de backup."
+        text: "Em 2024, recebemos uma turma de 9º ano da Zona Norte de São Paulo que havia contratado um fotógrafo independente **sem contrato formal**. No dia da colação, o profissional não apareceu. A comissão nos acionou de emergência e conseguimos montar uma equipe de cobertura **em 48 horas**. O caso ilustra perfeitamente os riscos de contratar sem verificar credenciais: a turma havia escolhido o fotógrafo com base apenas em fotos do Instagram, sem consultar CNPJ, sem pedir referências e sem formalizar contrato. Quando o profissional simplesmente não compareceu, a comissão não tinha nem contrato para acionar judicialmente nem outro fornecedor de backup."
       },
       {
         type: "p",
-        text: "Nossa equipe mobilizou dois fotógrafos em regime de urgência, levou equipamento completo com backup e cobriu a colação de grau da turma com o mesmo padrão de qualidade que aplicamos em eventos programados com meses de antecedência. O álbum digital com reconhecimento facial foi entregue em 25 dias, dentro do nosso prazo padrão de 30 dias. A comissão recebeu contrato formalizado, nota fiscal e acesso à galeria aberta sem cobrança adicional por download. Esse episódio reforça a importância de cada item do checklist que apresentamos: contrato formal, CNPJ verificável, referências reais e equipe estruturada são a diferença entre uma formatura registrada com profissionalismo e uma formatura sem fotos."
+        text: "Nossa equipe mobilizou dois fotógrafos em regime de urgência, levou equipamento completo com backup e cobriu a colação de grau da turma com o mesmo padrão de qualidade que aplicamos em eventos programados com meses de antecedência. O álbum digital com **reconhecimento facial** foi entregue em 25 dias, dentro do nosso prazo padrão de 30 dias. A comissão recebeu contrato formalizado, nota fiscal e acesso à galeria aberta sem cobrança adicional por download. Esse episódio reforça a importância de cada item do checklist que apresentamos: contrato formal, CNPJ verificável, referências reais e equipe estruturada são a diferença entre uma formatura registrada com profissionalismo e uma formatura sem fotos."
       },
       {
         type: "h2",
@@ -807,7 +807,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Se sua turma já contratou uma empresa de formatura e está enfrentando problemas, o primeiro passo é registrar todas as evidências: contrato assinado, comprovantes de pagamento, conversas por mensagem e e-mails trocados. Com essa documentação, é possível registrar uma reclamação no Procon — tanto no Procon-SP para turmas da capital quanto nos Procons municipais de Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema e Mauá para turmas do ABC. Outra opção é registrar no Reclame Aqui, que funciona como pressão pública sobre a empresa, ou acionar o Juizado Especial Cível para valores de até 40 salários mínimos, sem necessidade de advogado."
+        text: "Se sua turma já contratou uma empresa de formatura e está enfrentando problemas, o primeiro passo é registrar todas as evidências: contrato assinado, comprovantes de pagamento, conversas por mensagem e e-mails trocados. Com essa documentação, é possível registrar uma reclamação no Procon — tanto no **Procon-SP** para turmas da capital quanto nos Procons municipais de Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema e Mauá para turmas do ABC. Outra opção é registrar no Reclame Aqui, que funciona como pressão pública sobre a empresa, ou acionar o Juizado Especial Cível para valores de até 40 salários mínimos, sem necessidade de advogado."
       },
       {
         type: "p",
@@ -823,7 +823,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A Pixi Formaturas mantém esse compromisso com transparência desde 2015, com mais de 500 turmas atendidas e um processo de trabalho que elimina cada um dos red flags listados neste artigo. Nossa atuação abrange toda São Paulo — de Moema e Brooklin na zona sul até a Zona Norte — e toda a região do ABC, sem taxa de deslocamento e com contrato que garante por escrito cada item do serviço contratado. Quando uma comissão compartilha experiência positiva conosco, isso fortalece a confiança de novas turmas e reafirma nosso compromisso com a qualidade que definimos como padrão desde o primeiro dia de operação."
+        text: "A Pixi Formaturas mantém esse compromisso com transparência **desde 2015**, com **mais de 500 turmas atendidas** e um processo de trabalho que elimina cada um dos red flags listados neste artigo. Nossa atuação abrange toda São Paulo — de Moema e Brooklin na zona sul até a Zona Norte — e toda a região do ABC, sem taxa de deslocamento e com contrato que garante por escrito cada item do serviço contratado. Quando uma comissão compartilha experiência positiva conosco, isso fortalece a confiança de novas turmas e reafirma nosso compromisso com a qualidade que definimos como padrão desde o primeiro dia de operação."
       },
       {
         type: "h2",
@@ -911,7 +911,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Neste comparativo, apresentamos os critérios que toda comissão deve avaliar ao pesquisar uma empresa de formatura em SP em 2026. Na Pixi Formaturas, atuamos desde 2015 com mais de 500 turmas atendidas — incluindo turmas de universidades como Mackenzie, PUC-SP, USP e FMABC — e usamos essa experiência para identificar os fatores que realmente importam na hora de comparar fornecedores: especialização, tecnologia, prazo de entrega, formato da galeria, cobertura geográfica e transparência comercial. Este guia foi desenvolvido para que comissões tomem decisões informadas, com base em dados e não apenas em promessas de vendedores."
+        text: "Neste comparativo, apresentamos os critérios que toda comissão deve avaliar ao pesquisar uma empresa de formatura em SP em 2026. Na Pixi Formaturas, atuamos **desde 2015** com **mais de 500 turmas atendidas** — incluindo turmas de universidades como Mackenzie, PUC-SP, USP e FMABC — e usamos essa experiência para identificar os fatores que realmente importam na hora de comparar fornecedores: especialização, tecnologia, prazo de entrega, formato da galeria, cobertura geográfica e transparência comercial. Este guia foi desenvolvido para que comissões tomem decisões informadas, com base em dados e não apenas em promessas de vendedores."
       },
       {
         type: "h2",
@@ -939,7 +939,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A localização geográfica também influencia a decisão. Comissões de turmas em Higienópolis e Jardins têm acesso fácil a fornecedores sediados na região central, enquanto turmas do ABC, de Guarulhos ou de Osasco precisam verificar se a empresa de formatura cobra taxa de deslocamento para atender fora da capital. Esse custo adicional, que pode variar de R$ 150 a R$ 500, altera significativamente o custo-benefício de cada proposta e deve ser considerado no comparativo desde o início. Empresas que isentam taxa de deslocamento para toda a Grande São Paulo — como a Pixi Formaturas — oferecem vantagem concreta para turmas dessas regiões, eliminando uma variável que complica o rateio entre os formandos."
+        text: "A localização geográfica também influencia a decisão. Comissões de turmas em Higienópolis e Jardins têm acesso fácil a fornecedores sediados na região central, enquanto turmas do ABC, de Guarulhos ou de Osasco precisam verificar se a empresa de formatura cobra taxa de deslocamento para atender fora da capital. Esse custo adicional, que pode variar de **R$ 150 a R$ 500**, altera significativamente o custo-benefício de cada proposta e deve ser considerado no comparativo desde o início. Empresas que isentam taxa de deslocamento para toda a Grande São Paulo — como a Pixi Formaturas — oferecem vantagem concreta para turmas dessas regiões, eliminando uma variável que complica o rateio entre os formandos."
       },
       {
         type: "h2",
@@ -989,11 +989,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Uma das decisões mais importantes ao comparar empresas de formatura em São Paulo é entender a diferença estrutural entre uma empresa especializada em fotografia e uma agência generalista que oferece fotografia como parte de um pacote maior. Agências generalistas costumam terceirizar a fotografia para freelancers que atendem casamentos, aniversários e corporativos com o mesmo approach, resultando em cobertura genérica que não captura as particularidades de uma colação de grau. A entrada da turma, a outorga de grau, o lançamento de capelos, os abraços entre familiares — cada um desses momentos exige posicionamento específico e timing preciso que apenas fotógrafos treinados em formaturas dominam consistentemente."
+        text: "Uma das decisões mais importantes ao comparar empresas de formatura em São Paulo é entender a diferença estrutural entre uma **empresa especializada em fotografia** e uma agência generalista que oferece fotografia como parte de um pacote maior. Agências generalistas costumam terceirizar a fotografia para freelancers que atendem casamentos, aniversários e corporativos com o mesmo approach, resultando em cobertura genérica que não captura as particularidades de uma colação de grau. A entrada da turma, a outorga de grau, o lançamento de capelos, os abraços entre familiares — cada um desses momentos exige posicionamento específico e timing preciso que apenas fotógrafos treinados em formaturas dominam consistentemente."
       },
       {
         type: "p",
-        text: "Empresas de formatura especializadas em fotografia, como a Pixi Formaturas, mantêm equipes próprias treinadas especificamente para coberturas de colação de grau, baile e [ensaio personalizado](/servicos/ensaio-personalizado/). Isso significa que cada fotógrafo conhece o roteiro típico de uma formatura e domina o fluxo de pós-produção que garante entrega em até 30 dias. Turmas de universidades como Mackenzie, PUC-SP e USP — que realizam cerimônias em auditórios de grande porte com centenas de formandos — precisam de fotógrafos que saibam operar sob essas condições sem comprometer a cobertura individual de cada graduando."
+        text: "Empresas de formatura especializadas em fotografia, como a Pixi Formaturas, mantêm equipes próprias treinadas especificamente para coberturas de colação de grau, baile e [ensaio personalizado](/servicos/ensaio-personalizado/). Isso significa que cada fotógrafo conhece o roteiro típico de uma formatura e domina o fluxo de pós-produção que garante entrega **em até 30 dias**. Turmas de universidades como Mackenzie, PUC-SP e USP — que realizam cerimônias em auditórios de grande porte com centenas de formandos — precisam de fotógrafos que saibam operar sob essas condições sem comprometer a cobertura individual de cada graduando."
       },
       {
         type: "h3",
@@ -1017,11 +1017,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Em 2026, a tecnologia é um diferencial decisivo na comparação entre empresas de formatura em São Paulo. O reconhecimento facial transformou a forma como os formandos interagem com o álbum digital: em vez de navegar por centenas de fotos procurando onde aparecem, cada pessoa acessa diretamente os registros em que é identificada pela inteligência artificial. Para turmas grandes — como as de Engenharia da USP ou Direito do Mackenzie, que podem ter mais de 100 formandos — essa funcionalidade transforma a experiência de receber as fotos, eliminando horas de busca manual e tornando o processo pessoal e imediato."
+        text: "Em 2026, a tecnologia é um diferencial decisivo na comparação entre empresas de formatura em São Paulo. O **reconhecimento facial** transformou a forma como os formandos interagem com o álbum digital: em vez de navegar por centenas de fotos procurando onde aparecem, cada pessoa acessa diretamente os registros em que é identificada pela inteligência artificial. Para turmas grandes — como as de Engenharia da USP ou Direito do Mackenzie, que podem ter mais de 100 formandos — essa funcionalidade transforma a experiência de receber as fotos, eliminando horas de busca manual e tornando o processo pessoal e imediato."
       },
       {
         type: "p",
-        text: "A precisão do reconhecimento facial também impacta a satisfação da turma com o serviço. Sistemas bem calibrados identificam corretamente mais de 95% das aparições de cada formando, incluindo fotos de grupo, momentos espontâneos e registros em condições de iluminação variada. Empresas de formatura que investem em tecnologia própria ou em parcerias com plataformas especializadas oferecem essa precisão como padrão, enquanto fornecedores que improvisam soluções genéricas entregam resultados inconsistentes que frustram os formandos. Comissões de turmas de universidades como FMABC e PUC-SP devem perguntar explicitamente sobre a taxa de acurácia do reconhecimento facial ao comparar propostas."
+        text: "A precisão do reconhecimento facial também impacta a satisfação da turma com o serviço. Sistemas bem calibrados identificam corretamente **mais de 95%** das aparições de cada formando, incluindo fotos de grupo, momentos espontâneos e registros em condições de iluminação variada. Empresas de formatura que investem em tecnologia própria ou em parcerias com plataformas especializadas oferecem essa precisão como padrão, enquanto fornecedores que improvisam soluções genéricas entregam resultados inconsistentes que frustram os formandos. Comissões de turmas de universidades como FMABC e PUC-SP devem perguntar explicitamente sobre a taxa de acurácia do reconhecimento facial ao comparar propostas."
       },
       {
         type: "h3",
@@ -1057,7 +1057,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na Pixi, nosso fluxo de pós-produção foi desenhado para garantir entrega em até 30 dias sem comprometer a qualidade da edição. O processo começa com backup imediato do material no mesmo dia do evento, seguido de triagem no dia seguinte, edição por lotes com padrão de cor e contraste calibrado, aplicação de reconhecimento facial e publicação na galeria digital. Cada etapa tem prazo interno definido para que o prazo global de 30 dias seja sempre cumprido, independentemente do tamanho da turma ou da complexidade do evento."
+        text: "Na Pixi, nosso fluxo de pós-produção foi desenhado para garantir entrega **em até 30 dias** sem comprometer a qualidade da edição. O processo começa com backup imediato do material no mesmo dia do evento, seguido de triagem no dia seguinte, edição por lotes com padrão de cor e contraste calibrado, aplicação de reconhecimento facial e publicação na galeria digital. Cada etapa tem prazo interno definido para que o prazo global de 30 dias seja sempre cumprido, independentemente do tamanho da turma ou da complexidade do evento."
       },
       {
         type: "p",
@@ -1069,7 +1069,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Em 2025, uma comissão de Direito da Mackenzie comparou 4 empresas de formatura em SP antes de nos contratar. Os critérios decisivos foram: galeria online aberta (sem app proprietário), entrega em 30 dias com reconhecimento facial, parcelamento em 12x sem juros e isenção de taxa de deslocamento para eventos fora da capital. A comissão organizou uma planilha comparativa com notas de 1 a 5 para cada critério e compartilhou com todos os 85 formandos da turma antes da votação final. Das quatro empresas avaliadas, duas utilizavam app proprietário com cobrança por download, uma cobrava taxa de deslocamento para o local da cerimônia no Pacaembu, e apenas a Pixi atendia todos os critérios definidos pela comissão como inegociáveis."
+        text: "Em 2025, uma comissão de Direito da Mackenzie comparou 4 empresas de formatura em SP antes de nos contratar. Os critérios decisivos foram: galeria online aberta (sem app proprietário), entrega em 30 dias com **reconhecimento facial**, **parcelamento em 12x sem juros** e isenção de taxa de deslocamento para eventos fora da capital. A comissão organizou uma planilha comparativa com notas de 1 a 5 para cada critério e compartilhou com todos os 85 formandos da turma antes da votação final. Das quatro empresas avaliadas, duas utilizavam app proprietário com cobrança por download, uma cobrava taxa de deslocamento para o local da cerimônia no Pacaembu, e apenas a Pixi atendia todos os critérios definidos pela comissão como inegociáveis."
       },
       {
         type: "p",
@@ -1089,7 +1089,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Ao comparar, leve em conta também o histórico da empresa. Uma [empresa de formatura em SP](/empresa-de-formatura-sp/) com anos de operação e centenas de turmas atendidas oferece uma segurança que fornecedores novos ainda não construíram. Turmas de universidades como USP, Mackenzie, PUC-SP e FMABC devem buscar referências específicas de turmas com perfil semelhante — mesmo porte, mesmo tipo de cerimônia — para que a comparação seja relevante. Na Pixi Formaturas, nosso histórico desde 2015 e as mais de 500 turmas atendidas em bairros como Moema, Pinheiros, Higienópolis e Jardins, e em cidades do ABC, Guarulhos e Osasco, são o melhor critério de comparação que podemos oferecer."
+        text: "Ao comparar, leve em conta também o histórico da empresa. Uma [empresa de formatura em SP](/empresa-de-formatura-sp/) com anos de operação e centenas de turmas atendidas oferece uma segurança que fornecedores novos ainda não construíram. Turmas de universidades como USP, Mackenzie, PUC-SP e FMABC devem buscar referências específicas de turmas com perfil semelhante — mesmo porte, mesmo tipo de cerimônia — para que a comparação seja relevante. Na Pixi Formaturas, nosso histórico **desde 2015** e as **mais de 500 turmas atendidas** em bairros como Moema, Pinheiros, Higienópolis e Jardins, e em cidades do ABC, Guarulhos e Osasco, são o melhor critério de comparação que podemos oferecer."
       },
       {
         type: "h3",
@@ -1156,7 +1156,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         question: "Empresas de formatura cobram taxa de deslocamento para o ABC?",
-        answer: "Muitas empresas sediadas na capital de São Paulo cobram taxa de deslocamento para eventos em cidades do ABC como Santo André, São Bernardo do Campo e São Caetano do Sul, com valores que variam de R$ 150 a R$ 500. O mesmo pode ocorrer para eventos em Guarulhos e Osasco. Na Pixi Formaturas, não cobramos taxa de deslocamento para nenhuma região da Grande São Paulo, incluindo todo o ABC. Essa isenção está prevista em contrato e deve ser verificada com cada fornecedor antes de fechar."
+        answer: "Muitas empresas sediadas na capital de São Paulo cobram taxa de deslocamento para eventos em **cidades do ABC** como Santo André, São Bernardo do Campo e São Caetano do Sul, com valores que variam de R$ 150 a R$ 500. O mesmo pode ocorrer para eventos em Guarulhos e Osasco. Na Pixi Formaturas, não cobramos taxa de deslocamento para nenhuma região da Grande São Paulo, incluindo todo o ABC. Essa isenção está prevista em contrato e deve ser verificada com cada fornecedor antes de fechar."
       },
       {
         question: "Como a Pixi se posiciona no comparativo de 2026?",
@@ -1185,11 +1185,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
     content: [
       {
         type: "p",
-        text: "Taxas ocultas são uma das maiores fontes de frustração para comissões que contratam uma empresa de formatura. O valor apresentado no orçamento inicial pode crescer significativamente quando surgem cobranças por deslocamento, hora extra, edição adicional, download de fotos em alta resolução ou acesso ao aplicativo proprietário. Identificar essas taxas antes de assinar o contrato é fundamental para proteger o orçamento da turma e evitar conflitos internos entre os formandos que confiaram à comissão a gestão do dinheiro coletivo. O Código de Defesa do Consumidor (CDC) exige que o fornecedor informe previamente todos os custos envolvidos na prestação do serviço, e cobranças não declaradas podem configurar prática abusiva nos termos do artigo 39."
+        text: "Taxas ocultas são uma das maiores fontes de frustração para comissões que contratam uma empresa de formatura. O valor apresentado no orçamento inicial pode crescer significativamente quando surgem cobranças por deslocamento, hora extra, edição adicional, download de fotos em alta resolução ou acesso ao aplicativo proprietário. Identificar essas taxas antes de assinar o contrato é fundamental para proteger o orçamento da turma e evitar conflitos internos entre os formandos que confiaram à comissão a gestão do dinheiro coletivo. O Código de Defesa do Consumidor (CDC) exige que o fornecedor informe previamente todos os custos envolvidos na prestação do serviço, e cobranças não declaradas podem configurar prática abusiva nos termos do **artigo 39**."
       },
       {
         type: "p",
-        text: "Uma empresa de formatura transparente apresenta o valor total desde o primeiro contato, sem surpresas ao longo do processo. Na Pixi Formaturas, praticamos essa transparência desde 2015, com mais de 500 turmas atendidas sem nenhuma cobrança que não estivesse prevista no orçamento inicial. Nossa política inclui isenção de taxa de deslocamento para toda a região do ABC — São Bernardo do Campo, Santo André, São Caetano do Sul, Diadema — e para Guarulhos e Osasco, além de entrega em galeria aberta e álbum digital em até 30 dias. Neste artigo, detalhamos como cada taxa oculta funciona, como identificá-las antes de assinar o contrato e o que a comissão pode fazer para se proteger com base no CDC e em boas práticas de negociação."
+        text: "Uma empresa de formatura transparente apresenta o valor total desde o primeiro contato, sem surpresas ao longo do processo. Na Pixi Formaturas, praticamos essa transparência **desde 2015**, com **mais de 500 turmas atendidas** sem nenhuma cobrança que não estivesse prevista no orçamento inicial. Nossa política inclui isenção de taxa de deslocamento para toda a região do ABC — São Bernardo do Campo, Santo André, São Caetano do Sul, Diadema — e para Guarulhos e Osasco, além de entrega em galeria aberta e álbum digital **em até 30 dias**. Neste artigo, detalhamos como cada taxa oculta funciona, como identificá-las antes de assinar o contrato e o que a comissão pode fazer para se proteger com base no CDC e em boas práticas de negociação."
       },
       {
         type: "h2",
@@ -1213,7 +1213,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Para dimensionar o impacto das taxas ocultas no orçamento coletivo, considere uma turma de 50 formandos que contratou uma empresa de formatura por R$ 5.000. Se a empresa cobra R$ 450 de deslocamento, R$ 200 por hora extra (e o evento se estende por duas horas além do previsto), R$ 1.200 de edição premium e R$ 15 por download no app proprietário (com cada formando baixando em média 20 fotos), o custo total salta para R$ 22.850 — mais de quatro vezes o valor original. Esse cenário não é hipotético: ele reflete práticas documentadas por comissões que registraram reclamações no Procon-SP e nos Procons municipais de Diadema, Santo André e São Bernardo do Campo nos últimos dois anos."
+        text: "Para dimensionar o impacto das taxas ocultas no orçamento coletivo, considere uma turma de 50 formandos que contratou uma empresa de formatura por R$ 5.000. Se a empresa cobra R$ 450 de deslocamento, R$ 200 por hora extra (e o evento se estende por duas horas além do previsto), R$ 1.200 de edição premium e R$ 15 por download no app proprietário (com cada formando baixando em média 20 fotos), o custo total salta para **R$ 22.850** — mais de quatro vezes o valor original. Esse cenário não é hipotético: ele reflete práticas documentadas por comissões que registraram reclamações no **Procon-SP** e nos Procons municipais de Diadema, Santo André e São Bernardo do Campo nos últimos dois anos."
       },
       {
         type: "p",
@@ -1267,7 +1267,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Essa política é especialmente relevante para comissões do ABC, que historicamente enfrentam cobranças adicionais de fornecedores da capital sem que isso esteja claro na proposta inicial. Turmas de universidades em São Bernardo do Campo, Santo André e São Caetano do Sul podem comparar o custo total de propostas que incluem taxa de deslocamento com o orçamento da Pixi — que já contempla o deslocamento sem custo adicional — para ter uma visão realista do investimento necessário. Essa comparação frequentemente revela que propostas aparentemente mais baratas se tornam mais caras quando somadas todas as taxas, reforçando a importância de calcular o custo total antes de fechar com qualquer empresa de formatura."
+        text: "Essa política é especialmente relevante para **comissões do ABC**, que historicamente enfrentam cobranças adicionais de fornecedores da capital sem que isso esteja claro na proposta inicial. Turmas de universidades em São Bernardo do Campo, Santo André e São Caetano do Sul podem comparar o custo total de propostas que incluem taxa de deslocamento com o orçamento da Pixi — que já contempla o deslocamento sem custo adicional — para ter uma visão realista do investimento necessário. Essa comparação frequentemente revela que propostas aparentemente mais baratas se tornam mais caras quando somadas todas as taxas, reforçando a importância de calcular o custo total antes de fechar com qualquer empresa de formatura."
       },
       {
         type: "h2",
@@ -1291,11 +1291,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "A alternativa ao app proprietário é a galeria digital aberta, onde todas as fotos ficam disponíveis para download em alta resolução sem cobrança adicional. Nesse modelo, a turma paga pelo serviço de cobertura fotográfica e recebe as fotos completas como parte do que foi contratado — sem loja virtual, sem taxa por download e sem necessidade de criar conta em aplicativo. O CDC, em seu artigo 39, inciso I, veda a prática de condicionar o fornecimento de produto ou serviço ao fornecimento de outro, o que torna questionável a exigência de pagamento por download quando a cobertura fotográfica já foi contratada e paga."
+        text: "A alternativa ao app proprietário é a galeria digital aberta, onde todas as fotos ficam disponíveis para download em alta resolução sem cobrança adicional. Nesse modelo, a turma paga pelo serviço de cobertura fotográfica e recebe as fotos completas como parte do que foi contratado — sem loja virtual, sem taxa por download e sem necessidade de criar conta em aplicativo. O CDC, em seu **artigo 39**, inciso I, veda a prática de condicionar o fornecimento de produto ou serviço ao fornecimento de outro, o que torna questionável a exigência de pagamento por download quando a cobertura fotográfica já foi contratada e paga."
       },
       {
         type: "p",
-        text: "Na Pixi, todas as [fotos de turma](/servicos/fotos-de-turma/) são entregues em galeria digital aberta, com download livre em alta resolução e reconhecimento facial para localização rápida. Zero taxa adicional por acesso ou download. A galeria pode ser acessada de qualquer dispositivo — celular, tablet ou computador — sem instalação de aplicativos e sem criação de cadastro. Familiares em qualquer lugar do Brasil podem visualizar e baixar as fotos livremente, o que é especialmente importante para turmas de universidades que reúnem estudantes de diferentes estados e cujas famílias nem sempre estão presentes no dia do evento."
+        text: "Na Pixi, todas as [fotos de turma](/servicos/fotos-de-turma/) são entregues em galeria digital aberta, com download livre em alta resolução e **reconhecimento facial** para localização rápida. Zero taxa adicional por acesso ou download. A galeria pode ser acessada de qualquer dispositivo — celular, tablet ou computador — sem instalação de aplicativos e sem criação de cadastro. Familiares em qualquer lugar do Brasil podem visualizar e baixar as fotos livremente, o que é especialmente importante para turmas de universidades que reúnem estudantes de diferentes estados e cujas famílias nem sempre estão presentes no dia do evento."
       },
       {
         type: "h2",
@@ -1303,11 +1303,11 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Em 2024, uma comissão de formatura de São Bernardo do Campo nos procurou após receber um orçamento de uma agência com 5 taxas adicionais não mencionadas na proposta inicial: deslocamento (R$ 450), hora extra (R$ 200/h), edição premium (R$ 1.200), impressão obrigatória e taxa de app. A comissão havia solicitado orçamento por WhatsApp e recebido um valor que parecia competitivo — R$ 4.800 para cobertura completa de colação de grau de uma turma de 60 formandos. Porém, ao analisar o contrato detalhadamente antes de assinar, descobriram essas cinco cobranças adicionais que elevariam o custo real para mais de R$ 20.000, considerando que o evento provavelmente ultrapassaria o horário previsto e que cada formando precisaria baixar suas fotos no app."
+        text: "Em 2024, uma comissão de formatura de São Bernardo do Campo nos procurou após receber um orçamento de uma agência com 5 taxas adicionais não mencionadas na proposta inicial: deslocamento (R$ 450), hora extra (R$ 200/h), edição premium (R$ 1.200), impressão obrigatória e taxa de app. A comissão havia solicitado orçamento por WhatsApp e recebido um valor que parecia competitivo — R$ 4.800 para cobertura completa de colação de grau de uma turma de 60 formandos. Porém, ao analisar o contrato detalhadamente antes de assinar, descobriram essas cinco cobranças adicionais que elevariam o custo real para **mais de R$ 20.000**, considerando que o evento provavelmente ultrapassaria o horário previsto e que cada formando precisaria baixar suas fotos no app."
       },
       {
         type: "p",
-        text: "Na Pixi, o orçamento é fechado: sem taxas ocultas e sem taxa de deslocamento para o ABC. A comissão de São Bernardo do Campo nos contratou com um valor fixo total que incluía cobertura completa, edição profissional de todas as fotos, galeria aberta com reconhecimento facial e entrega em até 30 dias. O contrato declarava expressamente que não haveria cobranças adicionais a qualquer título, e a comissão pôde apresentar esse documento a todos os 60 formandos com total transparência sobre o custo por pessoa. O álbum digital foi entregue em 26 dias, e nenhuma cobrança adicional foi feita em qualquer momento do processo. Esse caso ilustra como a leitura atenta do contrato e a comparação entre propostas com base no custo total — não apenas no valor inicial — protege a turma de surpresas que podem multiplicar o investimento planejado."
+        text: "Na Pixi, o orçamento é fechado: sem taxas ocultas e sem taxa de deslocamento para o ABC. A comissão de São Bernardo do Campo nos contratou com um valor fixo total que incluía cobertura completa, edição profissional de todas as fotos, galeria aberta com **reconhecimento facial** e entrega **em até 30 dias**. O contrato declarava expressamente que não haveria cobranças adicionais a qualquer título, e a comissão pôde apresentar esse documento a todos os 60 formandos com total transparência sobre o custo por pessoa. O álbum digital foi entregue em 26 dias, e nenhuma cobrança adicional foi feita em qualquer momento do processo. Esse caso ilustra como a leitura atenta do contrato e a comparação entre propostas com base no custo total — não apenas no valor inicial — protege a turma de surpresas que podem multiplicar o investimento planejado."
       },
       {
         type: "h2",
@@ -1381,7 +1381,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na Pixi Formaturas, a transparência comercial é uma política, não um discurso de vendas. Desde 2015, nossos orçamentos detalham cada serviço incluído, sem cláusulas que permitam cobranças adicionais. Não cobramos taxa de deslocamento para São Paulo, ABC, Guarulhos e Osasco, não utilizamos aplicativo proprietário que prende as fotos e não praticamos impressão obrigatória. O valor do orçamento é o valor final. Essa política nasceu da observação de que as reclamações mais frequentes no mercado de empresa de formatura envolvem cobranças não previstas, e decidimos eliminar completamente essa possibilidade do nosso modelo de negócio."
+        text: "Na Pixi Formaturas, a transparência comercial é uma política, não um discurso de vendas. **Desde 2015**, nossos orçamentos detalham cada serviço incluído, sem cláusulas que permitam cobranças adicionais. Não cobramos taxa de deslocamento para São Paulo, ABC, Guarulhos e Osasco, não utilizamos aplicativo proprietário que prende as fotos e não praticamos impressão obrigatória. O valor do orçamento é o valor final. Essa política nasceu da observação de que as reclamações mais frequentes no mercado de empresa de formatura envolvem cobranças não previstas, e decidimos eliminar completamente essa possibilidade do nosso modelo de negócio."
       },
       {
         type: "p",
@@ -1393,7 +1393,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Essa política existe porque acreditamos que a confiança entre a empresa de formatura e a comissão é construída com clareza desde o primeiro contato. Com mais de 500 turmas atendidas em São Paulo, São Bernardo do Campo, Santo André, São Caetano do Sul, Diadema, Guarulhos e Osasco, nunca recebemos uma reclamação por cobrança surpresa, e pretendemos manter esse histórico. Nosso contrato especifica cada item incluído e a comissão recebe uma cópia para análise antes de assinar, com prazo de pelo menos cinco dias úteis para leitura e consulta com os demais formandos."
+        text: "Essa política existe porque acreditamos que a confiança entre a empresa de formatura e a comissão é construída com clareza desde o primeiro contato. Com **mais de 500 turmas atendidas** em São Paulo, São Bernardo do Campo, Santo André, São Caetano do Sul, Diadema, Guarulhos e Osasco, nunca recebemos uma reclamação por cobrança surpresa, e pretendemos manter esse histórico. Nosso contrato especifica cada item incluído e a comissão recebe uma cópia para análise antes de assinar, com prazo de pelo menos cinco dias úteis para leitura e consulta com os demais formandos."
       },
       {
         type: "p",
@@ -1456,7 +1456,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Uma empresa de formatura focada em fotografia concentra todos os seus recursos — equipe, equipamento, tecnologia e processos — em um único objetivo: entregar o melhor registro fotográfico possível. Na Pixi Formaturas, escolhemos esse caminho desde 2015, e o resultado são mais de 500 turmas atendidas com entrega do álbum digital em até 30 dias, utilizando reconhecimento facial e galeria aberta sem taxas ocultas. Atendemos turmas de universidades como Mackenzie, USP e FMABC, além de colégios em toda a região do ABC e Guarulhos, sempre com o mesmo padrão de qualidade e dedicação exclusiva à fotografia."
+        text: "Uma **empresa de formatura focada em fotografia** concentra todos os seus recursos — equipe, equipamento, tecnologia e processos — em um único objetivo: entregar o melhor registro fotográfico possível. Na Pixi Formaturas, escolhemos esse caminho **desde 2015**, e o resultado são **mais de 500 turmas atendidas** com entrega do álbum digital **em até 30 dias**, utilizando reconhecimento facial e galeria aberta sem taxas ocultas. Atendemos turmas de universidades como Mackenzie, USP e FMABC, além de colégios em toda a região do ABC e Guarulhos, sempre com o mesmo padrão de qualidade e dedicação exclusiva à fotografia."
       },
       {
         type: "h2",
@@ -1496,7 +1496,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Uma empresa de formatura focada em fotografia investe continuamente em equipamento dedicado para o tipo de evento que atende. Isso inclui câmeras com bom desempenho em baixa luz (cerimônias em auditórios e igrejas), lentes adequadas para registros à distância (sem invadir o espaço da cerimônia), flashes difusores para ambientes internos e equipamento backup completo para cada evento. Em espaços como os auditórios da USP, do Mackenzie e da FMABC, onde as condições de iluminação são desafiadoras e variam drasticamente entre a cerimônia diurna e o baile noturno, esse investimento em equipamento especializado faz diferença visível em cada foto."
+        text: "Uma empresa de formatura focada em fotografia investe continuamente em equipamento dedicado para o tipo de evento que atende. Isso inclui câmeras com bom desempenho em baixa luz (cerimônias em auditórios e igrejas), lentes adequadas para registros à distância (sem invadir o espaço da cerimônia), flashes difusores para ambientes internos e **equipamento backup** completo para cada evento. Em espaços como os auditórios da USP, do Mackenzie e da FMABC, onde as condições de iluminação são desafiadoras e variam drasticamente entre a cerimônia diurna e o baile noturno, esse investimento em equipamento especializado faz diferença visível em cada foto."
       },
       {
         type: "p",
@@ -1508,7 +1508,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Além do hardware, a tecnologia de pós-produção é outro diferencial decisivo. Sistemas de reconhecimento facial que organizam automaticamente as fotos por pessoa, galerias em nuvem com acesso mobile, edição em lotes com padrão de cor calibrado — tudo isso exige investimento contínuo que só faz sentido para uma empresa de formatura que tem a fotografia como atividade principal. Na Pixi Formaturas, nossa infraestrutura de pós-produção foi construída ao longo de mais de dez anos para otimizar o fluxo desde a captura até a entrega, utilizando algoritmos de reconhecimento facial que identificam cada formando automaticamente entre milhares de imagens."
+        text: "Além do hardware, a tecnologia de pós-produção é outro diferencial decisivo. Sistemas de reconhecimento facial que organizam automaticamente as fotos por pessoa, galerias em nuvem com acesso mobile, edição em lotes com padrão de cor calibrado — tudo isso exige investimento contínuo que só faz sentido para uma empresa de formatura que tem a fotografia como atividade principal. Na Pixi Formaturas, nossa infraestrutura de pós-produção foi construída ao longo de mais de dez anos para otimizar o fluxo desde a captura até a entrega, utilizando algoritmos de **reconhecimento facial** que identificam cada formando automaticamente entre milhares de imagens."
       },
       {
         type: "p",
@@ -1520,7 +1520,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Em 2023, uma comissão do Ensino Médio de um colégio em Pinheiros contratou uma agência de eventos completa para a formatura. A fotografia ficou como 'item incluso' no pacote. O resultado: fotos genéricas, sem edição profissional, sem reconhecimento facial e entrega em pendrive 6 meses depois. No ano seguinte, a nova comissão nos contratou separadamente e recebeu o álbum digital em 25 dias."
+        text: "Em 2023, uma comissão do Ensino Médio de um colégio em Pinheiros contratou uma agência de eventos completa para a formatura. A fotografia ficou como 'item incluso' no pacote. O resultado: fotos genéricas, sem edição profissional, sem reconhecimento facial e entrega em pendrive 6 meses depois. No ano seguinte, a nova comissão nos contratou separadamente e recebeu o álbum digital **em 25 dias**."
       },
       {
         type: "p",
@@ -1572,7 +1572,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Na Pixi Formaturas, essa consistência é mensurável: desde 2015, atendemos mais de 500 turmas com o mesmo padrão de qualidade, prazo e atendimento. Cada formatura alimenta nosso processo de melhoria contínua, e os aprendizados de um evento são incorporados aos seguintes de maneira sistemática. Após cada cobertura, nossa equipe realiza uma reunião de análise onde discutimos pontos de melhoria, avaliaamos as condições do espaço cerimonial e documentamos soluções criativas que funcionaram para desafios específicos de iluminação ou logística."
+        text: "Na Pixi Formaturas, essa consistência é mensurável: **desde 2015**, atendemos **mais de 500 turmas** com o mesmo padrão de qualidade, prazo e atendimento. Cada formatura alimenta nosso processo de melhoria contínua, e os aprendizados de um evento são incorporados aos seguintes de maneira sistemática. Após cada cobertura, nossa equipe realiza uma reunião de análise onde discutimos pontos de melhoria, avaliaamos as condições do espaço cerimonial e documentamos soluções criativas que funcionaram para desafios específicos de iluminação ou logística."
       },
       {
         type: "p",
@@ -1592,7 +1592,7 @@ export const EMPRESA_POSTS_2: BlogPost[] = [
       },
       {
         type: "p",
-        text: "Esse workflow permite que o álbum digital chegue à turma em até 30 dias, um prazo que seria impossível para uma agência generalista que precisa gerenciar simultaneamente a entrega de fotos, vídeos, lembranças e outros itens de múltiplos eventos. Em períodos de alta demanda — como novembro e dezembro, quando formaturas de universidades como Mackenzie, USP e FMABC se concentram — a empresa especializada mantém o prazo porque seu pipeline inteiro foi dimensionado exclusivamente para processar fotografia, sem concorrer por recursos com outros departamentos ou serviços."
+        text: "Esse workflow permite que o álbum digital chegue à turma **em até 30 dias**, um prazo que seria impossível para uma agência generalista que precisa gerenciar simultaneamente a entrega de fotos, vídeos, lembranças e outros itens de múltiplos eventos. Em períodos de alta demanda — como novembro e dezembro, quando formaturas de universidades como Mackenzie, USP e FMABC se concentram — a empresa especializada mantém o prazo porque seu pipeline inteiro foi dimensionado exclusivamente para processar fotografia, sem concorrer por recursos com outros departamentos ou serviços."
       },
       {
         type: "h3",

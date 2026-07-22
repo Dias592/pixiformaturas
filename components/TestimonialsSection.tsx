@@ -28,7 +28,7 @@ export default function TestimonialsSection() {
         <div className="mb-12 max-w-2xl">
           <p className="eyebrow mb-2">Depoimentos</p>
           <h2 className="font-sans text-3xl font-bold md:text-4xl">
-            O que dizem <span className="gold-italic">nossos clientes</span>
+            O que dizem os clientes <span className="gold-italic">da Pixi Formaturas?</span>
           </h2>
           <p className="mt-3 text-sm text-textMuted">
             Avaliação média de <strong className="text-gold">5.0 ★</strong> com base em{' '}

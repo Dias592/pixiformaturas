@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import type { ContentBlock } from '@/lib/blog/types'
 
-const LINK_PATTERN = /\[([^\]]+)\]\(([^)]+)\)/g
+const INLINE_PATTERN = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g
 
 function renderInline(text: string) {
   const parts: (string | JSX.Element)[] = []
@@ -9,16 +9,20 @@ function renderInline(text: string) {
   let match: RegExpExecArray | null
   let key = 0
 
-  LINK_PATTERN.lastIndex = 0
-  while ((match = LINK_PATTERN.exec(text)) !== null) {
+  INLINE_PATTERN.lastIndex = 0
+  while ((match = INLINE_PATTERN.exec(text)) !== null) {
     if (match.index > lastIndex) {
       parts.push(text.slice(lastIndex, match.index))
     }
-    parts.push(
-      <Link key={key++} href={match[2]} className="text-gold underline-offset-2 hover:underline">
-        {match[1]}
-      </Link>
-    )
+    if (match[3] !== undefined) {
+      parts.push(<strong key={key++}>{match[3]}</strong>)
+    } else {
+      parts.push(
+        <Link key={key++} href={match[2]} className="text-gold underline-offset-2 hover:underline">
+          {match[1]}
+        </Link>
+      )
+    }
     lastIndex = match.index + match[0].length
   }
 

@@ -7,7 +7,7 @@ export default function HowItWorksSection() {
         <div className="mb-12 max-w-2xl">
           <p className="eyebrow mb-2">Processo</p>
           <h2 className="font-sans text-3xl font-bold md:text-4xl">
-            Como <span className="gold-italic">funciona</span>
+            Como funciona o processo de <span className="gold-italic">contratação da Pixi?</span>
           </h2>
         </div>
 
