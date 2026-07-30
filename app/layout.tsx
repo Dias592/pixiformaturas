@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     template: '%s | Pixi Formaturas',
   },
   description:
-    'Pixi Formaturas: fotografia de formatura escolar e universitária em SP desde 2015. Fotos de turma, colação de grau, ensaio externo e álbum digital.',
+    'A Pixi Formaturas é uma empresa de formatura em São Paulo, ABC e Grande SP desde 2015. Fotografia escolar e universitária, colação de grau, ensaio e álbum digital em 30 dias.',
   keywords: [
     'fotógrafo de formatura escolar São Paulo',
     'fotógrafo de formatura SP',

@@ -11,7 +11,7 @@ import { faqSchema } from '@/lib/schema'
 export const metadata: Metadata = {
   title: { absolute: 'Empresas de Formatura Medicina SP | Pixi' },
   description:
-    'Fotografia profissional de formatura de Medicina em São Paulo. Cobertura de colação de grau, juramento de Hipócrates e beca branca. Orçamento grátis.',
+    'A Pixi Formaturas é especialista em fotografia de formatura de Medicina em São Paulo. Cobertura de colação, juramento de Hipócrates e beca branca desde 2015.',
   alternates: { canonical: `${BUSINESS.url}/empresas-de-formatura-medicina/` },
 }
 
@@ -98,8 +98,8 @@ export default function EmpresasFormaturaMedicinaPage() {
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            O que Torna a Formatura de Medicina{' '}
-            <span className="gold-italic">Diferente</span>
+            O que torna a fotografia de formatura de Medicina{' '}
+            <span className="gold-italic">diferente das demais?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
@@ -155,8 +155,8 @@ export default function EmpresasFormaturaMedicinaPage() {
       <section className="bg-bg py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            Cobertura Fotográfica para{' '}
-            <span className="gold-italic">Colação de Medicina</span>
+            Como é a cobertura fotográfica para{' '}
+            <span className="gold-italic">colação de Medicina?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
@@ -200,8 +200,8 @@ export default function EmpresasFormaturaMedicinaPage() {
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            Faculdades de Medicina Atendidas em{' '}
-            <span className="gold-italic">SP e ABC</span>
+            Quais faculdades de Medicina a Pixi atende em{' '}
+            <span className="gold-italic">SP e ABC?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>

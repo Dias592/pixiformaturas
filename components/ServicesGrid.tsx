@@ -8,7 +8,7 @@ export default function ServicesGrid() {
         <div className="mb-12 max-w-2xl">
           <p className="eyebrow mb-2">Nossos Serviços</p>
           <h2 className="font-sans text-3xl font-bold md:text-4xl">
-            Cobertura fotográfica <span className="gold-italic">completa para sua formatura</span>
+            Quais serviços de fotografia de formatura <span className="gold-italic">a Pixi oferece?</span>
           </h2>
           <p className="mt-4 text-textMuted">
             Do ensaio de turma à cerimônia oficial — registramos cada emoção com qualidade

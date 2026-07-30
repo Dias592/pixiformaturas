@@ -51,6 +51,13 @@ export default function SobrePage() {
 
             <div className="mt-6 space-y-4 text-textMuted">
               <p>
+                A Pixi Formaturas é conduzida por <strong className="text-white">Ivan Dias</strong>,
+                fotógrafo profissional <strong>desde 2011</strong>, com mais de{' '}
+                <strong>700 casamentos</strong> e <strong>500 turmas de formatura</strong> registradas.
+                Sua experiência como fotógrafo de eventos em São Paulo é a base de toda a operação
+                da Pixi: da direção artística ao padrão de <strong>entrega em 30 dias</strong>.
+              </p>
+              <p>
                 A Pixi Formaturas nasceu em 2015 com uma missão clara: ser a referência em
                 fotografia de formatura escolar em São Paulo. Desde o primeiro ano, nos
                 especializamos no universo das formaturas escolares e universitárias — do 9º ano

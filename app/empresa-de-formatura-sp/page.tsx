@@ -11,7 +11,7 @@ import { faqSchema } from '@/lib/schema'
 export const metadata: Metadata = {
   title: { absolute: 'Empresa de Formatura em SP | Pixi Formaturas' },
   description:
-    'Empresa de formatura em São Paulo especializada em fotografia escolar e universitária. Cobertura completa, álbum digital em 30 dias e parcelamento em 12x.',
+    'A Pixi Formaturas é empresa de formatura em São Paulo, ABC e Grande SP desde 2015. Fotografia escolar e universitária especializada, álbum digital em 30 dias e parcelamento em 12x.',
   alternates: { canonical: `${BUSINESS.url}/empresa-de-formatura-sp/` },
 }
 
@@ -107,7 +107,7 @@ export default function EmpresaDeFormaturaSPPage() {
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
             O que é uma empresa de formatura e{' '}
-            <span className="gold-italic">por que contratar</span>
+            <span className="gold-italic">por que contratar uma especializada?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
@@ -122,9 +122,10 @@ export default function EmpresaDeFormaturaSPPage() {
             <p>
               Contratar uma empresa de formatura profissional garante que cada etapa seja
               conduzida por quem entende o protocolo das cerimônias, os prazos de entrega
-              e as expectativas das turmas. Desde 2015, já registramos mais de 500 turmas
-              em São Paulo e região, sempre com equipamento profissional full-frame,
-              equipe treinada e processos que garantem entrega dentro do prazo. Quando a
+              e as expectativas das turmas. <strong>Desde 2015</strong>, já registramos{' '}
+              <strong>mais de 500 turmas</strong> em São Paulo e região, sempre com equipamento
+              profissional full-frame, <strong>equipe treinada</strong> e processos que garantem
+              entrega dentro do prazo. Quando a
               comissão escolhe uma empresa de formatura especializada, reduz riscos e
               ganha tranquilidade para curtir a própria formatura.
             </p>
@@ -144,7 +145,7 @@ export default function EmpresaDeFormaturaSPPage() {
       <section className="bg-bg py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-8 font-sans text-3xl font-bold">
-            Como a <span className="gold-italic">Pixi Formaturas</span> se diferencia
+            Por que escolher a <span className="gold-italic">Pixi Formaturas</span> como empresa de formatura em SP?
           </h2>
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {[
@@ -196,8 +197,8 @@ export default function EmpresaDeFormaturaSPPage() {
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-8 font-sans text-3xl font-bold">
-            Regiões atendidas pela{' '}
-            <span className="gold-italic">Pixi Formaturas</span>
+            Quais regiões de SP a{' '}
+            <span className="gold-italic">Pixi Formaturas</span> atende?
           </h2>
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-3">
             <div className="rounded-lg border border-borderC bg-bg p-6">

@@ -9,7 +9,9 @@ import TestimonialsSection from '@/components/TestimonialsSection'
 import FAQSection from '@/components/FAQSection'
 import CoberturaMapa from '@/components/CoberturaMapa'
 import CTASection from '@/components/CTASection'
+import SchemaOrg from '@/components/SchemaOrg'
 import { HOME_FAQ } from '@/lib/constants'
+import { howToSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
   title: { absolute: 'Empresa de Formatura em SP | Pixi Formaturas' },
@@ -28,9 +30,11 @@ export default function Home() {
           <p className="text-lg leading-relaxed text-textMuted">
             A <strong className="text-white">Pixi Formaturas</strong> é uma empresa especializada em{' '}
             <strong className="text-white">fotografia de formatura escolar e universitária</strong> em{' '}
-            <strong className="text-white">São Paulo, Grande São Paulo e ABC Paulista</strong> desde 2015.
+            <strong className="text-white">São Paulo, Grande São Paulo e ABC Paulista</strong>{' '}
+            <strong className="text-white">desde 2015</strong>.
             Oferecemos cobertura completa de colação de grau, baile de gala, fotos de turma, ensaio externo
-            e álbum digital com entrega em até 30 dias. Atendemos escolas públicas e particulares, faculdades
+            e <strong className="text-white">álbum digital</strong> com entrega em até{' '}
+            <strong className="text-white">30 dias</strong>. Atendemos escolas públicas e particulares, faculdades
             e universidades em todas as zonas da capital e cidades da região metropolitana.
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-3">
@@ -78,6 +82,7 @@ export default function Home() {
       />
       <CoberturaMapa />
       <CTASection />
+      <SchemaOrg schema={howToSchema()} />
     </>
   )
 }

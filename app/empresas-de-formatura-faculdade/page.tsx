@@ -11,7 +11,7 @@ import { faqSchema } from '@/lib/schema'
 export const metadata: Metadata = {
   title: { absolute: 'Empresas de Formatura Faculdade SP | Pixi' },
   description:
-    'Fotografia profissional de formatura de faculdade e universidade em São Paulo. Cobertura de colação de grau oficial e festiva para todos os cursos.',
+    'A Pixi Formaturas é empresa de formatura universitária em SP, ABC e Grande SP. Fotografia profissional para colação de grau, baile e álbum digital desde 2015.',
   alternates: { canonical: `${BUSINESS.url}/empresas-de-formatura-faculdade/` },
 }
 
@@ -108,8 +108,8 @@ export default function EmpresasFormaturaFaculdadePage() {
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            Fotografia de Formatura para{' '}
-            <span className="gold-italic">Todos os Cursos Universitários</span>
+            A Pixi cobre fotografia de formatura para{' '}
+            <span className="gold-italic">quais cursos universitários?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
@@ -162,8 +162,8 @@ export default function EmpresasFormaturaFaculdadePage() {
       <section className="bg-bg py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            Cobertura de Colação de Grau{' '}
-            <span className="gold-italic">Oficial e Festiva</span>
+            Qual a diferença entre colação de grau{' '}
+            <span className="gold-italic">oficial e festiva?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
@@ -207,8 +207,8 @@ export default function EmpresasFormaturaFaculdadePage() {
       <section className="bg-bgCard py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="mb-6 font-sans text-3xl font-bold">
-            Universidades e Faculdades Atendidas em{' '}
-            <span className="gold-italic">São Paulo</span>
+            Quais universidades e faculdades a Pixi atende em{' '}
+            <span className="gold-italic">São Paulo?</span>
           </h2>
           <div className="space-y-4 text-textMuted">
             <p>
