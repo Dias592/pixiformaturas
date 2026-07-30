@@ -547,64 +547,64 @@ export const SEO_POSTS_7: BlogPost[] = [
       },
       {
         "type": "h2",
-        "text": "Top parques de SP para ensaio de formatura"
+        "text": "Museu do Ipiranga: a locação favorita para ensaio de formatura"
       },
       {
         "type": "p",
-        "text": "Entre os parques mais procurados para ensaio de formatura em São Paulo estão o [Parque Ibirapuera](/blog/ensaio-formatura-parque-ibirapuera-sp/), o Parque do Aclimação, o Parque da Aclimação e outros parques regionais que oferecem áreas verdes, lagos e estruturas arquitetônicas interessantes como cenário."
+        "text": "Entre as locações mais procuradas para ensaio de formatura em São Paulo está o [Museu do Ipiranga](/blog/ensaio-formatura-museu-do-ipiranga-sp/) (Museu Paulista da USP), que reúne fachada monumental, jardins amplos e escadaria histórica como cenário — além de ser público e gratuito, sem restrição para uso comercial em ensaios."
       },
       {
         "type": "p",
-        "text": "A escolha do parque costuma considerar a proximidade com a faculdade ou residência da maioria da turma, além das características visuais desejadas para o ensaio."
+        "text": "A escolha dessa locação costuma considerar a proximidade com a faculdade ou residência da maioria da turma, além das características visuais desejadas para o ensaio — e o Museu do Ipiranga fica bem acessível a partir de todas as zonas de São Paulo e do ABC Paulista."
       },
       {
         "type": "h2",
-        "text": "Parque Ibirapuera: dicas e horários"
+        "text": "Museu do Ipiranga: dicas e horários"
       },
       {
         "type": "p",
-        "text": "O [Parque Ibirapuera](/blog/ensaio-formatura-parque-ibirapuera-sp/) é um dos parques mais icônicos de São Paulo, com áreas verdes amplas, lagos e construções marcantes que servem como pano de fundo para fotos de formatura. Os horários mais recomendados são no início da manhã, quando o movimento de pessoas é menor e a luz natural costuma ser mais suave."
+        "text": "O [Museu do Ipiranga](/blog/ensaio-formatura-museu-do-ipiranga-sp/) é um dos cenários mais marcantes de São Paulo, com fachada eclética, jardins simétricos e construções monumentais que servem como pano de fundo para fotos de formatura. Os horários mais recomendados são no início da manhã ou no final da tarde, quando o movimento de visitantes é menor e a luz natural costuma ser mais suave."
       },
       {
         "type": "ul",
         "items": [
-          "Parque Ibirapuera: áreas verdes, lagos e construções marcantes",
-          "Parque da Aclimação: ambiente mais intimista e arborizado",
-          "Outros parques regionais próximos à faculdade",
+          "Fachada monumental: arquitetura eclética do fim do século XIX",
+          "Jardins amplos e simétricos, ideais para fotos em grupo",
+          "Escadaria histórica, boa para retratos individuais",
           "Horários de menor movimento para mais privacidade"
         ]
       },
       {
         "type": "h2",
-        "text": "Parque Estadual, Aclimação e outros"
+        "text": "Por que concentrar o ensaio no Museu do Ipiranga"
       },
       {
         "type": "p",
-        "text": "Além do Ibirapuera, outros parques de São Paulo também oferecem boas opções para ensaio externo, com diferentes estilos visuais — desde ambientes mais intimistas e arborizados até áreas mais amplas e abertas. A escolha pode considerar o conceito definido para o [ensaio criativo](/blog/dicas-ensaio-formatura-criativo/) da turma."
+        "text": "Diferente de outros parques de São Paulo, que hoje cobram taxas altas de autorização para uso comercial e inviabilizam o ensaio de formatura, o Museu do Ipiranga é público e gratuito, sem essa restrição. A escolha pode considerar o conceito definido para o [ensaio criativo](/blog/dicas-ensaio-formatura-criativo/) da turma, aproveitando a diversidade de cenários que o próprio museu já oferece."
       },
       {
         "type": "p",
-        "text": "**[Agende ensaio em parque pelo WhatsApp](/contato/)** e descubra qual parque combina mais com o conceito da sua turma."
+        "text": "**[Agende ensaio no Museu do Ipiranga pelo WhatsApp](/contato/)** e planeje o melhor horário para a sua turma."
       },
       {
         "type": "h2",
-        "text": "O que precisa de autorização e como conseguir"
+        "text": "Autorização e uso comercial no Museu do Ipiranga"
       },
       {
         "type": "p",
-        "text": "Alguns parques de São Paulo exigem autorização prévia para sessões fotográficas profissionais, especialmente quando envolvem equipamentos como tripés, refletores ou grupos grandes. O processo de autorização costuma envolver solicitação junto à administração do parque, com antecedência mínima informada por cada órgão responsável."
+        "text": "Diferente de outros parques de São Paulo, que passaram a exigir autorização e taxas altas para sessões fotográficas comerciais, o Museu do Ipiranga é um espaço público e gratuito, sem restrição para ensaios de formatura — mesmo com equipamentos como tripés e refletores ou grupos maiores."
       },
       {
         "type": "p",
-        "text": "A Pixi Formaturas verifica essas exigências antes de cada ensaio, garantindo que tudo esteja dentro das normas do parque escolhido."
+        "text": "A Pixi Formaturas verifica eventuais exigências específicas antes de cada ensaio, garantindo que tudo esteja dentro das normas do museu."
       },
       {
         "type": "h2",
-        "text": "Como planejar luz, horário e logística no parque"
+        "text": "Como planejar luz, horário e logística no Museu do Ipiranga"
       },
       {
         "type": "p",
-        "text": "O planejamento envolve definir o roteiro de locações dentro do parque, o horário ideal para luz natural (geralmente início da manhã ou final da tarde) e a logística de deslocamento da turma até o local. Em caso de previsão de chuva, é importante ter um plano alternativo de data ou locação."
+        "text": "O planejamento envolve definir o roteiro de pontos dentro do museu — fachada, jardins e escadaria —, o horário ideal para luz natural (geralmente início da manhã ou final da tarde) e a logística de deslocamento da turma até o local. Em caso de previsão de chuva, é importante ter um plano alternativo de data."
       },
       {
         "type": "h2",
@@ -612,21 +612,21 @@ export const SEO_POSTS_7: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Os parques de São Paulo oferecem cenários versáteis e gratuitos para ensaios de formatura, desde que respeitadas as normas de autorização quando aplicáveis. A Pixi Formaturas tem experiência em planejar esses ensaios na cidade. [Solicite seu orçamento pelo WhatsApp](/contato/) e escolha o parque ideal para o ensaio da sua turma."
+        "text": "O Museu do Ipiranga oferece um cenário versátil, gratuito e sem restrição de uso comercial para ensaios de formatura. A Pixi Formaturas tem experiência em planejar esses ensaios no local. [Solicite seu orçamento pelo WhatsApp](/contato/) e agende o ensaio da sua turma no Museu do Ipiranga."
       }
     ],
     "faq": [
       {
-        "question": "Precisa de autorização para fotos no Parque Ibirapuera?",
-        "answer": "Para sessões profissionais com equipamentos específicos, pode ser necessária autorização prévia junto à administração do parque, que a equipe verifica antes do ensaio."
+        "question": "Precisa de autorização para fotos no Museu do Ipiranga?",
+        "answer": "Por ser um espaço público e gratuito, não é necessária autorização prévia para grupos de turma. A equipe verifica eventuais exigências específicas antes do ensaio."
       },
       {
         "question": "Qual o melhor horário para luz natural?",
-        "answer": "O início da manhã e o final da tarde costumam oferecer a luz mais suave e o menor movimento de pessoas nos parques."
+        "answer": "O início da manhã e o final da tarde costumam oferecer a luz mais suave e o menor movimento de visitantes no museu."
       },
       {
         "question": "Pode fazer em grupo grande?",
-        "answer": "Sim, ensaios em grupo podem ser realizados em parques, com planejamento adequado de horário e logística."
+        "answer": "Sim, ensaios em grupo podem ser realizados no Museu do Ipiranga, com planejamento adequado de horário e logística."
       },
       {
         "question": "O que acontece se chover?",
