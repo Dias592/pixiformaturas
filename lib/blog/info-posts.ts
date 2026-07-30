@@ -2304,7 +2304,7 @@ export const INFO_POSTS: BlogPost[] = [
           [
             "Zona Sul",
             "Áreas verdes e mirantes",
-            "Parque Ibirapuera, Parque Burle Marx"
+            "Museu do Ipiranga"
           ],
           [
             "Centro",
@@ -2368,7 +2368,7 @@ export const INFO_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Se a sua turma é da Zona Sul de São Paulo, vale conferir também o conteúdo sobre [fotógrafo de formatura em Moema](/blog/fotografo-de-formatura-moema/), região com ótimas opções de locação próximas ao Ibirapuera. Para planejar o ensaio externo da sua turma com apoio profissional, [entre em contato com a Pixi Formaturas e solicite um orçamento personalizado](/contato/)."
+        "text": "Se a sua turma é da Zona Sul de São Paulo, vale conferir também o conteúdo sobre [fotógrafo de formatura em Moema](/blog/fotografo-de-formatura-moema/), região com ótimas opções de locação próximas ao Museu do Ipiranga. Para planejar o ensaio externo da sua turma com apoio profissional, [entre em contato com a Pixi Formaturas e solicite um orçamento personalizado](/contato/)."
       }
     ],
     "faq": [

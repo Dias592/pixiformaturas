@@ -86,8 +86,8 @@ export const SERVICES = [
     title: 'Ensaio Externo de Formatura em SP',
     h1: 'Ensaio Externo de Formatura em São Paulo',
     description:
-      'Ensaio fotográfico ao ar livre em parques e locações urbanas de São Paulo, como Ibirapuera, Villa-Lobos e Beco do Batman, aproveitando luz natural e cenário externo.',
-    tags: ['Ar Livre', 'Luz Natural', 'Parques de SP'],
+      'Ensaio fotográfico ao ar livre no Museu do Ipiranga (Museu Paulista da USP), locação pública e gratuita com cenário histórico monumental e luz natural.',
+    tags: ['Ar Livre', 'Luz Natural', 'Museu do Ipiranga'],
     cover: '/images/servicos/ensaio-externo-capa.jpg',
   },
   {

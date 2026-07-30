@@ -93,7 +93,7 @@ export default function FormaturaSaoPauloPage() {
             <Link href="/servicos/ensaio-externo/" className="text-gold hover:underline">
               ensaios externos
             </Link>{' '}
-            em parques como o Ibirapuera e Villa-Lobos, e{' '}
+            no Museu do Ipiranga, e{' '}
             <Link href="/servicos/jantar-baile-de-gala/" className="text-gold hover:underline">
               bailes de gala
             </Link>{' '}

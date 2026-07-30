@@ -407,48 +407,48 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
     name: 'Ensaio Externo',
     h1: 'Ensaio Externo de Formatura em São Paulo',
     intro: [
-      'O ensaio externo é o registro fotográfico da turma em locação ao ar livre, aproveitando luz natural, cenário urbano ou paisagístico para criar fotos autênticas e diferentes das imagens tradicionais de estúdio.',
-      'A Pixi Formaturas realiza ensaios externos de formatura em parques, centros históricos e pontos icônicos de São Paulo, planejando o roteiro de locações conforme o perfil da turma e o tempo disponível no dia do ensaio.',
+      'O ensaio externo é o registro fotográfico da turma em locação ao ar livre, aproveitando luz natural e cenário histórico para criar fotos autênticas e diferentes das imagens tradicionais de estúdio.',
+      'A Pixi Formaturas realiza os ensaios externos de formatura no Museu do Ipiranga (Museu Paulista da USP), nossa locação favorita em São Paulo, planejando o roteiro da sessão conforme o perfil da turma e o horário de luz ideal.',
     ],
     body: [
-      'Diferente do ensaio personalizado — que parte de um conceito criativo e temático definido junto à comissão —, o ensaio externo tem como foco principal a locação em si: o cenário natural ou urbano, a luz do dia e a espontaneidade de fotografar fora de um ambiente controlado. É a opção certa para turmas que querem fotos descontraídas, com fundo verde, arquitetura marcante ou paisagem urbana, sem necessariamente construir um tema específico para a sessão.',
-      'Em São Paulo, temos um roteiro de locações testadas e aprovadas ao longo de anos de ensaios externos de formatura. O Parque do Ibirapuera é uma das escolhas mais procuradas, com seus lagos, marquises e áreas verdes que funcionam bem tanto para fotos em grupo quanto para retratos individuais. O Parque Villa-Lobos, com trilhas arborizadas e pontes sobre o Rio Pinheiros, é outra opção clássica para turmas que preferem um cenário mais fechado e intimista.',
-      'Para turmas que buscam um visual urbano mais ousado, o Beco do Batman, na Vila Madalena, oferece grafites coloridos que rendem fotos muito compartilhadas nas redes sociais — é um dos cenários mais pedidos por turmas de Ensino Médio e faculdade que querem fugir do óbvio. Já o Centro Histórico, na região da Sé, traz um contraste entre arquitetura antiga e a turma em trajes de formatura, um registro com identidade bem paulistana.',
-      'O Parque da Aclimação, mais reservado e com uma estrutura de lago e área verde compacta, é uma boa alternativa para turmas menores ou para famílias que preferem um ensaio mais tranquilo, sem a movimentação de parques maiores. Já a Minhocão, aos domingos, quando fecha para carros e vira espaço de pedestres, oferece um cenário urbano elevado, com vista da Avenida São João, que rende fotos únicas — mas exige planejamento de horário, já que só fica disponível em período limitado.',
-      'Cada locação tem características próprias de luz, movimento e acesso, e parte do nosso trabalho é orientar a comissão sobre qual delas combina melhor com o horário do ensaio, o número de formandos e o estilo de fotos que a turma imagina. Ensaios pela manhã ou no fim da tarde, por exemplo, aproveitam melhor a luz natural suave — evitamos horários de sol a pino sempre que possível.',
-      'A logística do ensaio externo também é planejada com antecedência: verificamos necessidade de autorização para uso do espaço (quando aplicável), definimos ponto de encontro, tempo estimado por locação e rota entre os pontos escolhidos, principalmente quando o roteiro inclui mais de um cenário no mesmo dia.',
-      'O resultado é uma galeria com fotos em grupo, retratos individuais e registros espontâneos da turma, sempre com o cenário externo como protagonista — um contraponto natural às fotos de estúdio e um complemento comum à cobertura de colação de grau e baile de gala.',
-      'Do ponto de vista técnico, o ensaio externo exige um olhar diferente do trabalho em estúdio: a equipe precisa ler a luz disponível no momento — sol direto, sombra de árvores, luz refletida em fachadas — e se adaptar rapidamente durante a sessão, já que a iluminação muda ao longo do horário e do deslocamento entre pontos do parque ou da rua. É um trabalho mais próximo da fotografia documental do que da fotografia de estúdio tradicional, com composição pensada a partir do que o cenário oferece naquele momento específico.',
-      'Recomendamos que a turma pense com antecedência no figurino do ensaio externo: cores muito parecidas com o cenário (verde em meio à vegetação, por exemplo) tendem a "sumir" nas fotos, enquanto cores contrastantes ajudam os formandos a se destacarem no ambiente. Sapatos confortáveis também fazem diferença, já que boa parte do ensaio envolve caminhar entre pontos de fotografia dentro do parque ou da região escolhida.',
-      'A época do ano também influencia a escolha da locação: parques como o Ibirapuera e o Villa-Lobos ficam mais floridos e verdes entre o final do inverno e a primavera, enquanto o Centro Histórico e o Beco do Batman mantêm o mesmo potencial fotográfico o ano todo, por dependerem mais da arquitetura e da arte urbana do que da vegetação sazonal.',
+      'Diferente do ensaio personalizado — que parte de um conceito criativo e temático definido junto à comissão —, o ensaio externo tem como foco principal a locação em si: o cenário histórico, a luz do dia e a espontaneidade de fotografar fora de um ambiente controlado. É a opção certa para turmas que querem fotos descontraídas, com arquitetura monumental e jardins ao fundo, sem necessariamente construir um tema específico para a sessão.',
+      'Nossa locação favorita para ensaios externos em São Paulo é o Museu do Ipiranga (Museu Paulista da USP), no bairro do Ipiranga, Zona Sul da cidade. Reaberto em 2022 após uma ampla restauração, o museu reúne arquitetura eclética do fim do século XIX, jardins simétricos, escadaria monumental e esculturas — cenários que dificilmente são encontrados juntos em um único lugar de São Paulo.',
+      'Um dos grandes diferenciais do Museu do Ipiranga é ser um espaço público e gratuito, sem restrição para uso comercial em ensaios fotográficos — diferente de outros parques da cidade que passaram a exigir taxas altas de autorização para sessões de formatura, o que inviabiliza o uso comercial em muitos casos. Isso torna o Museu do Ipiranga uma escolha tranquila tanto para o planejamento quanto para o orçamento da turma.',
+      'O entorno do museu também é facilmente acessível a partir de todas as zonas de São Paulo e das cidades do ABC Paulista, o que facilita a logística no dia do ensaio — tanto para turmas da capital quanto para turmas de escolas e universidades da região metropolitana.',
+      'Cada horário do dia realça de forma diferente a fachada monumental do museu: a luz da manhã incide diretamente sobre a escadaria e os jardins frontais, enquanto o fim da tarde — o chamado golden hour — banha a fachada eclética com um tom dourado que valoriza bastante os retratos individuais e as fotos em grupo.',
+      'A logística do ensaio também é planejada com antecedência: por ser um espaço público e gratuito, não é necessária autorização prévia para grupos de turma, mas orientamos a comissão sobre o melhor dia da semana e horário para evitar maior movimento de visitantes, além de definir ponto de encontro e tempo estimado de sessão.',
+      'O resultado é uma galeria com fotos em grupo, retratos individuais e registros espontâneos da turma, sempre com a fachada monumental, os jardins ou a escadaria histórica como pano de fundo — um contraponto natural às fotos de estúdio e um complemento comum à cobertura de colação de grau e baile de gala.',
+      'Do ponto de vista técnico, fotografar no Museu do Ipiranga exige um olhar diferente do trabalho em estúdio: a equipe precisa ler a luz disponível no momento — sol direto na fachada, sombra dos jardins, luz refletida na escadaria — e se adaptar rapidamente durante a sessão, já que a iluminação muda ao longo do horário e do deslocamento entre os pontos do museu. É um trabalho mais próximo da fotografia documental do que da fotografia de estúdio tradicional, com composição pensada a partir do que o cenário monumental oferece naquele momento específico.',
+      'Recomendamos que a turma pense com antecedência no figurino do ensaio: cores que contrastam com a fachada clara e os jardins (tons mais escuros ou vibrantes, por exemplo) costumam se destacar melhor nas fotos. Sapatos confortáveis também fazem diferença, já que boa parte do ensaio envolve caminhar entre a fachada, os jardins e a escadaria do museu.',
+      'O cenário do Museu do Ipiranga mantém o mesmo potencial fotográfico ao longo de todo o ano, já que depende mais da arquitetura monumental e dos jardins simétricos do que de vegetação sazonal — diferente de parques que variam bastante conforme a estação.',
       'O ensaio externo costuma ser contratado como parte de um pacote maior de fotografia de formatura, junto com a cobertura de colação de grau e do baile de gala, mas também pode ser combinado separadamente, conforme a necessidade da turma. Comissões que já fecharam pacote com a Pixi para outras etapas da formatura podem incluir o ensaio externo posteriormente, sem necessidade de recontratar toda a cobertura do zero.',
-      'Se a sua turma já tem uma locação externa em mente ou quer sugestões de onde fotografar em São Paulo, a Pixi Formaturas ajuda a planejar o roteiro completo do ensaio, do primeiro contato à entrega da galeria digital.',
-      'Para mais ideias de locações e referências de ensaios já realizados, veja também nossos artigos [Ensaio Externo de Formatura](/blog/ensaio-externo-formatura/), [Ensaio Externo de Formatura em Parque de SP](/blog/ensaio-externo-formatura-parque-sp/) e [Melhores Locais para Ensaio Externo de Formatura em SP](/blog/melhores-locais-para-ensaio-externo-de-formatura-em-sp/).',
+      'Se a sua turma já quer fotografar no Museu do Ipiranga ou tem dúvidas sobre como funciona a sessão no local, a Pixi Formaturas ajuda a planejar o roteiro completo do ensaio, do primeiro contato à entrega da galeria digital.',
+      'Para mais detalhes sobre essa locação e referências de ensaios já realizados, veja também nosso guia completo [Ensaio de Formatura no Museu do Ipiranga em SP](/blog/ensaio-formatura-museu-do-ipiranga-sp/) e os artigos [Ensaio Externo de Formatura](/blog/ensaio-externo-formatura/) e [Ensaio Externo de Formatura em Parque de SP](/blog/ensaio-externo-formatura-parque-sp/).',
     ],
     extraSection: {
       title: 'Ensaio externo ou ensaio personalizado?',
-      text: 'As duas opções são complementares, não concorrentes. O ensaio externo tem como ponto de partida a locação — um parque, uma paisagem urbana, luz natural — e funciona bem para turmas que querem fotos autênticas sem um tema elaborado. Já o ensaio personalizado parte de um conceito criativo definido com a comissão, podendo inclusive acontecer em uma locação externa como parte da proposta temática. Se a turma já sabe que quer fotografar no Ibirapuera ou no Beco do Batman sem uma narrativa específica, o ensaio externo atende bem. Se a ideia é construir um conceito visual mais elaborado — inspirado em um filme, uma época ou uma estética específica —, vale conhecer também o nosso serviço de ensaio personalizado. Em caso de dúvida sobre qual serviço combina mais com a proposta da turma, nossa equipe ajuda a decidir durante a reunião inicial de planejamento, sem custo adicional.',
+      text: 'As duas opções são complementares, não concorrentes. O ensaio externo tem como ponto de partida a locação — o Museu do Ipiranga, com sua fachada monumental e luz natural — e funciona bem para turmas que querem fotos autênticas sem um tema elaborado. Já o ensaio personalizado parte de um conceito criativo definido com a comissão, podendo inclusive acontecer no mesmo museu como parte de uma proposta temática. Se a turma já sabe que quer fotografar no Museu do Ipiranga sem uma narrativa específica, o ensaio externo atende bem. Se a ideia é construir um conceito visual mais elaborado — inspirado em um filme, uma época ou uma estética específica —, vale conhecer também o nosso serviço de ensaio personalizado. Em caso de dúvida sobre qual serviço combina mais com a proposta da turma, nossa equipe ajuda a decidir durante a reunião inicial de planejamento, sem custo adicional.',
     },
     included: [
-      'Reunião de planejamento para escolha da locação externa',
-      'Roteiro de locações testadas em São Paulo (parques, centro histórico, pontos urbanos)',
+      'Reunião de planejamento para definição de horário e roteiro no Museu do Ipiranga',
+      'Ensaio na fachada monumental, jardins e escadaria histórica do museu',
       'Fotógrafo especializado em ensaios ao ar livre',
-      'Aproveitamento de luz natural, com horário definido conforme a locação',
+      'Aproveitamento de luz natural, com horário definido conforme o museu',
       'Cobertura de fotos em grupo e retratos individuais',
       'Galeria digital com reconhecimento facial por aluno',
     ],
     steps: [
       {
-        title: 'Escolha da locação',
-        text: 'Sugerimos e confirmamos com a comissão o parque ou cenário urbano ideal.',
+        title: 'Confirmação do horário',
+        text: 'Definimos com a comissão o melhor horário de luz para a sessão no museu.',
       },
       {
         title: 'Planejamento do roteiro',
-        text: 'Definimos horário, pontos de fotografia e tempo estimado no local.',
+        text: 'Organizamos os pontos de fotografia dentro do museu e o tempo estimado.',
       },
       {
         title: 'Realização do ensaio',
-        text: 'Nossa equipe fotografa a turma explorando o cenário externo escolhido.',
+        text: 'Nossa equipe fotografa a turma explorando os cenários do Museu do Ipiranga.',
       },
       {
         title: 'Entrega da galeria digital',
@@ -459,27 +459,27 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       {
         question: 'Qual a diferença entre ensaio externo e ensaio personalizado?',
         answer:
-          'O ensaio externo tem foco na locação ao ar livre — um parque ou cenário urbano — sem necessariamente ter um tema elaborado. O ensaio personalizado parte de um conceito criativo definido junto à comissão, que pode ou não acontecer em uma locação externa.',
+          'O ensaio externo tem foco na locação ao ar livre — o Museu do Ipiranga — sem necessariamente ter um tema elaborado. O ensaio personalizado parte de um conceito criativo definido junto à comissão, que também pode acontecer no museu.',
       },
       {
-        question: 'Quais locações vocês recomendam para ensaio externo em São Paulo?',
+        question: 'Por que o Museu do Ipiranga é a locação recomendada para ensaio externo?',
         answer:
-          'As mais procuradas são o Parque do Ibirapuera, o Parque Villa-Lobos, o Beco do Batman na Vila Madalena, o Centro Histórico na região da Sé e o Parque da Aclimação. A Minhocão também é uma opção aos domingos, quando fecha para carros.',
+          'O Museu do Ipiranga (Museu Paulista da USP) é público e gratuito, sem restrição para uso comercial em ensaios de formatura, com fachada monumental, jardins amplos e escadaria histórica — além de fácil acesso a partir de todas as zonas de São Paulo e do ABC Paulista.',
       },
       {
-        question: 'A escola ou a comissão precisa autorizar o local do ensaio?',
+        question: 'É preciso autorização para fotografar no Museu do Ipiranga?',
         answer:
-          'Para parques e espaços públicos municipais, normalmente não é necessária autorização prévia para grupos pequenos e médios. Orientamos a comissão sobre isso durante o planejamento, caso a locação escolhida exija algum tipo de solicitação.',
+          'Por ser um espaço público e gratuito, não é necessária autorização prévia para grupos de turma. Orientamos a comissão sobre o melhor dia e horário para a sessão durante o planejamento.',
       },
       {
-        question: 'Quanto tempo dura um ensaio externo?',
+        question: 'Quanto tempo dura o ensaio externo no Museu do Ipiranga?',
         answer:
-          'Depende do tamanho da turma e do número de locações no roteiro, mas a maioria dos ensaios externos dura entre 2 e 4 horas, incluindo fotos em grupo e retratos individuais.',
+          'Depende do tamanho da turma, mas a maioria das sessões dura entre 2 e 4 horas, incluindo fotos em grupo e retratos individuais pela fachada, jardins e escadaria do museu.',
       },
       {
-        question: 'É possível combinar mais de uma locação no mesmo ensaio externo?',
+        question: 'Qual o melhor horário para o ensaio no Museu do Ipiranga?',
         answer:
-          'Sim, desde que o roteiro considere o tempo de deslocamento entre os pontos. Ajudamos a planejar a logística para aproveitar bem a luz natural em cada cenário escolhido.',
+          'O início da manhã e o fim da tarde (golden hour) oferecem a luz mais suave e favorável para retratos, valorizando a fachada eclética e os jardins do museu.',
       },
       {
         question: 'O ensaio externo pode ser contratado separado do pacote de formatura?',
@@ -488,14 +488,14 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       },
     ],
     testimonial: {
-      name: 'Comissão de Formatura — Ensaio Externo · Ibirapuera',
-      text: 'Escolhemos o Ibirapuera e a Pixi cuidou de tudo, desde o horário até os pontos de foto. As fotos ficaram naturais, sem parecer posadas demais. Recomendamos muito.',
+      name: 'Comissão de Formatura — Ensaio Externo · Museu do Ipiranga',
+      text: 'Escolhemos o Museu do Ipiranga e a Pixi cuidou de tudo, desde o horário até os pontos de foto na fachada e nos jardins. As fotos ficaram naturais, sem parecer posadas demais. Recomendamos muito.',
     },
     galleryAlts: [
-      'Ensaio externo de formatura no Parque do Ibirapuera - Pixi Formaturas',
-      'Ensaio de turma ao ar livre em São Paulo - Pixi Formaturas',
-      'Ensaio externo de formandos em locação urbana - Pixi Formaturas',
-      'Ensaio fotográfico de formatura em parque de São Paulo - Pixi Formaturas',
+      'Ensaio externo de formatura no Museu do Ipiranga - Pixi Formaturas',
+      'Ensaio de turma na fachada do Museu Paulista da USP - Pixi Formaturas',
+      'Ensaio externo de formandos nos jardins do Museu do Ipiranga - Pixi Formaturas',
+      'Ensaio fotográfico de formatura na escadaria do Museu do Ipiranga - Pixi Formaturas',
     ],
     galleryImages: ENSAIO_EXTERNO_IMAGES.slice(0, 8),
   },

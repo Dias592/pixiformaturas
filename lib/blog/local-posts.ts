@@ -654,7 +654,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Para comissões de formatura de escolas em Moema, a Pixi Formaturas é uma equipe que atua na zona sul de São Paulo desde 2015, com experiência em colégios particulares de alto padrão do bairro e em buffets de eventos próximos ao Parque Ibirapuera."
+        "text": "Para comissões de formatura de escolas em Moema, a Pixi Formaturas é uma equipe que atua na zona sul de São Paulo desde 2015, com experiência em colégios particulares de alto padrão do bairro e em buffets de eventos próximos ao Museu do Ipiranga."
       },
       {
         "type": "p",
@@ -675,7 +675,7 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Colação de Grau](/servicos/colacao-de-grau/) com cobertura discreta do protocolo oficial",
           "[Colação Festiva](/servicos/colacao-festiva/) e baile de gala em casas de eventos da região",
           "[Jantar de Gala](/servicos/jantar-baile-de-gala/) com registro completo da celebração",
-          "[Ensaio Personalizado](/servicos/ensaio-personalizado/) no Parque Ibirapuera e arredores de Moema",
+          "[Ensaio Externo](/servicos/ensaio-externo/) no Museu do Ipiranga e arredores de Moema",
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da escola",
           "[Álbum Digital](/servicos/album-digital/) com entrega em até 30 dias"
         ]
@@ -702,7 +702,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "É o pacote mais robusto em Moema: fotos de turma ao longo do ano, ensaio externo (muitas vezes no Ibirapuera), colação de grau e baile de gala, tudo com a mesma equipe acompanhando a turma."
+        "text": "É o pacote mais robusto em Moema: fotos de turma ao longo do ano, ensaio externo (muitas vezes no Museu do Ipiranga), colação de grau e baile de gala, tudo com a mesma equipe acompanhando a turma."
       },
       {
         "type": "h3",
@@ -765,7 +765,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "question": "Vocês fazem ensaio externo em locações de Moema?",
-        "answer": "Sim, fazemos ensaios personalizados no Parque Ibirapuera e em outras locações ao ar livre próximas a Moema, conforme a preferência da turma. Basta indicar o local na conversa de orçamento."
+        "answer": "Sim, fazemos ensaios externos no Museu do Ipiranga, próximo a Moema, além de ensaios personalizados em outras locações conforme a preferência da turma. Basta indicar a preferência na conversa de orçamento."
       }
     ]
   },

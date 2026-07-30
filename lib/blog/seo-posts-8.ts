@@ -57,7 +57,7 @@ export const SEO_POSTS_8: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Além dos cenários mais conhecidos, como o [Parque Ibirapuera](/blog/ensaio-formatura-parque-ibirapuera-sp/), São Paulo tem opções menos exploradas: ruas com arte urbana em bairros como a Vila Madalena, espaços industriais revitalizados na região da Barra Funda, e até mesmo o [próprio campus da faculdade](/blog/ensaio-formatura-campus/), quando o conceito tem relação com a trajetória acadêmica."
+        "text": "Além do cenário mais conhecido, o [Museu do Ipiranga](/blog/ensaio-formatura-museu-do-ipiranga-sp/), São Paulo tem opções menos exploradas: ruas com arte urbana em bairros como a Vila Madalena, espaços industriais revitalizados na região da Barra Funda, e até mesmo o [próprio campus da faculdade](/blog/ensaio-formatura-campus/), quando o conceito tem relação com a trajetória acadêmica."
       },
       {
         "type": "p",
@@ -943,108 +943,4 @@ export const SEO_POSTS_8: BlogPost[] = [
       }
     ]
   },
-  {
-    "slug": "ensaio-formatura-parque-ibirapuera-sp",
-    "title": "Ensaio de Formatura no Parque Ibirapuera em SP: Dicas, Horários e O Que Esperar",
-    "metaTitle": "Ensaio de Formatura no Parque Ibirapuera SP",
-    "metaDescription": "O Parque Ibirapuera é o cenário mais procurado para ensaio de formatura em SP. Veja como planejar, horários ideais e como a Pixi organiza tudo.",
-    "category": "Fotógrafo de Formatura",
-    "date": "2026-01-26",
-    "excerpt": "Ensaio de formatura no Parque Ibirapuera em SP: melhores pontos fotográficos, horários ideais e como conseguir autorização.",
-    "coverAlt": "fotógrafo de formatura SP - Pixi Formaturas - ensaio de formatura no Parque Ibirapuera com formandos sorrindo",
-    "relatedService": "ensaio-personalizado",
-    "content": [
-      {
-        "type": "p",
-        "text": "Ensaio formatura ibirapuera é, sem dúvida, uma das combinações mais procuradas por turmas de São Paulo. O Parque Ibirapuera reúne áreas verdes, lagos, construções marcantes e boa luz natural — tudo o que se busca em um ensaio externo de qualidade."
-      },
-      {
-        "type": "p",
-        "text": "A Pixi Formaturas já realizou diversos fotos formatura parque ibirapuera sp, e reúne aqui as principais dicas para planejar esse ensaio."
-      },
-      {
-        "type": "h2",
-        "text": "Por que o Ibirapuera é o favorito para ensaio de formatura"
-      },
-      {
-        "type": "p",
-        "text": "O Parque Ibirapuera é um dos cartões-postais de São Paulo, com uma combinação única de áreas verdes, arquitetura modernista e espaços amplos. Essa diversidade permite criar diferentes estilos de fotos no mesmo ensaio, sem precisar se deslocar para outras locações — algo raro entre os [parques da cidade](/blog/ensaio-externo-formatura-parque-sp/)."
-      },
-      {
-        "type": "p",
-        "text": "Além disso, sua localização central facilita o acesso para turmas de diferentes regiões de São Paulo."
-      },
-      {
-        "type": "h2",
-        "text": "Melhores pontos fotográficos dentro do parque"
-      },
-      {
-        "type": "p",
-        "text": "Dentro do Ibirapuera, alguns pontos se destacam: as áreas ao redor do lago, os espaços com a arquitetura marcante dos pavilhões, os jardins com vegetação variada, e as alamedas arborizadas. Cada um desses pontos oferece um estilo visual diferente, permitindo variedade no conjunto final de fotos."
-      },
-      {
-        "type": "ul",
-        "items": [
-          "Áreas ao redor do lago, com reflexos e amplitude",
-          "Pavilhões com arquitetura modernista marcante",
-          "Jardins com vegetação variada",
-          "Alamedas arborizadas para fotos com sombra suave"
-        ]
-      },
-      {
-        "type": "h2",
-        "text": "Horários ideais para luz natural no Ibirapuera"
-      },
-      {
-        "type": "p",
-        "text": "O início da manhã costuma ser o horário ideal para o ensaio no Ibirapuera: a luz é mais suave, o movimento de visitantes é menor, e a temperatura mais amena facilita a sessão, especialmente em dias de calor. O final da tarde também é uma boa opção, com a chamada \"luz dourada\" que valoriza bastante as fotos externas."
-      },
-      {
-        "type": "p",
-        "text": "**[Agende ensaio no Ibirapuera pelo WhatsApp](/contato/)** e planeje o melhor horário para a sua turma."
-      },
-      {
-        "type": "h2",
-        "text": "Como conseguir autorização e o que é permitido"
-      },
-      {
-        "type": "p",
-        "text": "Sessões fotográficas profissionais no Parque Ibirapuera podem exigir autorização prévia, especialmente quando envolvem equipamentos como tripés e refletores ou grupos grandes. A Pixi Formaturas verifica essas exigências antes de cada ensaio, garantindo que tudo esteja dentro das normas do parque."
-      },
-      {
-        "type": "h2",
-        "text": "Logística para grupos grandes no parque"
-      },
-      {
-        "type": "p",
-        "text": "Para turmas grandes, o planejamento envolve definir um roteiro de locações dentro do parque que considere o tempo de deslocamento entre elas, além de um ponto de encontro de fácil acesso. O tamanho do grupo também pode influenciar a escolha do horário, priorizando momentos com menor movimento de visitantes."
-      },
-      {
-        "type": "h2",
-        "text": "Conclusão"
-      },
-      {
-        "type": "p",
-        "text": "O Parque Ibirapuera é um dos cenários mais completos e procurados para ensaio de formatura em São Paulo, reunindo diferentes estilos visuais em um só lugar. A Pixi Formaturas tem experiência em planejar esses ensaios na região. [Solicite seu orçamento pelo WhatsApp](/contato/) e organize o ensaio da sua turma no Ibirapuera."
-      }
-    ],
-    "faq": [
-      {
-        "question": "Precisa de autorização para fotos no Ibirapuera?",
-        "answer": "Para sessões profissionais com equipamentos específicos, pode ser necessária autorização prévia junto à administração do parque, que a equipe verifica antes do ensaio."
-      },
-      {
-        "question": "Pode ir com turma toda?",
-        "answer": "Sim, é possível realizar o ensaio com toda a turma, com planejamento de roteiro e horário adequado ao tamanho do grupo."
-      },
-      {
-        "question": "Qual o melhor horário para luz dourada?",
-        "answer": "O final da tarde costuma oferecer a chamada luz dourada, que valoriza bastante as fotos externas no parque."
-      },
-      {
-        "question": "Tem estacionamento para a equipe?",
-        "answer": "O Parque Ibirapuera conta com estacionamento próprio, que pode ser utilizado pela equipe no dia do ensaio."
-      }
-    ]
-  }
 ]
