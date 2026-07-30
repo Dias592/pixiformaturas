@@ -130,7 +130,7 @@ export default function FormaturaGrandeSPPage() {
                 colação festiva
               </Link>{' '}
               e{' '}
-              <Link href="/servicos/baile-de-gala/" className="text-gold hover:underline">
+              <Link href="/servicos/jantar-baile-de-gala/" className="text-gold hover:underline">
                 baile de gala
               </Link>
               . Confira todos os nossos{' '}

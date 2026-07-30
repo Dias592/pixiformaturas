@@ -94,7 +94,7 @@ export default function FormaturaSaoPauloPage() {
               ensaios externos
             </Link>{' '}
             em parques como o Ibirapuera e Villa-Lobos, e{' '}
-            <Link href="/servicos/baile-de-gala/" className="text-gold hover:underline">
+            <Link href="/servicos/jantar-baile-de-gala/" className="text-gold hover:underline">
               bailes de gala
             </Link>{' '}
             em buffets e espaços de eventos por toda a cidade. Cada pacote é
