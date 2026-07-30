@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import Breadcrumbs from './Breadcrumbs'
 import CTASection from './CTASection'
 import FAQSection from './FAQSection'
@@ -6,6 +7,34 @@ import SchemaOrg from './SchemaOrg'
 import { whatsappLink } from '@/lib/constants'
 import { serviceSchema } from '@/lib/schema'
 import type { GalleryImage } from '@/lib/galleryImages'
+
+const INLINE_PATTERN = /\[([^\]]+)\]\(([^)]+)\)/g
+
+function renderInline(text: string) {
+  const parts: (string | JSX.Element)[] = []
+  let lastIndex = 0
+  let match: RegExpExecArray | null
+  let key = 0
+
+  INLINE_PATTERN.lastIndex = 0
+  while ((match = INLINE_PATTERN.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index))
+    }
+    parts.push(
+      <Link key={key++} href={match[2]} className="text-gold underline-offset-2 hover:underline">
+        {match[1]}
+      </Link>
+    )
+    lastIndex = match.index + match[0].length
+  }
+
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex))
+  }
+
+  return parts.length > 0 ? parts : text
+}
 
 export interface ServicePageData {
   slug: string
@@ -47,7 +76,7 @@ export default function ServicePageTemplate({ data }: { data: ServicePageData })
               </p>
             ))}
             {data.body.map((p, i) => (
-              <p key={i}>{p}</p>
+              <p key={i}>{renderInline(p)}</p>
             ))}
           </div>
 

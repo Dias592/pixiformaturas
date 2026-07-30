@@ -141,7 +141,7 @@ export default function FormaturaABCPage() {
               Conhecemos o protocolo de cada instituição e adaptamos nossa atuação
               ao formato de cada cerimônia — das mais formais às celebrações
               descontraídas com{' '}
-              <Link href="/servicos/baile-de-gala/" className="text-gold hover:underline">
+              <Link href="/servicos/jantar-baile-de-gala/" className="text-gold hover:underline">
                 baile de gala
               </Link>
               .

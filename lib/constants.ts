@@ -80,6 +80,17 @@ export const SERVICES = [
     cover: '/images/servicos/ensaio-personalizado-capa.jpg',
   },
   {
+    slug: 'ensaio-externo',
+    name: 'Ensaio Externo',
+    shortName: 'Ensaio Externo',
+    title: 'Ensaio Externo de Formatura em SP',
+    h1: 'Ensaio Externo de Formatura em São Paulo',
+    description:
+      'Ensaio fotográfico ao ar livre em parques e locações urbanas de São Paulo, como Ibirapuera, Villa-Lobos e Beco do Batman, aproveitando luz natural e cenário externo.',
+    tags: ['Ar Livre', 'Luz Natural', 'Parques de SP'],
+    cover: '/images/servicos/ensaio-externo-capa.jpg',
+  },
+  {
     slug: 'photo-day',
     name: 'Photo Day Exclusivo',
     shortName: 'Photo Day',
@@ -157,6 +168,7 @@ export const FOOTER_SERVICES = [
   'Jantar de Gala e Baile de Gala',
   'Fotos de Turma',
   'Ensaio Personalizado da Turma',
+  'Ensaio Externo de Formatura',
   'Álbum Impresso Personalizado por Turma',
   'Álbum Digital de Formatura',
   'Soluções Digitais para Fotografia de Formatura',

@@ -337,6 +337,10 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'O resultado é uma galeria de fotos que foge do tradicional, com imagens que a turma vai adorar compartilhar nas redes sociais e guardar como lembrança de um momento especial e bem pensado.',
       'Se a sua turma quer um ensaio de formatura diferente de tudo o que já viu, a Pixi Formaturas está pronta para planejar e executar esse projeto em São Paulo, do conceito à entrega final.',
     ],
+    extraSection: {
+      title: 'Ensaio personalizado ou ensaio externo?',
+      text: 'Se a turma já sabe que quer fotografar em um parque ou cenário urbano de São Paulo sem construir um conceito elaborado, o nosso serviço de ensaio externo é a opção mais direta. O ensaio personalizado vale a pena quando a turma quer ir além da locação e criar uma narrativa visual própria — um tema, uma época, uma estética específica — que pode, inclusive, acontecer em uma das locações externas que já usamos com frequência.',
+    },
     included: [
       'Reunião criativa para definição de conceito e estilo do ensaio',
       'Sugestão e visita de locação personalizada',
@@ -396,6 +400,104 @@ export const SERVICE_PAGES: Record<string, ServicePageData> = {
       'Ensaio fotográfico personalizado - São Paulo - Pixi Formaturas',
     ],
     galleryImages: ENSAIO_EXTERNO_IMAGES.slice(0, 4),
+  },
+
+  'ensaio-externo': {
+    slug: 'ensaio-externo',
+    name: 'Ensaio Externo',
+    h1: 'Ensaio Externo de Formatura em São Paulo',
+    intro: [
+      'O ensaio externo é o registro fotográfico da turma em locação ao ar livre, aproveitando luz natural, cenário urbano ou paisagístico para criar fotos autênticas e diferentes das imagens tradicionais de estúdio.',
+      'A Pixi Formaturas realiza ensaios externos de formatura em parques, centros históricos e pontos icônicos de São Paulo, planejando o roteiro de locações conforme o perfil da turma e o tempo disponível no dia do ensaio.',
+    ],
+    body: [
+      'Diferente do ensaio personalizado — que parte de um conceito criativo e temático definido junto à comissão —, o ensaio externo tem como foco principal a locação em si: o cenário natural ou urbano, a luz do dia e a espontaneidade de fotografar fora de um ambiente controlado. É a opção certa para turmas que querem fotos descontraídas, com fundo verde, arquitetura marcante ou paisagem urbana, sem necessariamente construir um tema específico para a sessão.',
+      'Em São Paulo, temos um roteiro de locações testadas e aprovadas ao longo de anos de ensaios externos de formatura. O Parque do Ibirapuera é uma das escolhas mais procuradas, com seus lagos, marquises e áreas verdes que funcionam bem tanto para fotos em grupo quanto para retratos individuais. O Parque Villa-Lobos, com trilhas arborizadas e pontes sobre o Rio Pinheiros, é outra opção clássica para turmas que preferem um cenário mais fechado e intimista.',
+      'Para turmas que buscam um visual urbano mais ousado, o Beco do Batman, na Vila Madalena, oferece grafites coloridos que rendem fotos muito compartilhadas nas redes sociais — é um dos cenários mais pedidos por turmas de Ensino Médio e faculdade que querem fugir do óbvio. Já o Centro Histórico, na região da Sé, traz um contraste entre arquitetura antiga e a turma em trajes de formatura, um registro com identidade bem paulistana.',
+      'O Parque da Aclimação, mais reservado e com uma estrutura de lago e área verde compacta, é uma boa alternativa para turmas menores ou para famílias que preferem um ensaio mais tranquilo, sem a movimentação de parques maiores. Já a Minhocão, aos domingos, quando fecha para carros e vira espaço de pedestres, oferece um cenário urbano elevado, com vista da Avenida São João, que rende fotos únicas — mas exige planejamento de horário, já que só fica disponível em período limitado.',
+      'Cada locação tem características próprias de luz, movimento e acesso, e parte do nosso trabalho é orientar a comissão sobre qual delas combina melhor com o horário do ensaio, o número de formandos e o estilo de fotos que a turma imagina. Ensaios pela manhã ou no fim da tarde, por exemplo, aproveitam melhor a luz natural suave — evitamos horários de sol a pino sempre que possível.',
+      'A logística do ensaio externo também é planejada com antecedência: verificamos necessidade de autorização para uso do espaço (quando aplicável), definimos ponto de encontro, tempo estimado por locação e rota entre os pontos escolhidos, principalmente quando o roteiro inclui mais de um cenário no mesmo dia.',
+      'O resultado é uma galeria com fotos em grupo, retratos individuais e registros espontâneos da turma, sempre com o cenário externo como protagonista — um contraponto natural às fotos de estúdio e um complemento comum à cobertura de colação de grau e baile de gala.',
+      'Do ponto de vista técnico, o ensaio externo exige um olhar diferente do trabalho em estúdio: a equipe precisa ler a luz disponível no momento — sol direto, sombra de árvores, luz refletida em fachadas — e se adaptar rapidamente durante a sessão, já que a iluminação muda ao longo do horário e do deslocamento entre pontos do parque ou da rua. É um trabalho mais próximo da fotografia documental do que da fotografia de estúdio tradicional, com composição pensada a partir do que o cenário oferece naquele momento específico.',
+      'Recomendamos que a turma pense com antecedência no figurino do ensaio externo: cores muito parecidas com o cenário (verde em meio à vegetação, por exemplo) tendem a "sumir" nas fotos, enquanto cores contrastantes ajudam os formandos a se destacarem no ambiente. Sapatos confortáveis também fazem diferença, já que boa parte do ensaio envolve caminhar entre pontos de fotografia dentro do parque ou da região escolhida.',
+      'A época do ano também influencia a escolha da locação: parques como o Ibirapuera e o Villa-Lobos ficam mais floridos e verdes entre o final do inverno e a primavera, enquanto o Centro Histórico e o Beco do Batman mantêm o mesmo potencial fotográfico o ano todo, por dependerem mais da arquitetura e da arte urbana do que da vegetação sazonal.',
+      'O ensaio externo costuma ser contratado como parte de um pacote maior de fotografia de formatura, junto com a cobertura de colação de grau e do baile de gala, mas também pode ser combinado separadamente, conforme a necessidade da turma. Comissões que já fecharam pacote com a Pixi para outras etapas da formatura podem incluir o ensaio externo posteriormente, sem necessidade de recontratar toda a cobertura do zero.',
+      'Se a sua turma já tem uma locação externa em mente ou quer sugestões de onde fotografar em São Paulo, a Pixi Formaturas ajuda a planejar o roteiro completo do ensaio, do primeiro contato à entrega da galeria digital.',
+      'Para mais ideias de locações e referências de ensaios já realizados, veja também nossos artigos [Ensaio Externo de Formatura](/blog/ensaio-externo-formatura/), [Ensaio Externo de Formatura em Parque de SP](/blog/ensaio-externo-formatura-parque-sp/) e [Melhores Locais para Ensaio Externo de Formatura em SP](/blog/melhores-locais-para-ensaio-externo-de-formatura-em-sp/).',
+    ],
+    extraSection: {
+      title: 'Ensaio externo ou ensaio personalizado?',
+      text: 'As duas opções são complementares, não concorrentes. O ensaio externo tem como ponto de partida a locação — um parque, uma paisagem urbana, luz natural — e funciona bem para turmas que querem fotos autênticas sem um tema elaborado. Já o ensaio personalizado parte de um conceito criativo definido com a comissão, podendo inclusive acontecer em uma locação externa como parte da proposta temática. Se a turma já sabe que quer fotografar no Ibirapuera ou no Beco do Batman sem uma narrativa específica, o ensaio externo atende bem. Se a ideia é construir um conceito visual mais elaborado — inspirado em um filme, uma época ou uma estética específica —, vale conhecer também o nosso serviço de ensaio personalizado. Em caso de dúvida sobre qual serviço combina mais com a proposta da turma, nossa equipe ajuda a decidir durante a reunião inicial de planejamento, sem custo adicional.',
+    },
+    included: [
+      'Reunião de planejamento para escolha da locação externa',
+      'Roteiro de locações testadas em São Paulo (parques, centro histórico, pontos urbanos)',
+      'Fotógrafo especializado em ensaios ao ar livre',
+      'Aproveitamento de luz natural, com horário definido conforme a locação',
+      'Cobertura de fotos em grupo e retratos individuais',
+      'Galeria digital com reconhecimento facial por aluno',
+    ],
+    steps: [
+      {
+        title: 'Escolha da locação',
+        text: 'Sugerimos e confirmamos com a comissão o parque ou cenário urbano ideal.',
+      },
+      {
+        title: 'Planejamento do roteiro',
+        text: 'Definimos horário, pontos de fotografia e tempo estimado no local.',
+      },
+      {
+        title: 'Realização do ensaio',
+        text: 'Nossa equipe fotografa a turma explorando o cenário externo escolhido.',
+      },
+      {
+        title: 'Entrega da galeria digital',
+        text: 'Álbum digital entregue em até 30 dias, com reconhecimento facial.',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Qual a diferença entre ensaio externo e ensaio personalizado?',
+        answer:
+          'O ensaio externo tem foco na locação ao ar livre — um parque ou cenário urbano — sem necessariamente ter um tema elaborado. O ensaio personalizado parte de um conceito criativo definido junto à comissão, que pode ou não acontecer em uma locação externa.',
+      },
+      {
+        question: 'Quais locações vocês recomendam para ensaio externo em São Paulo?',
+        answer:
+          'As mais procuradas são o Parque do Ibirapuera, o Parque Villa-Lobos, o Beco do Batman na Vila Madalena, o Centro Histórico na região da Sé e o Parque da Aclimação. A Minhocão também é uma opção aos domingos, quando fecha para carros.',
+      },
+      {
+        question: 'A escola ou a comissão precisa autorizar o local do ensaio?',
+        answer:
+          'Para parques e espaços públicos municipais, normalmente não é necessária autorização prévia para grupos pequenos e médios. Orientamos a comissão sobre isso durante o planejamento, caso a locação escolhida exija algum tipo de solicitação.',
+      },
+      {
+        question: 'Quanto tempo dura um ensaio externo?',
+        answer:
+          'Depende do tamanho da turma e do número de locações no roteiro, mas a maioria dos ensaios externos dura entre 2 e 4 horas, incluindo fotos em grupo e retratos individuais.',
+      },
+      {
+        question: 'É possível combinar mais de uma locação no mesmo ensaio externo?',
+        answer:
+          'Sim, desde que o roteiro considere o tempo de deslocamento entre os pontos. Ajudamos a planejar a logística para aproveitar bem a luz natural em cada cenário escolhido.',
+      },
+      {
+        question: 'O ensaio externo pode ser contratado separado do pacote de formatura?',
+        answer:
+          'Sim. Turmas que já contrataram outras coberturas com a Pixi (colação de grau, baile de gala) podem incluir o ensaio externo depois, e turmas que só querem esse serviço também podem contratá-lo isoladamente.',
+      },
+    ],
+    testimonial: {
+      name: 'Comissão de Formatura — Ensaio Externo · Ibirapuera',
+      text: 'Escolhemos o Ibirapuera e a Pixi cuidou de tudo, desde o horário até os pontos de foto. As fotos ficaram naturais, sem parecer posadas demais. Recomendamos muito.',
+    },
+    galleryAlts: [
+      'Ensaio externo de formatura no Parque do Ibirapuera - Pixi Formaturas',
+      'Ensaio de turma ao ar livre em São Paulo - Pixi Formaturas',
+      'Ensaio externo de formandos em locação urbana - Pixi Formaturas',
+      'Ensaio fotográfico de formatura em parque de São Paulo - Pixi Formaturas',
+    ],
+    galleryImages: ENSAIO_EXTERNO_IMAGES.slice(0, 8),
   },
 
   'photo-day': {
