@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'FAQ Fotografia de Formatura SP',
   description:
     'Tire todas as dúvidas sobre fotografia de formatura escolar com a Pixi Formaturas: preços, prazos, o que está incluso, como funciona e muito mais.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/faq/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/faq/' },
 }
 
 const FAQ_CATEGORIES = [

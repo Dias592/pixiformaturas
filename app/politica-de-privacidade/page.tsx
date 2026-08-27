@@ -5,7 +5,7 @@ import { BUSINESS } from '@/lib/constants'
 export const metadata: Metadata = {
   title: 'Política de Privacidade',
   description: 'Política de Privacidade da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/politica-de-privacidade/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/politica-de-privacidade/' },
   robots: { index: false, follow: true },
 }
 

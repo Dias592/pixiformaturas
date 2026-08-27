@@ -9,7 +9,7 @@ export default function RedirectPage() {
     <html>
       <head>
         <meta httpEquiv="refresh" content="0; url=/empresas-de-formatura-ensino-medio/" />
-        <link rel="canonical" href="https://pixiformaturas.com.br/empresas-de-formatura-ensino-medio/" />
+        <link rel="canonical" href="https://www.pixiformaturas.com.br/empresas-de-formatura-ensino-medio/" />
         <script
           dangerouslySetInnerHTML={{
             __html: `window.location.replace("/empresas-de-formatura-ensino-medio/")`,

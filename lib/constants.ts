@@ -4,7 +4,7 @@ export const BUSINESS = {
   headline: 'Sua turma merece Fotos que Emocionam para sempre',
   description:
     'Especialistas em fotografia de formatura escolar e universitária em São Paulo desde 2015. Cobertura completa para 9º ano, 3º ano do Ensino Médio, colação de grau universitária, fotos de turma, ensaio externo e álbum digital em 30 dias. Atendemos todas as zonas da cidade.',
-  url: 'https://pixiformaturas.com.br',
+  url: 'https://www.pixiformaturas.com.br',
   whatsapp: '5511998964797',
   whatsappMsg:
     'Olá! Vim pelo site e gostaria de um orçamento para fotografia de formatura.',

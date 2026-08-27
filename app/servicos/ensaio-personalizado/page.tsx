@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Ensaio Personalizado de Formatura em SP',
   description:
     'Ensaio fotográfico personalizado para a turma, com conceito e locação definidos junto à comissão de formatura, criando um registro único e autêntico.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/servicos/ensaio-personalizado/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/ensaio-personalizado/' },
 }
 
 export default function Page() {

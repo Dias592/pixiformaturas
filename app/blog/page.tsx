@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Blog Fotografia de Formatura SP',
   description:
     'Dicas e guias sobre fotografia de formatura escolar em SP: orçamento, escolha de fotógrafo, ensaios, álbum digital e cobertura por região.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/blog/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/blog/' },
 }
 
 export default function BlogPage() {

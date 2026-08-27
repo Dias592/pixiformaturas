@@ -6,7 +6,7 @@ export async function GET() {
   <head>
     <meta charset="utf-8" />
     <meta httpEquiv="refresh" content="0; url=/sitemap.xml" />
-    <link rel="canonical" href="https://pixiformaturas.com.br/sitemap.xml" />
+    <link rel="canonical" href="https://www.pixiformaturas.com.br/sitemap.xml" />
     <meta name="robots" content="noindex, follow" />
     <script>window.location.replace("/sitemap.xml")</script>
   </head>

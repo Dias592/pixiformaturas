@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Álbum Digital de Formatura SP',
   description:
     'Galeria online em alta resolução, entregue em até 30 dias, com link de download e compartilhamento para toda a turma.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/servicos/album-digital/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/album-digital/' },
 }
 
 export default function Page() {

@@ -5,7 +5,7 @@ import { BUSINESS } from '@/lib/constants'
 export const metadata: Metadata = {
   title: 'Aviso de Direitos Autorais',
   description: 'Aviso de Direitos Autorais da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/aviso-direitos-autorais/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/aviso-direitos-autorais/' },
   robots: { index: false, follow: true },
 }
 
