@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Fotos de Turma de Formatura em SP',
   description:
     'Ensaio fotográfico criativo que captura a união da turma. Ideal para 9º ano e 3º ano do Ensino Médio. Locações internas e externas em SP.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/servicos/fotos-de-turma/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/fotos-de-turma/' },
 }
 
 export default function Page() {

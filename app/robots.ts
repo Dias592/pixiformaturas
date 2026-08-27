@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next'
 
-const SITE_URL = 'https://pixiformaturas.com.br'
+const SITE_URL = 'https://www.pixiformaturas.com.br'
 
 export default function robots(): MetadataRoute.Robots {
   const aiBots = [

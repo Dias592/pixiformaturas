@@ -9,7 +9,7 @@ export default function RedirectPage() {
     <html>
       <head>
         <meta httpEquiv="refresh" content="0; url=/servicos/photo-day/" />
-        <link rel="canonical" href="https://pixiformaturas.com.br/servicos/photo-day/" />
+        <link rel="canonical" href="https://www.pixiformaturas.com.br/servicos/photo-day/" />
         <script
           dangerouslySetInnerHTML={{
             __html: `window.location.replace("/servicos/photo-day/")`,

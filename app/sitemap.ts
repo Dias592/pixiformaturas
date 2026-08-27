@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next'
 import { SERVICE_PAGES } from '@/lib/servicePages'
 import { BLOG_POSTS } from '@/lib/blogPosts'
 
-const SITE_URL = 'https://pixiformaturas.com.br'
+const SITE_URL = 'https://www.pixiformaturas.com.br'
 
 // Date the main content was last meaningfully updated
 const SITE_LAUNCH = new Date('2025-06-01')

@@ -20,7 +20,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://pixiformaturas.com.br'),
+  metadataBase: new URL('https://www.pixiformaturas.com.br'),
   title: {
     default: 'Fotógrafo de Formatura Escolar e Universitária em SP',
     template: '%s | Pixi Formaturas',
@@ -45,15 +45,15 @@ export const metadata: Metadata = {
     'formatura universitária fotógrafo SP',
     'Pixi Formaturas',
   ],
-  authors: [{ name: 'Pixi Formaturas', url: 'https://pixiformaturas.com.br' }],
+  authors: [{ name: 'Pixi Formaturas', url: 'https://www.pixiformaturas.com.br' }],
   creator: 'Pixi Formaturas',
   publisher: 'Pixi Formaturas',
   formatDetection: { email: false, address: false, telephone: false },
-  alternates: { canonical: 'https://pixiformaturas.com.br' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br' },
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
-    url: 'https://pixiformaturas.com.br',
+    url: 'https://www.pixiformaturas.com.br',
     siteName: 'Pixi Formaturas',
     title: 'Fotógrafo de Formatura Escolar em São Paulo | Pixi Formaturas',
     description:

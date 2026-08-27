@@ -5,7 +5,7 @@ import { BUSINESS } from '@/lib/constants'
 export const metadata: Metadata = {
   title: 'Termos de Uso',
   description: 'Termos de Uso do site da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
-  alternates: { canonical: 'https://pixiformaturas.com.br/termos-de-uso/' },
+  alternates: { canonical: 'https://www.pixiformaturas.com.br/termos-de-uso/' },
   robots: { index: false, follow: true },
 }
 
