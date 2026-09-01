@@ -12,13 +12,14 @@ import CTASection from '@/components/CTASection'
 import SchemaOrg from '@/components/SchemaOrg'
 import { HOME_FAQ } from '@/lib/constants'
 import { howToSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Empresa de Formatura em SP | Pixi Formaturas' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Empresa de Formatura em SP | Pixi Formaturas',
   description:
     'A Pixi Formaturas é uma empresa de formatura em São Paulo, ABC e Grande SP desde 2015. Fotografia escolar e universitária, colação de grau, ensaio e álbum digital em 30 dias.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/' },
-}
+  path: '/',
+})
 
 export default function Home() {
   return (

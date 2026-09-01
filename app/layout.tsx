@@ -50,29 +50,6 @@ export const metadata: Metadata = {
   publisher: 'Pixi Formaturas',
   formatDetection: { email: false, address: false, telephone: false },
   alternates: { canonical: 'https://www.pixiformaturas.com.br' },
-  openGraph: {
-    type: 'website',
-    locale: 'pt_BR',
-    url: 'https://www.pixiformaturas.com.br',
-    siteName: 'Pixi Formaturas',
-    title: 'Fotógrafo de Formatura Escolar em São Paulo | Pixi Formaturas',
-    description:
-      'Especialistas em fotografia de formatura escolar em SP desde 2015. Fotos de turma, colação, baile de gala. Álbum digital em 30 dias.',
-    images: [
-      {
-        url: '/images/og-pixi-formaturas.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'Pixi Formaturas - Fotografia de Formatura Escolar em São Paulo',
-      },
-    ],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Fotógrafo de Formatura Escolar em SP | Pixi Formaturas',
-    description: 'Especialistas em fotografia de formatura escolar em São Paulo desde 2015.',
-    images: ['/images/og-pixi-formaturas.jpg'],
-  },
   robots: {
     index: true,
     follow: true,

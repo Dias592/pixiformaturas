@@ -2,13 +2,14 @@ import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import PortfolioGalleryFiltered from '@/components/PortfolioGalleryFiltered'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Portfólio Fotografia de Formatura SP | Pixi' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Portfólio Fotografia de Formatura SP | Pixi',
   description:
     'Portfólio da Pixi Formaturas: fotos de formatura escolar e universitária em SP. Fotos de turma, colações de grau, bailes de gala e ensaios.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/portfolio/' },
-}
+  path: '/portfolio/',
+})
 
 export default function PortfolioPage() {
   return (

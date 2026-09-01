@@ -5,15 +5,16 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
 import SchemaOrg from '@/components/SchemaOrg'
-import { BUSINESS, whatsappLink } from '@/lib/constants'
+import { whatsappLink } from '@/lib/constants'
 import { faqSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Fotografia de Formatura no ABC Paulista' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Fotografia de Formatura no ABC Paulista',
   description:
     'Fotógrafo de formatura no ABC: Santo André, São Bernardo, São Caetano, Diadema, Mauá, Ribeirão Pires e Rio Grande da Serra. Orçamento grátis.',
-  alternates: { canonical: `${BUSINESS.url}/formatura-abc/` },
-}
+  path: '/formatura-abc/',
+})
 
 const FAQ_ITEMS = [
   {

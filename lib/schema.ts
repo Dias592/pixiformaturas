@@ -1,4 +1,41 @@
-import { BUSINESS } from './constants'
+import { BUSINESS, TESTIMONIALS } from './constants'
+
+export const personIvan = {
+  '@type': 'Person',
+  '@id': `${BUSINESS.url}/#person-ivan`,
+  name: 'Ivan Dias',
+  givenName: 'Ivan',
+  familyName: 'Dias',
+  jobTitle: 'Fotógrafo de Formatura e Coordenador Editorial',
+  description:
+    'Fotógrafo profissional desde 2011 com experiência em mais de 500 turmas de formatura e 700 casamentos em São Paulo. Especialista em cobertura fotográfica de eventos, colação de grau e formatura escolar e universitária.',
+  worksFor: { '@id': `${BUSINESS.url}/#business` },
+  url: `${BUSINESS.url}/sobre/`,
+  image: `${BUSINESS.url}/images/ivan-dias-autor.jpg`,
+  sameAs: [
+    'https://www.instagram.com/pixiformaturas',
+    'https://www.instagram.com/ivandiasfotografo',
+    'https://ivandiasfotografo.com.br',
+  ],
+  knowsAbout: [
+    'Fotografia de Formatura',
+    'Fotografia Escolar',
+    'Colação de Grau',
+    'Fotografia de Casamento',
+    'Cobertura de Eventos',
+    'Baile de Gala',
+    'Reconhecimento Facial em Fotografia',
+  ],
+  hasCredential: [
+    {
+      '@type': 'EducationalOccupationalCredential',
+      credentialCategory: 'Experiência Profissional',
+      name: 'Mais de 14 anos de experiência em fotografia de eventos',
+    },
+  ],
+  knowsLanguage: ['pt-BR'],
+  nationality: 'BR',
+}
 
 export const globalSchema = {
   '@context': 'https://schema.org',
@@ -73,6 +110,19 @@ export const globalSchema = {
         'Álbum digital de formatura',
         'Reconhecimento facial em fotos',
       ],
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5.0',
+        reviewCount: String(TESTIMONIALS.length),
+        bestRating: '5',
+        worstRating: '1',
+      },
+      review: TESTIMONIALS.map((t) => ({
+        '@type': 'Review',
+        reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
+        author: { '@type': 'Person', name: t.name.split('·')[0].trim() },
+        reviewBody: t.text,
+      })),
     },
     {
       '@type': 'Organization',
@@ -98,42 +148,7 @@ export const globalSchema = {
         availableLanguage: 'Portuguese',
       },
     },
-    {
-      '@type': 'Person',
-      '@id': `${BUSINESS.url}/#person-ivan`,
-      name: 'Ivan Dias',
-      givenName: 'Ivan',
-      familyName: 'Dias',
-      jobTitle: 'Fotógrafo de Formatura e Coordenador Editorial',
-      description:
-        'Fotógrafo profissional desde 2011 com experiência em mais de 500 turmas de formatura e 700 casamentos em São Paulo. Especialista em cobertura fotográfica de eventos, colação de grau e formatura escolar e universitária.',
-      worksFor: { '@id': `${BUSINESS.url}/#business` },
-      url: `${BUSINESS.url}/sobre/`,
-      image: `${BUSINESS.url}/images/ivan-dias-autor.jpg`,
-      sameAs: [
-        'https://www.instagram.com/pixiformaturas',
-        'https://www.instagram.com/ivandiasfotografo',
-        'https://ivandiasfotografo.com.br',
-      ],
-      knowsAbout: [
-        'Fotografia de Formatura',
-        'Fotografia Escolar',
-        'Colação de Grau',
-        'Fotografia de Casamento',
-        'Cobertura de Eventos',
-        'Baile de Gala',
-        'Reconhecimento Facial em Fotografia',
-      ],
-      hasCredential: [
-        {
-          '@type': 'EducationalOccupationalCredential',
-          credentialCategory: 'Experiência Profissional',
-          name: 'Mais de 14 anos de experiência em fotografia de eventos',
-        },
-      ],
-      knowsLanguage: ['pt-BR'],
-      nationality: 'BR',
-    },
+    personIvan,
     {
       '@type': 'WebSite',
       '@id': `${BUSINESS.url}/#website`,
@@ -156,7 +171,11 @@ export function serviceSchema(slug: string, name: string, description: string) {
     '@id': `${BUSINESS.url}/servicos/${slug}/#service`,
     name,
     description,
-    provider: { '@id': `${BUSINESS.url}/#business` },
+    provider: {
+      '@type': 'LocalBusiness',
+      '@id': `${BUSINESS.url}/#business`,
+      name: BUSINESS.name,
+    },
     areaServed: { '@type': 'City', name: 'São Paulo' },
     serviceType: 'Fotografia de Formatura Escolar',
   }
@@ -254,9 +273,11 @@ export function articleSchema(opts: {
     '@type': 'Article',
     headline: opts.headline,
     image: `${BUSINESS.url}${BUSINESS.ogImage}`,
-    author: { '@id': `${BUSINESS.url}/#person-ivan` },
+    author: personIvan,
     publisher: {
+      '@type': 'Organization',
       '@id': `${BUSINESS.url}/#business`,
+      name: BUSINESS.name,
       logo: { '@type': 'ImageObject', url: `${BUSINESS.url}${BUSINESS.logoUrl}` },
     },
     datePublished: opts.datePublished,
