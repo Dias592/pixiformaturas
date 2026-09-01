@@ -3,13 +3,14 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import SchemaOrg from '@/components/SchemaOrg'
 import ContactForm from '@/components/ContactForm'
 import { BUSINESS, whatsappLink } from '@/lib/constants'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: 'Orçamento Fotografia Formatura SP',
   description:
     'Solicite orçamento de fotografia de formatura escolar com a Pixi Formaturas em SP. Atendemos escolas públicas e particulares. WhatsApp rápido.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/contato/' },
-}
+  path: '/contato/',
+})
 
 const contactSchema = {
   '@context': 'https://schema.org',

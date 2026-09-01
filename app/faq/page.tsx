@@ -3,13 +3,14 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import SchemaOrg from '@/components/SchemaOrg'
 import { faqSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: 'FAQ Fotografia de Formatura SP',
   description:
     'Tire todas as dúvidas sobre fotografia de formatura escolar com a Pixi Formaturas: preços, prazos, o que está incluso, como funciona e muito mais.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/faq/' },
-}
+  path: '/faq/',
+})
 
 const FAQ_CATEGORIES = [
   {

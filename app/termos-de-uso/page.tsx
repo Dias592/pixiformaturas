@@ -1,11 +1,15 @@
 import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { BUSINESS } from '@/lib/constants'
+import { pageMetadata } from '@/lib/metadata'
 
 export const metadata: Metadata = {
-  title: 'Termos de Uso',
-  description: 'Termos de Uso do site da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/termos-de-uso/' },
+  ...pageMetadata({
+    title: 'Termos de Uso',
+    description:
+      'Termos de Uso do site da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
+    path: '/termos-de-uso/',
+  }),
   robots: { index: false, follow: true },
 }
 

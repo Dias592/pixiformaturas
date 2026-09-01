@@ -3,13 +3,14 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import HeroPhoto from '@/components/HeroPhoto'
 import { whatsappLink } from '@/lib/constants'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Sobre a Pixi Formaturas | Fotografia de Formatura SP' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Sobre a Pixi Formaturas | Fotografia de Formatura SP',
   description:
     'Conheça a Pixi Formaturas: fotografia de formatura escolar em SP desde 2015. Registramos o momento mais importante da vida escolar da turma.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/sobre/' },
-}
+  path: '/sobre/',
+})
 
 const VALORES = [
   { title: 'Especialização', text: 'Só trabalhamos com formaturas escolares.' },

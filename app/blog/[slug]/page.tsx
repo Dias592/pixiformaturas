@@ -10,6 +10,7 @@ import SchemaOrg from '@/components/SchemaOrg'
 import { BLOG_POSTS, getPostBySlug, getRelatedPosts } from '@/lib/blogPosts'
 import { articleSchema } from '@/lib/schema'
 import { BUSINESS } from '@/lib/constants'
+import { pageMetadata } from '@/lib/metadata'
 
 export function generateStaticParams() {
   return BLOG_POSTS.map((post) => ({ slug: post.slug }))
@@ -19,11 +20,11 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   const post = getPostBySlug(params.slug)
   if (!post) return {}
 
-  return {
-    title: { absolute: post.metaTitle },
+  return pageMetadata({
+    title: post.metaTitle,
     description: post.metaDescription,
-    alternates: { canonical: `${BUSINESS.url}/blog/${post.slug}/` },
-  }
+    path: `/blog/${post.slug}/`,
+  })
 }
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {

@@ -5,15 +5,16 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
 import SchemaOrg from '@/components/SchemaOrg'
-import { BUSINESS, whatsappLink } from '@/lib/constants'
+import { whatsappLink } from '@/lib/constants'
 import { faqSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Empresa de Formatura em SP | Pixi Formaturas' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Empresa de Formatura em SP | Pixi Formaturas',
   description:
     'A Pixi Formaturas é empresa de formatura em São Paulo, ABC e Grande SP desde 2015. Fotografia escolar e universitária especializada, álbum digital em 30 dias e parcelamento em 12x.',
-  alternates: { canonical: `${BUSINESS.url}/empresa-de-formatura-sp/` },
-}
+  path: '/empresa-de-formatura-sp/',
+})
 
 const FAQ_ITEMS = [
   {

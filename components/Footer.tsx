@@ -79,6 +79,11 @@ export default function Footer() {
                   Termos de Uso
                 </Link>
               </li>
+              <li>
+                <Link href="/aviso-direitos-autorais/" className="hover:text-white hover:underline">
+                  Aviso de Direitos Autorais
+                </Link>
+              </li>
             </ul>
           </div>
         </div>

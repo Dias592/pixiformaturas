@@ -5,15 +5,16 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
 import SchemaOrg from '@/components/SchemaOrg'
-import { BUSINESS, whatsappLink } from '@/lib/constants'
+import { whatsappLink } from '@/lib/constants'
 import { faqSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Fotografia de Formatura na Grande São Paulo' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Fotografia de Formatura na Grande São Paulo',
   description:
     'Fotógrafo de formatura na Grande SP: Guarulhos, Osasco, Mogi das Cruzes, Barueri, Cotia, Taboão da Serra e mais. Orçamento grátis para escolas.',
-  alternates: { canonical: `${BUSINESS.url}/formatura-grande-sp/` },
-}
+  path: '/formatura-grande-sp/',
+})
 
 const FAQ_ITEMS = [
   {

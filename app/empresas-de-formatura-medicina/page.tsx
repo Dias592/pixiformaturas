@@ -5,15 +5,16 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
 import SchemaOrg from '@/components/SchemaOrg'
-import { BUSINESS, whatsappLink } from '@/lib/constants'
+import { whatsappLink } from '@/lib/constants'
 import { faqSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Empresas de Formatura Medicina SP | Pixi' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Empresas de Formatura Medicina SP | Pixi',
   description:
     'A Pixi Formaturas é especialista em fotografia de formatura de Medicina em São Paulo. Cobertura de colação, juramento de Hipócrates e beca branca desde 2015.',
-  alternates: { canonical: `${BUSINESS.url}/empresas-de-formatura-medicina/` },
-}
+  path: '/empresas-de-formatura-medicina/',
+})
 
 const FAQ_ITEMS = [
   {

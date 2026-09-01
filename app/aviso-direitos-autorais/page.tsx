@@ -1,11 +1,15 @@
 import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { BUSINESS } from '@/lib/constants'
+import { pageMetadata } from '@/lib/metadata'
 
 export const metadata: Metadata = {
-  title: 'Aviso de Direitos Autorais',
-  description: 'Aviso de Direitos Autorais da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/aviso-direitos-autorais/' },
+  ...pageMetadata({
+    title: 'Aviso de Direitos Autorais',
+    description:
+      'Aviso de Direitos Autorais da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
+    path: '/aviso-direitos-autorais/',
+  }),
   robots: { index: false, follow: true },
 }
 

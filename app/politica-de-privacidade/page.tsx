@@ -1,11 +1,15 @@
 import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { BUSINESS } from '@/lib/constants'
+import { pageMetadata } from '@/lib/metadata'
 
 export const metadata: Metadata = {
-  title: 'Política de Privacidade',
-  description: 'Política de Privacidade da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/politica-de-privacidade/' },
+  ...pageMetadata({
+    title: 'Política de Privacidade',
+    description:
+      'Política de Privacidade da Pixi Formaturas - fotografia de formatura escolar em São Paulo.',
+    path: '/politica-de-privacidade/',
+  }),
   robots: { index: false, follow: true },
 }
 

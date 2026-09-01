@@ -5,15 +5,16 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
 import SchemaOrg from '@/components/SchemaOrg'
-import { BUSINESS, whatsappLink } from '@/lib/constants'
+import { whatsappLink } from '@/lib/constants'
 import { faqSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Fotografia de Formatura em São Paulo' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Fotografia de Formatura em São Paulo',
   description:
     'Fotógrafo de formatura escolar e universitária em São Paulo. Atendemos todas as zonas: Norte, Sul, Leste, Oeste e Centro. Orçamento grátis.',
-  alternates: { canonical: `${BUSINESS.url}/formatura-sao-paulo/` },
-}
+  path: '/formatura-sao-paulo/',
+})
 
 const FAQ_ITEMS = [
   {

@@ -5,17 +5,16 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
 import SchemaOrg from '@/components/SchemaOrg'
-import { BUSINESS, whatsappLink } from '@/lib/constants'
+import { whatsappLink } from '@/lib/constants'
 import { faqSchema } from '@/lib/schema'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Empresas de Formatura Ensino Médio SP | Pixi' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Empresas de Formatura Ensino Médio SP | Pixi',
   description:
     'A Pixi Formaturas é especialista em fotografia de formatura do ensino médio em São Paulo, ABC e Grande SP. Cobertura completa para terceirão, 9º ano e colação de grau.',
-  alternates: {
-    canonical: `${BUSINESS.url}/empresas-de-formatura-ensino-medio/`,
-  },
-}
+  path: '/empresas-de-formatura-ensino-medio/',
+})
 
 const FAQ_ITEMS = [
   {

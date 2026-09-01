@@ -3,13 +3,14 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import BlogGalleryFiltered from '@/components/BlogGalleryFiltered'
 import CTASection from '@/components/CTASection'
 import { BLOG_POSTS } from '@/lib/blogPosts'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: 'Blog Fotografia de Formatura SP',
   description:
     'Dicas e guias sobre fotografia de formatura escolar em SP: orçamento, escolha de fotógrafo, ensaios, álbum digital e cobertura por região.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/blog/' },
-}
+  path: '/blog/',
+})
 
 export default function BlogPage() {
   return (

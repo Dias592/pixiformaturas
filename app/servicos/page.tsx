@@ -4,13 +4,14 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import PlaceholderImage from '@/components/PlaceholderImage'
 import { SERVICES, whatsappLink } from '@/lib/constants'
+import { pageMetadata } from '@/lib/metadata'
 
-export const metadata: Metadata = {
-  title: { absolute: 'Serviços Fotografia de Formatura SP | Pixi Formaturas' },
+export const metadata: Metadata = pageMetadata({
+  title: 'Serviços Fotografia de Formatura SP | Pixi Formaturas',
   description:
     'Serviços da Pixi Formaturas: fotos de turma, colação de grau, colação festiva, ensaio externo, baile de gala e álbum digital. Orçamento grátis.',
-  alternates: { canonical: 'https://www.pixiformaturas.com.br/servicos/' },
-}
+  path: '/servicos/',
+})
 
 export default function ServicosPage() {
   return (
