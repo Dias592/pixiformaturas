@@ -58,6 +58,10 @@ export const globalSchema = {
       foundingDate: String(BUSINESS.foundingYear),
       currenciesAccepted: 'BRL',
       paymentAccepted: 'Pix, Cartão de Crédito, Boleto',
+      // address: intencionalmente incompleto (só addressLocality + addressRegion + addressCountry).
+      // A Pixi opera como home office e não expõe endereço residencial em schema público.
+      // Google Rich Results reporta postalCode/streetAddress como recomendados (não obrigatórios) —
+      // decisão consciente de privacidade em vez de conformidade total.
       address: {
         '@type': 'PostalAddress',
         addressLocality: 'São Paulo',
@@ -262,6 +266,11 @@ export function breadcrumbSchema(items: { name: string; url: string }[]) {
   }
 }
 
+function toIsoBRT(dateStr: string) {
+  if (dateStr.includes('T')) return dateStr // já está completo
+  return `${dateStr}T09:00:00-03:00`
+}
+
 export function articleSchema(opts: {
   headline: string
   datePublished: string
@@ -273,15 +282,19 @@ export function articleSchema(opts: {
     '@type': 'Article',
     headline: opts.headline,
     image: `${BUSINESS.url}${BUSINESS.ogImage}`,
-    author: personIvan,
+    author: {
+      '@type': 'Person',
+      '@id': personIvan['@id'],
+      name: personIvan.name,
+    },
     publisher: {
       '@type': 'Organization',
       '@id': `${BUSINESS.url}/#business`,
       name: BUSINESS.name,
       logo: { '@type': 'ImageObject', url: `${BUSINESS.url}${BUSINESS.logoUrl}` },
     },
-    datePublished: opts.datePublished,
-    dateModified: opts.dateModified,
+    datePublished: toIsoBRT(opts.datePublished),
+    dateModified: toIsoBRT(opts.dateModified),
     mainEntityOfPage: { '@type': 'WebPage', '@id': opts.url },
   }
 }
