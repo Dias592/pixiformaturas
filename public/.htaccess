@@ -1,0 +1,5 @@
+# Redireciona o domínio sem www para o www (canônico do site) com 301 permanente.
+# Preserva caminho e query string. Só dispara quando o Host é exatamente o domínio sem www.
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^pixiformaturas\.com\.br$ [NC]
+RewriteRule ^(.*)$ https://www.pixiformaturas.com.br/$1 [R=301,L]
