@@ -4,6 +4,7 @@ import BlogPhoto from '@/components/BlogPhoto'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTASection from '@/components/CTASection'
 import FAQSection from '@/components/FAQSection'
+import GuiasComissaoSection from '@/components/GuiasComissaoSection'
 import SchemaOrg from '@/components/SchemaOrg'
 import { whatsappLink } from '@/lib/constants'
 import { faqSchema } from '@/lib/schema'
@@ -415,6 +416,8 @@ export default function EmpresasFormaturasEnsinoMedioPage() {
           </div>
         </div>
       </section>
+
+      <GuiasComissaoSection includeEnsinoMedio />
 
       <FAQSection items={FAQ_ITEMS} />
 
