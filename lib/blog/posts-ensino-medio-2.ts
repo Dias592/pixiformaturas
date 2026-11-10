@@ -9,7 +9,7 @@ export const POSTS_ENSINO_MEDIO_2: BlogPost[] = [
     "category": "Empresa de Formatura",
     "date": "2026-02-19",
     "excerpt": "Guia para comissões do ABC Paulista que precisam escolher uma empresa de formatura de Ensino Médio: cidades atendidas, locações típicas, logística, perguntas antes do contrato e passo a passo.",
-    "coverAlt": "Turma de Ensino Médio do ABC Paulista posando para foto de formatura em um salão de eventos",
+    "coverAlt": "Turma de formandos reunida em foto de grupo em um grande salão de eventos, durante o baile de formatura",
     "relatedService": "fotos-de-turma",
     "content": [
       {
@@ -206,7 +206,7 @@ export const POSTS_ENSINO_MEDIO_2: BlogPost[] = [
     "category": "Empresa de Formatura",
     "date": "2026-02-20",
     "excerpt": "Como escolher empresa de formatura de Ensino Médio na Grande SP: logística entre Guarulhos, Osasco, Alphaville, Mogi das Cruzes, Suzano, Cotia, Taboão da Serra e Carapicuíba, locações e contratação.",
-    "coverAlt": "Formandos do Ensino Médio da Grande São Paulo reunidos para a foto oficial da turma",
+    "coverAlt": "Formandos de beca lançando os capelos para o alto na escadaria de um prédio histórico",
     "relatedService": "fotos-de-turma",
     "content": [
       {
@@ -399,7 +399,7 @@ export const POSTS_ENSINO_MEDIO_2: BlogPost[] = [
     "category": "Empresa de Formatura",
     "date": "2026-02-21",
     "excerpt": "Entenda o que define o valor de uma empresa de formatura de Ensino Médio em SP: faixas de serviço, fatores de preço, itens cobrados à parte, sinais de alerta e como comparar orçamentos.",
-    "coverAlt": "Comissão de formatura comparando orçamentos de empresas de formatura do Ensino Médio em uma mesa",
+    "coverAlt": "Formanda de beca e capelo com faixa vermelha posando em ensaio fotográfico externo",
     "relatedService": "fotos-de-turma",
     "content": [
       {
@@ -592,7 +592,7 @@ export const POSTS_ENSINO_MEDIO_2: BlogPost[] = [
     "category": "Empresa de Formatura",
     "date": "2026-02-22",
     "excerpt": "Guia completo para organizar a comissão de formatura do Ensino Médio: como formar o grupo, dividir funções, falar com escola e pais, escolher fornecedores, controlar o dinheiro e montar o cronograma.",
-    "coverAlt": "Integrantes da comissão de formatura do Ensino Médio reunidos para planejar o cronograma da formatura",
+    "coverAlt": "Grupo de formandos de beca segurando os capelos na escadaria de um prédio histórico",
     "relatedService": "fotos-de-turma",
     "content": [
       {
@@ -806,7 +806,7 @@ export const POSTS_ENSINO_MEDIO_2: BlogPost[] = [
     "category": "Empresa de Formatura",
     "date": "2026-02-23",
     "excerpt": "Quatro checklists práticos para a comissão de Ensino Médio: o que perguntar ao fotógrafo, o que exigir no contrato, o que conferir no dia da formatura e o que checar ao receber o álbum.",
-    "coverAlt": "Comissão de formatura marcando itens de um checklist de fotografia antes do evento de Ensino Médio",
+    "coverAlt": "Foto oficial da turma de formandos de beca com faixas vermelhas, organizados em fileiras na escadaria",
     "relatedService": "fotos-de-turma",
     "content": [
       {

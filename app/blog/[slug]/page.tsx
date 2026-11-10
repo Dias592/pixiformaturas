@@ -63,7 +63,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
           </p>
 
           <div className="mt-8 overflow-hidden rounded-lg">
-            <BlogPhoto seed={`${post.slug}-cover`} alt={post.coverAlt} priority />
+            <BlogPhoto seed={`${post.slug}-cover`} rank={post.coverRank} alt={post.coverAlt} priority />
           </div>
 
           <div className="mt-8">

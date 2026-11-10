@@ -18,7 +18,7 @@ import type { BlogPost, ContentBlock } from './blog/types'
 
 export type { BlogPost, ContentBlock }
 
-export const BLOG_POSTS: BlogPost[] = [
+const ALL_POSTS: BlogPost[] = [
   ...LOCAL_POSTS,
   ...INFO_POSTS,
   ...SEO_POSTS_1,
@@ -35,7 +35,20 @@ export const BLOG_POSTS: BlogPost[] = [
   ...EMPRESA_POSTS_2,
   ...POSTS_ENSINO_MEDIO_1,
   ...POSTS_ENSINO_MEDIO_2,
-].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+]
+
+// Posição fixa de cada artigo, por ordem de publicação (mais antigo primeiro; empate de data → slug).
+// Define qual foto do pool ilustra o artigo (ver getPostImage), de forma idêntica em todo build e
+// também no navegador. Artigos novos têm data mais recente e entram no fim, sem deslocar os existentes.
+const COVER_RANK = new Map(
+  [...ALL_POSTS]
+    .sort((a, b) => a.date.localeCompare(b.date) || a.slug.localeCompare(b.slug))
+    .map((p, i) => [p.slug, i] as const),
+)
+
+export const BLOG_POSTS: BlogPost[] = ALL_POSTS.map((p) => ({ ...p, coverRank: COVER_RANK.get(p.slug) })).sort(
+  (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
+)
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
   return BLOG_POSTS.find((p) => p.slug === slug)
