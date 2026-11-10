@@ -9,6 +9,7 @@ import TestimonialsSection from '@/components/TestimonialsSection'
 import FAQSection from '@/components/FAQSection'
 import CoberturaMapa from '@/components/CoberturaMapa'
 import CTASection from '@/components/CTASection'
+import GuiasComissaoSection from '@/components/GuiasComissaoSection'
 import SchemaOrg from '@/components/SchemaOrg'
 import { HOME_FAQ } from '@/lib/constants'
 import { howToSchema } from '@/lib/schema'
@@ -75,6 +76,8 @@ export default function Home() {
       <PortfolioGallery />
       <HowItWorksSection />
       <TestimonialsSection />
+      <GuiasComissaoSection includeEnsinoMedio />
+
       <FAQSection
         items={HOME_FAQ}
         eyebrow="Tire suas Dúvidas"
