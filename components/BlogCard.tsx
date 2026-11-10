@@ -8,7 +8,7 @@ export default function BlogCard({ post }: { post: BlogPost }) {
       href={`/blog/${post.slug}/`}
       className="flex flex-col overflow-hidden rounded-lg border border-borderC bg-bgCard transition-colors hover:border-gold"
     >
-      <BlogPhoto seed={post.slug} alt={post.title} />
+      <BlogPhoto seed={post.slug} rank={post.coverRank} alt={post.title} />
       <div className="flex flex-1 flex-col p-5">
         <p className="eyebrow mb-2 text-xs">{post.category}</p>
         <h3 className="mb-2 font-sans text-lg font-bold text-white">{post.title}</h3>

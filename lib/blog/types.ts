@@ -23,4 +23,6 @@ export interface BlogPost {
   content: ContentBlock[]
   faq: FaqItem[]
   relatedService: string
+  /** Posição fixa do artigo, atribuída em lib/blogPosts.ts (não preencher nos arquivos de conteúdo). */
+  coverRank?: number
 }

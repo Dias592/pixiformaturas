@@ -5,10 +5,12 @@ interface BlogPhotoProps {
   alt: string
   className?: string
   priority?: boolean
+  /** Posição fixa do artigo (BlogPost.coverRank). Sem ela, a foto vem de um hash fixo do seed. */
+  rank?: number
 }
 
-export default function BlogPhoto({ seed, alt, className = '', priority = false }: BlogPhotoProps) {
-  const image = getPostImage(seed)
+export default function BlogPhoto({ seed, alt, className = '', priority = false, rank }: BlogPhotoProps) {
+  const image = getPostImage(seed, rank)
 
   return (
     <img

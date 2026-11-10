@@ -124,21 +124,73 @@ export const BLOG_POOL_IMAGES: GalleryImage[] = [
   FOTOS_DE_TURMA_IMAGES[9],
 ].filter((img) => !isDecorationOnly(img))
 
-const POST_SLUG_INDEX = new Map<string, number>()
+// Escolha DETERMINÍSTICA da foto: o resultado só depende dos argumentos, nunca da ordem em que
+// as páginas são geradas (antes, a ordem de geração variava a cada build e embaralhava as capas).
+function hashSeed(text: string): number {
+  let h = 5381
+  for (let i = 0; i < text.length; i++) h = ((h << 5) + h + text.charCodeAt(i)) >>> 0
+  return h
+}
 
-function getSlugIndex(slug: string): number {
-  if (!POST_SLUG_INDEX.has(slug)) {
-    POST_SLUG_INDEX.set(slug, POST_SLUG_INDEX.size)
-  }
-  return POST_SLUG_INDEX.get(slug)!
+// Seeds de página (ex.: "formatura-abc-hero", "formatura-abc-1", "formatura-abc-2") usam um hash base
+// do prefixo + deslocamento fixo, para as 3 fotos da mesma página serem sempre diferentes entre si.
+const PAGE_SEED_OFFSETS: Record<string, number> = { hero: 0, '1': 1, '2': 2 }
+
+function seedIndex(seed: string): number {
+  const m = /^(.*)-(hero|1|2)$/.exec(seed)
+  if (m) return hashSeed(m[1]) + PAGE_SEED_OFFSETS[m[2]]
+  return hashSeed(seed)
 }
 
 const COVER_OFFSET = 31
 
-export function getPostImage(seed: string): GalleryImage {
+// Fotos exclusivas por artigo (slug -> foto). REGRA: toda foto aqui é usada por UM único
+// artigo e nunca faz parte do pool rotativo acima. Para artigos novos, escolha uma foto ainda
+// não usada (fotos-de-turma-*.jpg e colacao-de-grau-*.jpg não estão no pool) e escreva um alt
+// que descreva o que a foto realmente mostra. O código abaixo falha o build se houver repetição.
+export const POST_IMAGE_OVERRIDES: Record<string, GalleryImage> = {
+  'empresa-formatura-ensino-medio-abc-paulista': {
+    ...FOTOS_DE_TURMA_IMAGES[0],
+    alt: 'Turma de formandos reunida em foto de grupo em um grande salão de eventos, durante o baile de formatura',
+  },
+  'empresa-formatura-ensino-medio-grande-sp': {
+    ...FOTOS_DE_TURMA_IMAGES[3],
+    alt: 'Formandos de beca lançando os capelos para o alto na escadaria de um prédio histórico',
+  },
+  'quanto-custa-empresa-formatura-ensino-medio-sp': {
+    ...COLACAO_DE_GRAU_IMAGES[1],
+    alt: 'Formanda de beca e capelo com faixa vermelha posando em ensaio fotográfico externo',
+  },
+  'comissao-formatura-ensino-medio-guia-organizacao': {
+    ...FOTOS_DE_TURMA_IMAGES[4],
+    alt: 'Grupo de formandos de beca segurando os capelos na escadaria de um prédio histórico',
+  },
+  'checklist-formatura-ensino-medio-fotografia': {
+    ...FOTOS_DE_TURMA_IMAGES[2],
+    alt: 'Foto oficial da turma de formandos de beca com faixas vermelhas, organizados em fileiras na escadaria',
+  },
+}
+
+// Garantias em tempo de build: sem foto repetida entre artigos e sem colisão com o pool rotativo.
+{
+  const srcs = Object.values(POST_IMAGE_OVERRIDES).map((img) => img.src)
+  const duplicadas = srcs.filter((s, i) => srcs.indexOf(s) !== i)
+  const noPool = srcs.filter((s) => BLOG_POOL_IMAGES.some((img) => img.src === s))
+  if (duplicadas.length > 0) throw new Error(`POST_IMAGE_OVERRIDES: foto repetida entre artigos: ${duplicadas.join(', ')}`)
+  if (noPool.length > 0) throw new Error(`POST_IMAGE_OVERRIDES: foto já está no pool rotativo: ${noPool.join(', ')}`)
+}
+
+/**
+ * @param seed  "<slug>" (card), "<slug>-cover" (capa do artigo) ou um seed de página.
+ * @param rank  posição fixa do artigo (BlogPost.coverRank), calculada em lib/blogPosts.ts.
+ *              Distribui as fotos do pool de forma uniforme entre os artigos.
+ */
+export function getPostImage(seed: string, rank?: number): GalleryImage {
   const isCover = seed.endsWith('-cover')
   const slug = isCover ? seed.slice(0, -'-cover'.length) : seed
-  const index = getSlugIndex(slug)
+  const override = POST_IMAGE_OVERRIDES[slug]
+  if (override) return override
+  const index = rank !== undefined ? rank : seedIndex(seed)
   const offset = isCover ? COVER_OFFSET : 0
   return BLOG_POOL_IMAGES[(index + offset) % BLOG_POOL_IMAGES.length]
 }
