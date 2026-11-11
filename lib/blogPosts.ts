@@ -14,6 +14,7 @@ import { EMPRESA_POSTS_1 } from './blog/posts-empresa-formatura-1'
 import { EMPRESA_POSTS_2 } from './blog/posts-empresa-formatura-2'
 import { POSTS_ENSINO_MEDIO_1 } from './blog/posts-ensino-medio-1'
 import { POSTS_ENSINO_MEDIO_2 } from './blog/posts-ensino-medio-2'
+import { POSTS_ENSINO_MEDIO_3 } from './blog/posts-ensino-medio-3'
 import type { BlogPost, ContentBlock } from './blog/types'
 
 export type { BlogPost, ContentBlock }
@@ -35,6 +36,7 @@ const ALL_POSTS: BlogPost[] = [
   ...EMPRESA_POSTS_2,
   ...POSTS_ENSINO_MEDIO_1,
   ...POSTS_ENSINO_MEDIO_2,
+  ...POSTS_ENSINO_MEDIO_3,
 ]
 
 // Posição fixa de cada artigo, por ordem de publicação (mais antigo primeiro; empate de data → slug).
