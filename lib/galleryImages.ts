@@ -169,6 +169,27 @@ export const POST_IMAGE_OVERRIDES: Record<string, GalleryImage> = {
     ...FOTOS_DE_TURMA_IMAGES[2],
     alt: 'Foto oficial da turma de formandos de beca com faixas vermelhas, organizados em fileiras na escadaria',
   },
+  // Lote 3
+  'melhores-empresas-formatura-ensino-medio-sp-2026': {
+    ...FOTOS_DE_TURMA_IMAGES[5],
+    alt: 'Grupo de formandos com roupas pretas acenando de braços erguidos na escadaria de um prédio histórico',
+  },
+  'formatura-9-ano-empresa-fotografia-sp': {
+    ...COLACAO_DE_GRAU_IMAGES[2],
+    alt: 'Formanda de beca e capelo sorrindo, com a mão no capelo, em ensaio fotográfico externo',
+  },
+  'empresa-formatura-faculdade-particular-sp': {
+    ...COLACAO_DE_GRAU_IMAGES[3],
+    alt: 'Formanda de beca e capelo com a mão no capelo, em ensaio fotográfico externo, sob céu azul',
+  },
+  'quanto-custa-formatura-faculdade-sp': {
+    ...COLACAO_DE_GRAU_IMAGES[14],
+    alt: 'Turma de formandos de beca em fileiras na escadaria de um prédio histórico, vista de plano médio',
+  },
+  'formatura-9-ano-escola-particular-guia-comissao': {
+    ...COLACAO_DE_GRAU_IMAGES[8],
+    alt: 'Pequeno grupo de formandos de beca com diplomas nas mãos, posando na escadaria de um prédio histórico',
+  },
 }
 
 // Garantias em tempo de build: sem foto repetida entre artigos e sem colisão com o pool rotativo.
