@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import { BUSINESS } from '@/lib/constants'
+import { abrirWhatsApp } from '@/lib/gtag'
 
 export default function ContactForm() {
   const [form, setForm] = useState({
@@ -30,7 +31,7 @@ Cidade/Bairro: ${form.bairro}
 Mensagem: ${form.mensagem}`
 
     const url = `https://wa.me/${BUSINESS.whatsapp}?text=${encodeURIComponent(text)}`
-    window.open(url, '_blank', 'noopener,noreferrer')
+    abrirWhatsApp(url, 'formulario-orcamento')
   }
 
   const inputClass =
