@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { Inter, Playfair_Display } from 'next/font/google'
-import Script from 'next/script'
+import AnalyticsAdiado from '@/components/AnalyticsAdiado'
 import './globals.css'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
@@ -83,18 +83,7 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
         <WhatsAppFloat />
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-5HLEXW76CD"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-5HLEXW76CD');
-          `}
-        </Script>
+        <AnalyticsAdiado />
       </body>
     </html>
   )
