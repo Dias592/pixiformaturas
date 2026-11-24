@@ -5,7 +5,7 @@ export const SEO_POSTS_1: BlogPost[] = [
     "slug": "fotografo-de-formatura-sp",
     "title": "Fotógrafo de Formatura em SP: Como Escolher o Melhor para Sua Turma",
     "metaTitle": "Fotógrafo de Formatura SP",
-    "metaDescription": "Fotógrafo de formatura SP com cobertura completa: ensaio, cerimônia e álbum digital com reconhecimento facial. Atendemos toda São Paulo. Peça seu...",
+    "metaDescription": "Fotógrafo de formatura SP com cobertura completa: ensaio, cerimônia e álbum digital com reconhecimento facial. Atendemos toda São Paulo. Peça seu orçamento.",
     "category": "Fotógrafo de Formatura",
     "date": "2025-11-08",
     "excerpt": "Fotógrafo de formatura SP é a busca de quem quer registrar a colação de grau, o baile e os ensaios com qualidade profissional. Veja como escolher o ideal.",
@@ -77,7 +77,7 @@ export const SEO_POSTS_1: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "A Pixi Formaturas se diferencia por atender toda a Grande São Paulo com uma equipe própria de fotógrafos especializados, sem terceirizar o trabalho para freelancers desconhecidos. Desde 2015, a empresa já cobriu formaturas de 9º ano, Ensino Médio e colação de grau universitária em escolas e faculdades de regiões como Ipiranga, Saúde, Vila Mariana, Tatuapé e diversas outras áreas da capital."
+        "text": "A Pixi Formaturas se diferencia por atender toda a Grande São Paulo com uma equipe própria de fotógrafos especializados, sem terceirizar o trabalho para freelancers desconhecidos. Desde 2015, a empresa atende formaturas de 9º ano, Ensino Médio e colação de grau universitária em escolas e faculdades de toda a capital, de regiões como Ipiranga, Saúde, Vila Mariana e Tatuapé a diversas outras áreas."
       },
       {
         "type": "p",
@@ -125,7 +125,8 @@ export const SEO_POSTS_1: BlogPost[] = [
         "question": "O álbum digital tem reconhecimento facial?",
         "answer": "Sim, todas as fotos entregues passam por um sistema de reconhecimento facial que organiza o álbum por pessoa, facilitando a busca individual de cada formando dentro da galeria completa do evento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-formatura-sao-paulo",

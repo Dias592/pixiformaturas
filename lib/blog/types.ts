@@ -18,6 +18,8 @@ export interface BlogPost {
   metaDescription: string
   category: string
   date: string
+  /** Data da última atualização relevante do conteúdo (YYYY-MM-DD). Alimenta o lastmod do sitemap e o dateModified do schema. Omitir quando não houve edição depois da publicação. */
+  dateModified?: string
   excerpt: string
   coverAlt: string
   content: ContentBlock[]
