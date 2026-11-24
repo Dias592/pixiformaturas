@@ -35,7 +35,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
   const schema = articleSchema({
     headline: post.title,
     datePublished: post.date,
-    dateModified: post.date,
+    dateModified: post.dateModified ?? post.date,
     url: `${BUSINESS.url}/blog/${post.slug}/`,
   })
 

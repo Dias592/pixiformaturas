@@ -4,13 +4,21 @@ import { BLOG_POSTS } from '@/lib/blogPosts'
 
 const SITE_URL = 'https://www.pixiformaturas.com.br'
 
-// Date the main content was last meaningfully updated
+// Datas reais de atualização (lastmod). NÃO usar new Date(): mudaria a cada build e o Google passaria a ignorar o sitemap.
 const SITE_LAUNCH = new Date('2025-06-01')
-const LAST_BLOG_UPDATE = new Date('2026-02-09') // date of newest blog post
+// Seção "Guias para a comissão" adicionada à home e às landings (commit de 2026-11-09)
+const LANDINGS_UPDATE = new Date('2026-11-09')
+// Calculada a partir dos artigos: a data mais recente entre publicação e atualização de qualquer post
+const LAST_BLOG_UPDATE = new Date(
+  BLOG_POSTS.reduce((max, p) => {
+    const d = p.dateModified ?? p.date
+    return d > max ? d : max
+  }, '2000-01-01'),
+)
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages: MetadataRoute.Sitemap = [
-    { url: `${SITE_URL}/`, lastModified: LAST_BLOG_UPDATE, changeFrequency: 'weekly', priority: 1.0 },
+    { url: `${SITE_URL}/`, lastModified: LANDINGS_UPDATE, changeFrequency: 'weekly', priority: 1.0 },
     { url: `${SITE_URL}/servicos/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${SITE_URL}/portfolio/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${SITE_URL}/sobre/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.8 },
@@ -19,10 +27,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/formatura-sao-paulo/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${SITE_URL}/formatura-grande-sp/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${SITE_URL}/formatura-abc/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.9 },
-    { url: `${SITE_URL}/empresa-de-formatura-sp/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 1.0 },
-    { url: `${SITE_URL}/empresas-de-formatura-ensino-medio/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.9 },
-    { url: `${SITE_URL}/empresas-de-formatura-medicina/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.9 },
-    { url: `${SITE_URL}/empresas-de-formatura-faculdade/`, lastModified: SITE_LAUNCH, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${SITE_URL}/empresa-de-formatura-sp/`, lastModified: LANDINGS_UPDATE, changeFrequency: 'monthly', priority: 1.0 },
+    { url: `${SITE_URL}/empresas-de-formatura-ensino-medio/`, lastModified: LANDINGS_UPDATE, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${SITE_URL}/empresas-de-formatura-medicina/`, lastModified: LANDINGS_UPDATE, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${SITE_URL}/empresas-de-formatura-faculdade/`, lastModified: LANDINGS_UPDATE, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${SITE_URL}/blog/`, lastModified: LAST_BLOG_UPDATE, changeFrequency: 'weekly', priority: 0.7 },
     { url: `${SITE_URL}/politica-de-privacidade/`, lastModified: SITE_LAUNCH, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${SITE_URL}/termos-de-uso/`, lastModified: SITE_LAUNCH, changeFrequency: 'yearly', priority: 0.3 },
@@ -38,7 +46,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const blogPages: MetadataRoute.Sitemap = BLOG_POSTS.map((post) => ({
     url: `${SITE_URL}/blog/${post.slug}/`,
-    lastModified: new Date(post.date),
+    lastModified: new Date(post.dateModified ?? post.date),
     changeFrequency: 'monthly',
     priority: 0.6,
   }))

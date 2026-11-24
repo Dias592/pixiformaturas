@@ -5,7 +5,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "slug": "fotografo-de-formatura-ipiranga",
     "title": "Fotógrafo de Formatura em Ipiranga, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Ipiranga SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Ipiranga, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Ipiranga, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-01",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Ipiranga e região: cobertura completa, locações e como funciona o orçamento.",
@@ -35,7 +35,7 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Colação de Grau](/servicos/colacao-de-grau/) com cobertura discreta da cerimônia oficial",
           "[Colação Festiva](/servicos/colacao-festiva/) e baile de formatura com registro de cada detalhe",
           "[Jantar de Gala](/servicos/jantar-baile-de-gala/) para turmas que organizam evento à parte",
-          "[Ensaio Personalizado](/servicos/ensaio-personalizado/) em locações externas próximas ao Ipiranga",
+          "[Ensaio Externo](/servicos/ensaio-externo/) no Museu do Ipiranga (Museu Paulista da USP), no próprio bairro, e [Ensaio Personalizado](/servicos/ensaio-personalizado/) em outras locações externas",
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da escola",
           "[Álbum Digital](/servicos/album-digital/) com galeria online entregue em até 30 dias"
         ]
@@ -125,9 +125,10 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "question": "Vocês fazem ensaio externo em locações do Ipiranga?",
-        "answer": "Sim, realizamos ensaios personalizados em parques, praças e locações ao ar livre próximas ao Ipiranga, conforme a disponibilidade do local e a preferência da turma. Basta indicar o local de interesse durante a conversa de orçamento."
+        "answer": "Sim. O Museu do Ipiranga (Museu Paulista da USP) fica no próprio bairro e é uma locação pública e gratuita, com cenário histórico e luz natural, muito procurada para ensaios de formatura. Também realizamos ensaios personalizados em outras locações ao ar livre, conforme a disponibilidade do local e a preferência da turma. Basta indicar o local de interesse durante a conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-saude",
@@ -261,7 +262,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "slug": "fotografo-de-formatura-jabaquara",
     "title": "Fotógrafo de Formatura em Jabaquara, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Jabaquara SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Jabaquara, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Jabaquara, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-05",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Jabaquara e região: cobertura completa, locações e como funciona o orçamento.",
@@ -383,13 +384,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "question": "Vocês fazem ensaio externo em locações do Jabaquara?",
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos ao Jabaquara, de acordo com a preferência da turma. É só indicar o local de interesse durante a conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-santo-amaro",
     "title": "Fotógrafo de Formatura em Santo Amaro, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Santo Amaro SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Santo Amaro, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Santo Amaro, São Paulo. Fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-08",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Santo Amaro e região: cobertura completa, locações e como funciona o orçamento.",
@@ -511,13 +513,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "question": "Vocês fazem ensaio externo em locações de Santo Amaro?",
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Santo Amaro, conforme a preferência da turma. Basta indicar o local desejado na conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-vila-mariana",
     "title": "Fotógrafo de Formatura em Vila Mariana, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Vila Mariana SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Vila Mariana, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento...",
+    "metaDescription": "Fotógrafo de formatura escolar em Vila Mariana, São Paulo. Fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-10",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Vila Mariana e região: cobertura completa, locações e como funciona o orçamento.",
@@ -639,7 +642,8 @@ export const LOCAL_POSTS: BlogPost[] = [
         "question": "Vocês fazem ensaio externo em locações de Vila Mariana?",
         "answer": "Sim, fazemos ensaios personalizados em parques e espaços externos próximos a Vila Mariana, de acordo com a preferência da turma. Basta indicar o local na conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-moema",
@@ -654,7 +658,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Para comissões de formatura de escolas em Moema, a Pixi Formaturas é uma equipe que atua na zona sul de São Paulo desde 2015, com experiência em colégios particulares de alto padrão do bairro e em buffets de eventos próximos ao Museu do Ipiranga."
+        "text": "Para comissões de formatura de escolas em Moema, a Pixi Formaturas é uma equipe que atua na zona sul de São Paulo desde 2015 e atende colégios particulares e públicos do bairro, além de eventos em buffets e casas de festa da região."
       },
       {
         "type": "p",
@@ -675,7 +679,7 @@ export const LOCAL_POSTS: BlogPost[] = [
           "[Colação de Grau](/servicos/colacao-de-grau/) com cobertura discreta do protocolo oficial",
           "[Colação Festiva](/servicos/colacao-festiva/) e baile de gala em casas de eventos da região",
           "[Jantar de Gala](/servicos/jantar-baile-de-gala/) com registro completo da celebração",
-          "[Ensaio Externo](/servicos/ensaio-externo/) no Museu do Ipiranga e arredores de Moema",
+          "[Ensaio Externo](/servicos/ensaio-externo/) no Museu do Ipiranga ou em outras locações combinadas com a turma",
           "[Photo Day Exclusivo](/servicos/photo-day/) com estúdio montado dentro da escola",
           "[Álbum Digital](/servicos/album-digital/) com entrega em até 30 dias"
         ]
@@ -765,15 +769,16 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "question": "Vocês fazem ensaio externo em locações de Moema?",
-        "answer": "Sim, fazemos ensaios externos no Museu do Ipiranga, próximo a Moema, além de ensaios personalizados em outras locações conforme a preferência da turma. Basta indicar a preferência na conversa de orçamento."
+        "answer": "Sim, fazemos ensaios externos no Museu do Ipiranga, uma das locações mais procuradas pelas turmas da zona sul, além de ensaios personalizados em outras locações conforme a preferência da turma. Basta indicar a preferência na conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-brooklin",
     "title": "Fotógrafo de Formatura em Brooklin, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Brooklin SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Brooklin, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Brooklin, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-15",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Brooklin e região: cobertura completa, locações e como funciona o orçamento.",
@@ -895,13 +900,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "question": "Vocês fazem ensaio externo em locações do Brooklin?",
         "answer": "Sim, fazemos ensaios personalizados em parques e espaços externos próximos ao Brooklin, conforme a preferência da turma. Basta indicar o local na conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-campo-limpo",
     "title": "Fotógrafo de Formatura em Campo Limpo, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Campo Limpo SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Campo Limpo, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Campo Limpo, São Paulo. Fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-17",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Campo Limpo e região: cobertura completa, locações e como funciona o orçamento.",
@@ -914,7 +920,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O Campo Limpo tem um forte número de escolas estaduais e municipais, e a Pixi conhece bem a rotina dessas instituições: alinhamos horários com a direção da escola, respeitamos o calendário letivo e levamos toda a estrutura de fotografia até o local, sem custo adicional de deslocamento para a comissão."
+        "text": "O Campo Limpo tem um forte número de escolas estaduais e municipais, e a Pixi se adapta à rotina dessas instituições: alinhamos horários com a direção da escola, respeitamos o calendário letivo e levamos toda a estrutura de fotografia até o local."
       },
       {
         "type": "h2",
@@ -1013,7 +1019,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "faq": [
       {
         "question": "Vocês atendem escolas no Campo Limpo?",
-        "answer": "Sim, atendemos escolas públicas e particulares no Campo Limpo e bairros próximos, como Santo Amaro e Jabaquara. A equipe leva toda a estrutura até a escola sem custo adicional de deslocamento."
+        "answer": "Sim, atendemos escolas públicas e particulares no Campo Limpo e bairros próximos, como Santo Amaro e Jabaquara. A equipe leva toda a estrutura até a escola."
       },
       {
         "question": "Com quanto tempo de antecedência devo contratar para formatura no Campo Limpo?",
@@ -1023,13 +1029,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "question": "Vocês fazem ensaio externo em locações do Campo Limpo?",
         "answer": "Sim, fazemos ensaios personalizados em parques e espaços externos próximos ao Campo Limpo, conforme a preferência da turma. Basta indicar o local de interesse durante a conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-santana",
     "title": "Fotógrafo de Formatura em Santana, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Santana SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Santana, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Santana, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-19",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Santana e região: cobertura completa, locações e como funciona o orçamento.",
@@ -1151,13 +1158,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "question": "Vocês fazem ensaio externo em locações de Santana?",
         "answer": "Sim, fazemos ensaios personalizados no Parque da Juventude e em outras locações externas próximas a Santana, conforme a preferência da turma. Basta indicar o local na conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-tucuruvi",
     "title": "Fotógrafo de Formatura em Tucuruvi, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Tucuruvi SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Tucuruvi, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Tucuruvi, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-22",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Tucuruvi e região: cobertura completa, locações e como funciona o orçamento.",
@@ -1279,13 +1287,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "question": "Vocês fazem ensaio externo em locações de Tucuruvi?",
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Tucuruvi, conforme a preferência da turma. Basta indicar o local de interesse durante a conversa de orçamento."
       }
-    ]
+    ],
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-casa-verde",
     "title": "Fotógrafo de Formatura em Casa Verde, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Casa Verde SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Casa Verde, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Casa Verde, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-24",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Casa Verde e região: cobertura completa, locações e como funciona o orçamento.",
@@ -1341,7 +1350,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Esse é o pacote mais completo: fotos de turma, colação de grau, ensaio externo e baile de formatura. Em Casa Verde já cobrimos colações realizadas em igrejas do bairro e festas em buffets das proximidades, sempre adaptando o cronograma da equipe ao roteiro da comissão."
+        "text": "Esse é o pacote mais completo: fotos de turma, colação de grau, ensaio externo e baile de formatura. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Casa Verde e região, adaptamos sempre o cronograma da equipe ao roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -1407,13 +1416,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços próximos a Casa Verde, como o Parque da Juventude. Avaliamos junto com a turma a melhor locação de acordo com o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-pirituba",
     "title": "Fotógrafo de Formatura em Pirituba, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Pirituba SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Pirituba, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Pirituba, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-26",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Pirituba e região: cobertura completa, locações e como funciona o orçamento.",
@@ -1425,7 +1435,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Diferente de fotógrafos avulsos, trabalhamos com equipe própria e equipamento completo, o que significa zero dependência de terceiros no dia do evento. Em Pirituba, já fotografamos turmas de escolas que também recebem alunos de Santana, Tucuruvi, Casa Verde, Mandaqui e Jaçanã, então conhecemos bem a logística e os principais espaços de festa do entorno."
+        "text": "Diferente de fotógrafos avulsos, trabalhamos com equipe própria e equipamento completo, o que significa zero dependência de terceiros no dia do evento. Em Pirituba, atendemos escolas e também turmas de bairros próximos, como Santana, Tucuruvi, Casa Verde, Mandaqui e Jaçanã, e planejamos a logística e os espaços de festa do entorno junto com a comissão."
       },
       {
         "type": "h2",
@@ -1469,7 +1479,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "É a formatura mais aguardada e costuma envolver vários eventos: fotos de turma, colação de grau, ensaio externo e baile. Já cobrimos colações realizadas em igrejas próximas à Praça Padre Aleixo Monteiro Mafra e festas em salões de Pirituba e bairros vizinhos."
+        "text": "É a formatura mais aguardada e costuma envolver vários eventos: fotos de turma, colação de grau, ensaio externo e baile. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Pirituba e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -1535,13 +1545,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços ao ar livre próximos a Pirituba. A escolha da locação é feita junto com a turma, conforme o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-mandaqui",
     "title": "Fotógrafo de Formatura em Mandaqui, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Mandaqui SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Mandaqui, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Mandaqui, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-09-29",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Mandaqui e região: cobertura completa, locações e como funciona o orçamento.",
@@ -1549,7 +1560,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Famílias e comissões de formatura em Mandaqui costumam buscar um fotógrafo que conheça o ritmo de uma cerimônia escolar e que esteja disponível para os vários eventos da temporada de formatura. A Pixi Formaturas atua na região desde 2015 e já cobriu fotos de turma, colações de grau e bailes de gala em escolas de Mandaqui e bairros vizinhos."
+        "text": "Famílias e comissões de formatura em Mandaqui costumam buscar um fotógrafo que conheça o ritmo de uma cerimônia escolar e que esteja disponível para os vários eventos da temporada de formatura. A Pixi Formaturas atua na região desde 2015 e atende escolas de Mandaqui e bairros vizinhos com fotos de turma, colações de grau e bailes de gala."
       },
       {
         "type": "p",
@@ -1597,7 +1608,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O pacote completo do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e festa de formatura. Em Mandaqui, já cobrimos cerimônias em igrejas locais e festas em buffets da região, sempre seguindo o roteiro definido pela comissão."
+        "text": "O pacote completo do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e festa de formatura. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Mandaqui e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -1663,7 +1674,8 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Mandaqui. A locação é definida em conjunto com a turma, conforme o estilo desejado para as fotos."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-penha",
@@ -1677,11 +1689,11 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Quem está procurando fotógrafo de formatura em Penha geralmente quer uma equipe que entenda tanto de fotografia escolar quanto da logística de cerimônias em igrejas e salões de festa da Zona Leste. A Pixi Formaturas atua desde 2015 e já cobriu formaturas de escolas de Penha, com fotos de turma, colação de grau e bailes de gala registrados com a mesma equipe do início ao fim."
+        "text": "Quem está procurando fotógrafo de formatura em Penha geralmente quer uma equipe que entenda tanto de fotografia escolar quanto da logística de cerimônias em igrejas e salões de festa da Zona Leste. A Pixi Formaturas atua desde 2015 e atende formaturas de escolas de Penha, com fotos de turma, colação de grau e bailes de gala registrados com a mesma equipe do início ao fim."
       },
       {
         "type": "p",
-        "text": "Nosso diferencial em Penha é a estrutura própria: levamos câmeras, lentes e iluminação até a escola ou o salão, sem depender de terceirizados. Já atendemos turmas de Mooca, Tatuapé, Vila Prudente, Itaquera e Sapopemba, então conhecemos bem os principais espaços de eventos e igrejas da região para planejar a cobertura com antecedência."
+        "text": "Nosso diferencial em Penha é a estrutura própria: levamos câmeras, lentes e iluminação até a escola ou o salão, sem depender de terceirizados. Também atendemos turmas de Mooca, Tatuapé, Vila Prudente, Itaquera e Sapopemba, e planejamos a cobertura com antecedência, junto à comissão."
       },
       {
         "type": "h2",
@@ -1725,7 +1737,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O Ensino Médio costuma envolver um pacote mais completo: fotos de turma, colação de grau, ensaio externo e baile. Em Penha, já cobrimos colações em igrejas tradicionais do bairro e festas em salões próximos ao Largo do Rosário."
+        "text": "O Ensino Médio costuma envolver um pacote mais completo: fotos de turma, colação de grau, ensaio externo e baile. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Penha e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -1791,7 +1803,8 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Penha, escolhidos junto com a turma conforme o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-mooca",
@@ -1805,7 +1818,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Para quem busca um fotógrafo de formatura em Mooca, a primeira pergunta costuma ser: a equipe conhece a região e tem experiência com cerimônias de colação de grau? A resposta da Pixi Formaturas é sim — atuamos desde 2015 e já cobrimos formaturas de escolas e faculdades em Mooca, do tradicional bairro italiano da Zona Leste, com fotos de turma, colação de grau e festas de formatura."
+        "text": "Para quem busca um fotógrafo de formatura em Mooca, a primeira pergunta costuma ser: a equipe conhece a região e tem experiência com cerimônias de colação de grau? A resposta da Pixi Formaturas é sim — atuamos desde 2015 e atendemos formaturas de escolas e faculdades em Mooca, do tradicional bairro italiano da Zona Leste, com fotos de turma, colação de grau e festas de formatura."
       },
       {
         "type": "p",
@@ -1853,7 +1866,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O pacote do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Em Mooca, já cobrimos colações realizadas em igrejas tradicionais do bairro, conhecidas por sua arquitetura e forte presença da colônia italiana, e festas em buffets da região."
+        "text": "O pacote do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Mooca e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -1919,13 +1932,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Mooca, definidos junto com a turma de acordo com o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-tatuape",
     "title": "Fotógrafo de Formatura em Tatuapé, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Tatuapé SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Tatuapé, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Tatuapé, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-06",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Tatuapé e região: cobertura completa, locações e como funciona o orçamento.",
@@ -1933,7 +1947,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Tatuapé é um dos bairros da Zona Leste com mais opções de buffets e espaços de eventos, e por isso muitas comissões de formatura buscam um fotógrafo que já conheça a rotina desses locais. A Pixi Formaturas atua desde 2015 e já cobriu formaturas de escolas de Tatuapé, com fotos de turma, colação de grau e bailes registrados com equipe própria do início ao fim."
+        "text": "Tatuapé é um dos bairros da Zona Leste com mais opções de buffets e espaços de eventos, e por isso muitas comissões de formatura buscam um fotógrafo que já conheça a rotina desses locais. A Pixi Formaturas atua desde 2015 e atende formaturas de escolas de Tatuapé, com fotos de turma, colação de grau e bailes registrados com equipe própria do início ao fim."
       },
       {
         "type": "p",
@@ -1981,7 +1995,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O pacote completo do Ensino Médio inclui fotos de turma, colação de grau, ensaio externo e baile de formatura. Em Tatuapé, já cobrimos colações em igrejas próximas à Praça Sílvio Romero e festas em buffets tradicionais da região."
+        "text": "O pacote completo do Ensino Médio inclui fotos de turma, colação de grau, ensaio externo e baile de formatura. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Tatuapé e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -2047,13 +2061,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Tatuapé, escolhidos junto com a turma conforme o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-vila-prudente",
     "title": "Fotógrafo de Formatura em Vila Prudente, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Vila Prudente SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Vila Prudente, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento...",
+    "metaDescription": "Fotógrafo de formatura escolar em Vila Prudente, São Paulo. Fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-08",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Vila Prudente e região: cobertura completa, locações e como funciona o orçamento.",
@@ -2109,7 +2124,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O pacote do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Em Vila Prudente, já cobrimos colações em igrejas próximas ao Parque do Ipiranga e festas em salões da região."
+        "text": "O pacote do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Vila Prudente e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -2175,13 +2190,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Vila Prudente, escolhidos junto com a turma de acordo com o estilo desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-itaquera",
     "title": "Fotógrafo de Formatura em Itaquera, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Itaquera SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Itaquera, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Itaquera, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-10",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Itaquera e região: cobertura completa, locações e como funciona o orçamento.",
@@ -2189,7 +2205,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Itaquera é um dos bairros mais populosos da Zona Leste, com muitas escolas públicas e particulares organizando formaturas todos os anos. Quem procura um fotógrafo de formatura em Itaquera quer uma equipe que consiga atender turmas grandes com agilidade. A Pixi Formaturas atua desde 2015 e já cobriu fotos de turma, colações de grau e bailes em escolas de Itaquera e região."
+        "text": "Itaquera é um dos bairros mais populosos da Zona Leste, com muitas escolas públicas e particulares organizando formaturas todos os anos. Quem procura um fotógrafo de formatura em Itaquera quer uma equipe que consiga atender turmas grandes com agilidade. A Pixi Formaturas atua desde 2015 e atende escolas de Itaquera e região com fotos de turma, colações de grau e bailes."
       },
       {
         "type": "p",
@@ -2237,7 +2253,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O pacote completo do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Em Itaquera, já cobrimos colações em igrejas da região e festas em salões próximos ao Parque do Carmo."
+        "text": "O pacote completo do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Itaquera e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -2303,13 +2319,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Itaquera, como o Parque do Carmo, escolhidos junto com a turma."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-sapopemba",
     "title": "Fotógrafo de Formatura em Sapopemba, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Sapopemba SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Sapopemba, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Sapopemba, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-13",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Sapopemba e região: cobertura completa, locações e como funciona o orçamento.",
@@ -2317,7 +2334,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Quem procura fotógrafo de formatura em Sapopemba normalmente está organizando a fotografia de uma turma de escola pública ou particular do bairro e quer uma equipe confiável, que se desloque até o local sem complicação. A Pixi Formaturas atua desde 2015 e já cobriu fotos de turma, colações de grau e festas de formatura em escolas de Sapopemba e região."
+        "text": "Quem procura fotógrafo de formatura em Sapopemba normalmente está organizando a fotografia de uma turma de escola pública ou particular do bairro e quer uma equipe confiável, que se desloque até o local sem complicação. A Pixi Formaturas atua desde 2015 e atende escolas de Sapopemba e região com fotos de turma, colações de grau e festas de formatura."
       },
       {
         "type": "p",
@@ -2365,7 +2382,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O pacote do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile de formatura. Em Sapopemba, já cobrimos colações em igrejas locais e festas em salões da região e bairros vizinhos."
+        "text": "O pacote do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile de formatura. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Sapopemba e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -2431,7 +2448,8 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos a Sapopemba, escolhidos junto com a turma conforme o estilo desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-lapa",
@@ -2445,7 +2463,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Na Lapa, bairro tradicional da Zona Oeste com muitas escolas e faculdades, é comum que a comissão de formatura comece a pesquisar fotógrafo com bastante antecedência, já que a agenda de eventos costuma ser concorrida. A Pixi Formaturas atua desde 2015 e já cobriu formaturas de escolas e faculdades da Lapa, com fotos de turma, colação de grau e bailes de gala."
+        "text": "Na Lapa, bairro tradicional da Zona Oeste com muitas escolas e faculdades, é comum que a comissão de formatura comece a pesquisar fotógrafo com bastante antecedência, já que a agenda de eventos costuma ser concorrida. A Pixi Formaturas atua desde 2015 e atende formaturas de escolas e faculdades da Lapa, com fotos de turma, colação de grau e bailes de gala."
       },
       {
         "type": "p",
@@ -2493,7 +2511,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O pacote completo do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Na Lapa, já cobrimos colações em igrejas próximas ao Largo da Lapa e festas em buffets e salões da região."
+        "text": "O pacote completo do Ensino Médio costuma incluir fotos de turma, colação de grau, ensaio externo e baile. Para colações em igrejas, auditórios e teatros e festas em buffets e salões de Lapa e região, seguimos sempre o roteiro definido pela comissão."
       },
       {
         "type": "h3",
@@ -2559,13 +2577,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios personalizados em parques e espaços externos próximos à Lapa, escolhidos junto com a turma conforme o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-pinheiros",
     "title": "Fotógrafo de Formatura em Pinheiros, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Pinheiros SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Pinheiros, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Pinheiros, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-17",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Pinheiros e região: cobertura completa, locações e como funciona o orçamento.",
@@ -2577,7 +2596,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "O que diferencia a Pixi de um fotógrafo genérico é a experiência acumulada em centenas de eventos em Pinheiros: conhecemos a logística dos colégios da região, os horários de cerimônia, os espaços disponíveis para ensaios e como produzir fotos de qualidade mesmo em auditórios com pouca luz. Levamos toda a estrutura de equipamentos até o local, sem pedir que a escola ou a comissão se desloquem até um estúdio externo, e organizamos a chegada da equipe com folga para evitar qualquer correria de última hora."
+        "text": "O que diferencia a Pixi de um fotógrafo genérico é a especialização em fotografia escolar: planejamos a logística com a escola, alinhamos os horários de cerimônia, definimos os espaços para ensaios e sabemos produzir fotos de qualidade mesmo em auditórios com pouca luz. Levamos toda a estrutura de equipamentos até o local, sem pedir que a escola ou a comissão se desloquem até um estúdio externo, e organizamos a chegada da equipe com folga para evitar qualquer correria de última hora."
       },
       {
         "type": "h2",
@@ -2629,7 +2648,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Para faculdades e universidades da região, a colação de grau exige discrição e domínio do protocolo acadêmico. A Pixi já cobriu colações em instituições de ensino superior próximas a Pinheiros, posicionando a equipe de forma estratégica para não interferir na cerimônia e ainda assim capturar os momentos-chave de cada formando, como a entrega do diploma e o aperto de mão com a coordenação."
+        "text": "Para faculdades e universidades da região, a colação de grau exige discrição e domínio do protocolo acadêmico. Nas colações em instituições de ensino superior próximas a Pinheiros, a Pixi posiciona a equipe de forma estratégica para não interferir na cerimônia e ainda assim capturar os momentos-chave de cada formando, como a entrega do diploma e o aperto de mão com a coordenação."
       },
       {
         "type": "h2",
@@ -2695,13 +2714,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, fazemos ensaios externos personalizados em parques, praças e pontos com boa luz natural na região de Pinheiros e bairros próximos. A escolha da locação é combinada previamente com a turma para refletir o estilo que os formandos desejam."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-butanta",
     "title": "Fotógrafo de Formatura em Butantã, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Butantã SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Butantã, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Butantã, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-20",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Butantã e região: cobertura completa, locações e como funciona o orçamento.",
@@ -2709,7 +2729,7 @@ export const LOCAL_POSTS: BlogPost[] = [
     "content": [
       {
         "type": "p",
-        "text": "Quem procura um fotógrafo de formatura no Butantã geralmente está lidando com dois cenários diferentes: a formatura de uma escola de Ensino Fundamental ou Médio do bairro, ou a colação de grau de uma das universidades da região, conhecida por concentrar diversos campi. A Pixi Formaturas atua no Butantã desde 2015 e já cobriu desde cerimônias simples em colégios de bairro até colações de grau em auditórios universitários movimentados."
+        "text": "Quem procura um fotógrafo de formatura no Butantã geralmente está lidando com dois cenários diferentes: a formatura de uma escola de Ensino Fundamental ou Médio do bairro, ou a colação de grau de uma das universidades da região, conhecida por concentrar diversos campi. A Pixi Formaturas atua no Butantã desde 2015 e atende desde cerimônias simples em colégios de bairro até colações de grau em auditórios universitários."
       },
       {
         "type": "p",
@@ -2765,7 +2785,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "A colação de grau universitária no Butantã exige atenção redobrada ao protocolo acadêmico, especialmente em cerimônias com grande número de formandos. A Pixi já atendeu colações em instituições de ensino superior da região, posicionando a equipe sem atrapalhar a procissão dos formandos no palco e respeitando os tempos de cada chamada."
+        "text": "A colação de grau universitária no Butantã exige atenção redobrada ao protocolo acadêmico, especialmente em cerimônias com grande número de formandos. Nas colações em instituições de ensino superior da região, a Pixi posiciona a equipe sem atrapalhar a procissão dos formandos no palco e respeita os tempos de cada chamada."
       },
       {
         "type": "h2",
@@ -2831,13 +2851,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, organizamos ensaios externos personalizados em áreas verdes e pontos com boa iluminação natural no Butantã e arredores. A locação é definida em conjunto com a turma, levando em conta o estilo de fotos desejado e a praticidade do deslocamento no dia."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-perdizes",
     "title": "Fotógrafo de Formatura em Perdizes, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Perdizes SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Perdizes, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Perdizes, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-22",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Perdizes e região: cobertura completa, locações e como funciona o orçamento.",
@@ -2901,7 +2922,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Para colações de grau universitárias, a Pixi já atendeu formandos de instituições próximas a Perdizes, sempre com discrição durante a cerimônia oficial. A equipe se posiciona estrategicamente para capturar o momento da entrega do diploma sem interferir no protocolo da mesa de honra."
+        "text": "Para colações de grau universitárias, a Pixi atende formandos de instituições próximas a Perdizes, sempre com discrição durante a cerimônia oficial. A equipe se posiciona estrategicamente para capturar o momento da entrega do diploma sem interferir no protocolo da mesa de honra."
       },
       {
         "type": "h2",
@@ -2967,13 +2988,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios externos personalizados em parques e espaços com boa luz natural em Perdizes e arredores. A locação é combinada previamente para garantir que o estilo das fotos combine com a proposta da turma."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-itaim-bibi",
     "title": "Fotógrafo de Formatura em Itaim Bibi, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Itaim Bibi SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Itaim Bibi, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Itaim Bibi, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-24",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Itaim Bibi e região: cobertura completa, locações e como funciona o orçamento.",
@@ -2985,7 +3007,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "A Pixi conhece bem a rotina de eventos do Itaim Bibi: já cobrimos colações de grau em instituições da região e bailes de formatura em espaços de festa renomados nas imediações. Essa experiência permite à equipe se adaptar rapidamente às exigências de cada local, seja um auditório de escola simples, seja um salão de festas com iluminação cênica e protocolo mais formal."
+        "text": "A Pixi acompanha a rotina de eventos do Itaim Bibi com uma equipe acostumada a colações de grau e bailes de formatura em diferentes tipos de espaço. Essa experiência permite à equipe se adaptar rapidamente às exigências de cada local, seja um auditório de escola simples, seja um salão de festas com iluminação cênica e protocolo mais formal."
       },
       {
         "type": "h2",
@@ -3103,7 +3125,8 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, organizamos ensaios externos personalizados em parques e áreas verdes próximas ao Itaim Bibi, como o Parque do Povo. A locação é escolhida em conjunto com a turma de acordo com o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-se",
@@ -3173,7 +3196,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "A região da Sé concentra diversas faculdades tradicionais, e a Pixi já cobriu colações de grau em auditórios históricos do Centro. A equipe trabalha com discrição durante toda a cerimônia oficial, respeitando o protocolo acadêmico de cada instituição."
+        "text": "A região da Sé concentra diversas faculdades tradicionais, e a Pixi atende colações de grau em auditórios e teatros do Centro. A equipe trabalha com discrição durante toda a cerimônia oficial, respeitando o protocolo acadêmico de cada instituição."
       },
       {
         "type": "h2",
@@ -3239,13 +3262,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, é possível realizar ensaios externos em pontos históricos e icônicos da região central, como praças e edifícios emblemáticos. A escolha da locação é combinada previamente com a turma, considerando segurança e o horário mais adequado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-liberdade",
     "title": "Fotógrafo de Formatura em Liberdade, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Liberdade SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Liberdade, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Liberdade, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-29",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Liberdade e região: cobertura completa, locações e como funciona o orçamento.",
@@ -3375,13 +3399,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, organizamos ensaios externos em pontos característicos da Liberdade e do Centro, como praças e ruas com identidade visual marcante. A locação é definida junto com a turma conforme o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-guarulhos",
     "title": "Fotógrafo de Formatura em Guarulhos, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Guarulhos SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Guarulhos, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Guarulhos, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-10-31",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Guarulhos e região: cobertura completa, locações e como funciona o orçamento.",
@@ -3445,7 +3470,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Guarulhos também conta com instituições de ensino superior que realizam colação de grau formal. A Pixi já cobriu cerimônias acadêmicas na região, sempre respeitando o protocolo oficial e posicionando a equipe de forma discreta durante a entrega de diplomas."
+        "text": "Guarulhos também conta com instituições de ensino superior que realizam colação de grau formal. A Pixi atende cerimônias acadêmicas na região, sempre respeitando o protocolo oficial e posicionando a equipe de forma discreta durante a entrega de diplomas."
       },
       {
         "type": "h2",
@@ -3511,13 +3536,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios externos personalizados em parques e espaços com boa iluminação natural em Guarulhos e cidades próximas. A locação é combinada previamente com a turma conforme o estilo desejado para as fotos."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-osasco",
     "title": "Fotógrafo de Formatura em Osasco, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Osasco SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Osasco, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Osasco, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-11-03",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Osasco e região: cobertura completa, locações e como funciona o orçamento.",
@@ -3647,13 +3673,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, organizamos ensaios externos personalizados em parques e áreas com boa luz natural em Osasco e arredores. A locação é definida em conjunto com a turma conforme o estilo de fotos pretendido."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-santo-andre",
     "title": "Fotógrafo de Formatura em Santo André, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em Santo André SP",
-    "metaDescription": "Fotógrafo de formatura escolar em Santo André, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo...",
+    "metaDescription": "Fotógrafo de formatura escolar em Santo André, São Paulo. Fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-11-05",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em Santo André e região: cobertura completa, locações e como funciona o orçamento.",
@@ -3717,7 +3744,7 @@ export const LOCAL_POSTS: BlogPost[] = [
       },
       {
         "type": "p",
-        "text": "Santo André conta com instituições de ensino superior que realizam colações de grau formais. A Pixi já cobriu cerimônias acadêmicas na cidade, sempre com discrição durante o protocolo oficial de entrega de diplomas."
+        "text": "Santo André conta com instituições de ensino superior que realizam colações de grau formais. A Pixi atende cerimônias acadêmicas na cidade, sempre com discrição durante o protocolo oficial de entrega de diplomas."
       },
       {
         "type": "h2",
@@ -3783,13 +3810,14 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, realizamos ensaios externos personalizados em parques e áreas verdes de Santo André e região. A escolha da locação é combinada com a turma conforme o estilo de fotos desejado."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   },
   {
     "slug": "fotografo-de-formatura-sao-bernardo-do-campo",
     "title": "Fotógrafo de Formatura em São Bernardo do Campo, São Paulo",
     "metaTitle": "Fotógrafo de Formatura em São Bernardo do Campo SP",
-    "metaDescription": "Fotógrafo de formatura escolar em São Bernardo do Campo, São Paulo. Cobertura de fotos de turma, colação de grau, ensaio externo e baile. Peça seu...",
+    "metaDescription": "Fotógrafo de formatura escolar em São Bernardo do Campo, São Paulo. Fotos de turma, colação de grau, ensaio externo e baile. Peça seu orçamento pelo WhatsApp.",
     "category": "Fotógrafo por Região",
     "date": "2025-11-07",
     "excerpt": "Tudo o que sua turma precisa saber para contratar um fotógrafo de formatura em São Bernardo do Campo e região: cobertura completa, locações e como funciona o orçamento.",
@@ -3919,6 +3947,7 @@ export const LOCAL_POSTS: BlogPost[] = [
         "answer": "Sim, organizamos ensaios externos personalizados em parques e espaços com boa luz natural em São Bernardo do Campo e região. A locação é definida junto com a turma conforme o estilo de fotos pretendido."
       }
     ],
-    "relatedService": "fotos-de-turma"
+    "relatedService": "fotos-de-turma",
+    "dateModified": "2026-11-23"
   }
 ]
